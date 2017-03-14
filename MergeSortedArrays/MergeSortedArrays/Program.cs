@@ -40,10 +40,14 @@ namespace MergeSortedArrays
             var curs1 = 0;
             var curs2 = 0;
 
+            // add to the new items.
             for (int i = 0; i < nlen; i++)
             {
+                // still have some numbers in either array
                 if (curs1 < arrie1.Length && curs2 < arrie2.Length)
                 {
+                    // if else if whichever is lower gets placed next
+                    // and it's cursor incremented.
                     if (arrie1[curs1] > arrie2[curs2])
                     {
                         arrie3[i] = arrie2[curs2];
@@ -54,6 +58,7 @@ namespace MergeSortedArrays
                         arrie3[i] = arrie1[curs1];
                         curs1++;
                     }
+                    // both are equal
                     else
                     {
                         arrie3[i] = arrie1[curs1];
@@ -63,8 +68,10 @@ namespace MergeSortedArrays
                         curs2++;
                     }
                 }
+                // only one number left
                 else
                 {
+                    // check if it's the first, else in the second
                     if (curs1 < arrie1.Length)
                     {
                         arrie3[i] = arrie1[curs1];
