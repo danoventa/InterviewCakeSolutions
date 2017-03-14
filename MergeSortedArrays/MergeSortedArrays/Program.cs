@@ -39,7 +39,7 @@ namespace MergeSortedArrays
             var arrie3 = new int[nlen];
             var curs1 = 0;
             var curs2 = 0;
-            int endi;
+
             for (int i = 0; i < nlen; i++)
             {
                 if (curs1 < arrie1.Length && curs2 < arrie2.Length)
