@@ -15,31 +15,38 @@
       <file leaf-file-name="Program.cs" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/MergeSortedArrays/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="735">
-              <caret line="49" column="51" lean-forward="false" selection-start-line="49" selection-start-column="51" selection-end-line="49" selection-end-column="51" />
+            <state relative-caret-position="249">
+              <caret line="47" column="13" lean-forward="true" selection-start-line="47" selection-start-column="13" selection-end-line="47" selection-end-column="13" />
               <folding>
-                <marker date="1489496294000" expanded="true" signature="6:136" ph="..." />
-                <marker date="1489496294000" expanded="true" signature="165:3592" ph="{...}" />
-                <marker date="1489496294000" expanded="true" signature="194:3590" ph="{...}" />
-                <marker date="1489496294000" expanded="true" signature="247:708" ph="{...}" />
-                <marker date="1489496294000" expanded="true" signature="566:620" ph="/* PrintArray(first); ... */" />
-                <marker date="1489496294000" expanded="true" signature="825:1059" ph="{...}" />
-                <marker date="1489496294000" expanded="true" signature="1192:2889" ph="{...}" />
-                <marker date="1489496294000" expanded="true" signature="1431:2852" ph="{...}" />
-                <marker date="1489496294000" expanded="true" signature="1572:2412" ph="{...}" />
-                <marker date="1489496294000" expanded="true" signature="1611:1712" ph="/* if else if whichever is lower gets placed next ... */" />
-                <marker date="1489496294000" expanded="true" signature="1767:1895" ph="{...}" />
-                <marker date="1489496294000" expanded="true" signature="1955:2083" ph="{...}" />
-                <marker date="1489496294000" expanded="true" signature="2146:2394" ph="{...}" />
-                <marker date="1489496294000" expanded="true" signature="2473:2838" ph="{...}" />
-                <marker date="1489496294000" expanded="true" signature="2605:2700" ph="{...}" />
-                <marker date="1489496294000" expanded="true" signature="2725:2820" ph="{...}" />
-                <marker date="1489496294000" expanded="true" signature="3020:3364" ph="{...}" />
-                <marker date="1489496294000" expanded="true" signature="3078:3136" ph="{...}" />
-                <marker date="1489496294000" expanded="true" signature="3187:3329" ph="{...}" />
-                <marker date="1489496294000" expanded="true" signature="3245:3315" ph="{...}" />
-                <marker date="1489496294000" expanded="true" signature="3444:3584" ph="{...}" />
-                <marker date="1489496294000" expanded="true" signature="3490:3574" ph="{...}" />
+                <marker date="1489501234000" expanded="true" signature="6:154" ph="..." />
+                <marker date="1489501234000" expanded="true" signature="183:4926" ph="{...}" />
+                <marker date="1489501234000" expanded="true" signature="212:4924" ph="{...}" />
+                <marker date="1489501234000" expanded="true" signature="265:726" ph="{...}" />
+                <marker date="1489501234000" expanded="true" signature="584:638" ph="/* PrintArray(first); ... */" />
+                <marker date="1489501234000" expanded="true" signature="843:1077" ph="{...}" />
+                <marker date="1489501234000" expanded="true" signature="1189:1774" ph="{...}" />
+                <marker date="1489501234000" expanded="true" signature="1373:1483" ph="{...}" />
+                <marker date="1489501234000" expanded="true" signature="1543:1730" ph="{...}" />
+                <marker date="1489501234000" expanded="true" signature="1679:1716" ph="{...}" />
+                <marker date="1489501234000" expanded="true" signature="1784:1923" ph="/* check the next set of numbers, and then return the index of the next number ... */" />
+                <marker date="1489501234000" expanded="true" signature="1980:2392" ph="{...}" />
+                <marker date="1489501234000" expanded="true" signature="2106:2355" ph="{...}" />
+                <marker date="1489501234000" expanded="true" signature="2526:4223" ph="{...}" />
+                <marker date="1489501234000" expanded="true" signature="2765:4186" ph="{...}" />
+                <marker date="1489501234000" expanded="true" signature="2906:3746" ph="{...}" />
+                <marker date="1489501234000" expanded="true" signature="2945:3046" ph="/* if else if whichever is lower gets placed next ... */" />
+                <marker date="1489501234000" expanded="true" signature="3101:3229" ph="{...}" />
+                <marker date="1489501234000" expanded="true" signature="3289:3417" ph="{...}" />
+                <marker date="1489501234000" expanded="true" signature="3480:3728" ph="{...}" />
+                <marker date="1489501234000" expanded="true" signature="3807:4172" ph="{...}" />
+                <marker date="1489501234000" expanded="true" signature="3939:4034" ph="{...}" />
+                <marker date="1489501234000" expanded="true" signature="4059:4154" ph="{...}" />
+                <marker date="1489501234000" expanded="true" signature="4354:4698" ph="{...}" />
+                <marker date="1489501234000" expanded="true" signature="4412:4470" ph="{...}" />
+                <marker date="1489501234000" expanded="true" signature="4521:4663" ph="{...}" />
+                <marker date="1489501234000" expanded="true" signature="4579:4649" ph="{...}" />
+                <marker date="1489501234000" expanded="true" signature="4778:4918" ph="{...}" />
+                <marker date="1489501234000" expanded="true" signature="4824:4908" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -149,12 +156,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1489464281262</updated>
-      <workItem from="1489464283547" duration="3538000" />
+      <workItem from="1489464283547" duration="4798000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3538000" />
+    <option name="totallyTimeSpent" value="4798000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -203,31 +210,38 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/MergeSortedArrays/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="735">
-          <caret line="49" column="51" lean-forward="false" selection-start-line="49" selection-start-column="51" selection-end-line="49" selection-end-column="51" />
+        <state relative-caret-position="249">
+          <caret line="47" column="13" lean-forward="true" selection-start-line="47" selection-start-column="13" selection-end-line="47" selection-end-column="13" />
           <folding>
-            <marker date="1489496294000" expanded="true" signature="6:136" ph="..." />
-            <marker date="1489496294000" expanded="true" signature="165:3592" ph="{...}" />
-            <marker date="1489496294000" expanded="true" signature="194:3590" ph="{...}" />
-            <marker date="1489496294000" expanded="true" signature="247:708" ph="{...}" />
-            <marker date="1489496294000" expanded="true" signature="566:620" ph="/* PrintArray(first); ... */" />
-            <marker date="1489496294000" expanded="true" signature="825:1059" ph="{...}" />
-            <marker date="1489496294000" expanded="true" signature="1192:2889" ph="{...}" />
-            <marker date="1489496294000" expanded="true" signature="1431:2852" ph="{...}" />
-            <marker date="1489496294000" expanded="true" signature="1572:2412" ph="{...}" />
-            <marker date="1489496294000" expanded="true" signature="1611:1712" ph="/* if else if whichever is lower gets placed next ... */" />
-            <marker date="1489496294000" expanded="true" signature="1767:1895" ph="{...}" />
-            <marker date="1489496294000" expanded="true" signature="1955:2083" ph="{...}" />
-            <marker date="1489496294000" expanded="true" signature="2146:2394" ph="{...}" />
-            <marker date="1489496294000" expanded="true" signature="2473:2838" ph="{...}" />
-            <marker date="1489496294000" expanded="true" signature="2605:2700" ph="{...}" />
-            <marker date="1489496294000" expanded="true" signature="2725:2820" ph="{...}" />
-            <marker date="1489496294000" expanded="true" signature="3020:3364" ph="{...}" />
-            <marker date="1489496294000" expanded="true" signature="3078:3136" ph="{...}" />
-            <marker date="1489496294000" expanded="true" signature="3187:3329" ph="{...}" />
-            <marker date="1489496294000" expanded="true" signature="3245:3315" ph="{...}" />
-            <marker date="1489496294000" expanded="true" signature="3444:3584" ph="{...}" />
-            <marker date="1489496294000" expanded="true" signature="3490:3574" ph="{...}" />
+            <marker date="1489501234000" expanded="true" signature="6:154" ph="..." />
+            <marker date="1489501234000" expanded="true" signature="183:4926" ph="{...}" />
+            <marker date="1489501234000" expanded="true" signature="212:4924" ph="{...}" />
+            <marker date="1489501234000" expanded="true" signature="265:726" ph="{...}" />
+            <marker date="1489501234000" expanded="true" signature="584:638" ph="/* PrintArray(first); ... */" />
+            <marker date="1489501234000" expanded="true" signature="843:1077" ph="{...}" />
+            <marker date="1489501234000" expanded="true" signature="1189:1774" ph="{...}" />
+            <marker date="1489501234000" expanded="true" signature="1373:1483" ph="{...}" />
+            <marker date="1489501234000" expanded="true" signature="1543:1730" ph="{...}" />
+            <marker date="1489501234000" expanded="true" signature="1679:1716" ph="{...}" />
+            <marker date="1489501234000" expanded="true" signature="1784:1923" ph="/* check the next set of numbers, and then return the index of the next number ... */" />
+            <marker date="1489501234000" expanded="true" signature="1980:2392" ph="{...}" />
+            <marker date="1489501234000" expanded="true" signature="2106:2355" ph="{...}" />
+            <marker date="1489501234000" expanded="true" signature="2526:4223" ph="{...}" />
+            <marker date="1489501234000" expanded="true" signature="2765:4186" ph="{...}" />
+            <marker date="1489501234000" expanded="true" signature="2906:3746" ph="{...}" />
+            <marker date="1489501234000" expanded="true" signature="2945:3046" ph="/* if else if whichever is lower gets placed next ... */" />
+            <marker date="1489501234000" expanded="true" signature="3101:3229" ph="{...}" />
+            <marker date="1489501234000" expanded="true" signature="3289:3417" ph="{...}" />
+            <marker date="1489501234000" expanded="true" signature="3480:3728" ph="{...}" />
+            <marker date="1489501234000" expanded="true" signature="3807:4172" ph="{...}" />
+            <marker date="1489501234000" expanded="true" signature="3939:4034" ph="{...}" />
+            <marker date="1489501234000" expanded="true" signature="4059:4154" ph="{...}" />
+            <marker date="1489501234000" expanded="true" signature="4354:4698" ph="{...}" />
+            <marker date="1489501234000" expanded="true" signature="4412:4470" ph="{...}" />
+            <marker date="1489501234000" expanded="true" signature="4521:4663" ph="{...}" />
+            <marker date="1489501234000" expanded="true" signature="4579:4649" ph="{...}" />
+            <marker date="1489501234000" expanded="true" signature="4778:4918" ph="{...}" />
+            <marker date="1489501234000" expanded="true" signature="4824:4908" ph="{...}" />
           </folding>
         </state>
       </provider>

@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Net;
 using System.Runtime.ExceptionServices;
 using System.Xml.Xsl.Runtime;
 
@@ -31,6 +32,47 @@ namespace MergeSortedArrays
             Array.Sort(arrie3);
             return arrie3;
         }
+
+        // merge multiple sorted arrays.
+        public static int[] arrayOfSortedArraySort(int[][] manyArray)
+        {
+            var arrayCount = manyArray.Length;
+            var cursors = new int[arrayCount];
+            var totalSize = 0;
+            for (var i = 0; i < arrayCount; i++)
+            {
+                cursors[i] = 0;
+                totalSize += manyArray[i].Length;
+            }
+            for (var index = 0; index < totalSize; index++)
+            {
+                for(var arrIndex = 0; arrIndex < totalSize; arrIndex++)
+                if (j >= manyArray[j][cursor[j]])
+                {
+
+                }
+            }
+
+            return manyArray[0];
+        }
+
+        // check the next set of numbers, and then return the index of the next number
+        // potential issue, if some run out, but not others.
+        public static int indexOfNextMin(int[] nextNums)
+        {
+            var min = nextNums[0];
+            var mindex = 0;
+            for(int i = 0; i < nextNums.Length; i++)
+            {
+                // negative one indicates no number since Id's should not be negative
+                if (nextNums[i] >= min || nextNums[i] == -1) continue;
+
+                min = nextNums[i];
+                mindex = i;
+            }
+            return mindex;
+        }
+
 
         // traversing it in O(n) since it's already sorted.
         public static int[] MergeSortedSorts(int[] arrie1, int[]arrie2)
