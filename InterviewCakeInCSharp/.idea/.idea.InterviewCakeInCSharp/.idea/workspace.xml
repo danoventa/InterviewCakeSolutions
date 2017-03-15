@@ -15,18 +15,19 @@
       <file leaf-file-name="Program.cs" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/URLShortener/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="404">
-              <caret line="27" column="53" lean-forward="true" selection-start-line="27" selection-start-column="53" selection-end-line="27" selection-end-column="53" />
+            <state relative-caret-position="642">
+              <caret line="56" column="41" lean-forward="false" selection-start-line="56" selection-start-column="41" selection-end-line="56" selection-end-column="41" />
               <folding>
-                <marker date="1489587956000" expanded="true" signature="6:85" ph="..." />
-                <marker date="1489587956000" expanded="true" signature="109:982" ph="{...}" />
-                <marker date="1489587956000" expanded="true" signature="138:980" ph="{...}" />
-                <marker date="1489587956000" expanded="true" signature="191:616" ph="{...}" />
-                <marker date="1489587956000" expanded="true" signature="404:478" ph="{...}" />
-                <marker date="1489587956000" expanded="true" signature="495:569" ph="{...}" />
-                <marker date="1489587956000" expanded="true" signature="675:721" ph="{...}" />
-                <marker date="1489587956000" expanded="true" signature="781:827" ph="{...}" />
-                <marker date="1489587956000" expanded="true" signature="837:972" ph="/* modify or delete? ... */" />
+                <marker date="1489603112000" expanded="true" signature="6:152" ph="..." />
+                <marker date="1489603112000" expanded="true" signature="176:2223" ph="{...}" />
+                <marker date="1489603112000" expanded="true" signature="205:2221" ph="{...}" />
+                <marker date="1489603112000" expanded="true" signature="258:1202" ph="{...}" />
+                <marker date="1489603112000" expanded="true" signature="543:1159" ph="{...}" />
+                <marker date="1489603112000" expanded="true" signature="1276:1433" ph="{...}" />
+                <marker date="1489603112000" expanded="true" signature="1325:1423" ph="{...}" />
+                <marker date="1489603112000" expanded="true" signature="1528:1716" ph="{...}" />
+                <marker date="1489603112000" expanded="true" signature="1812:2068" ph="{...}" />
+                <marker date="1489603112000" expanded="true" signature="2078:2213" ph="/* modify or delete? ... */" />
               </folding>
             </state>
           </provider>
@@ -132,12 +133,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1489587124586</updated>
-      <workItem from="1489587125894" duration="826000" />
+      <workItem from="1489587125894" duration="2838000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="826000" />
+    <option name="totallyTimeSpent" value="2838000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -163,7 +164,7 @@
       <window_info id="NuGet" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Change Signature" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24940476" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32901296" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -186,18 +187,19 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/URLShortener/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="404">
-          <caret line="27" column="53" lean-forward="true" selection-start-line="27" selection-start-column="53" selection-end-line="27" selection-end-column="53" />
+        <state relative-caret-position="642">
+          <caret line="56" column="41" lean-forward="false" selection-start-line="56" selection-start-column="41" selection-end-line="56" selection-end-column="41" />
           <folding>
-            <marker date="1489587956000" expanded="true" signature="6:85" ph="..." />
-            <marker date="1489587956000" expanded="true" signature="109:982" ph="{...}" />
-            <marker date="1489587956000" expanded="true" signature="138:980" ph="{...}" />
-            <marker date="1489587956000" expanded="true" signature="191:616" ph="{...}" />
-            <marker date="1489587956000" expanded="true" signature="404:478" ph="{...}" />
-            <marker date="1489587956000" expanded="true" signature="495:569" ph="{...}" />
-            <marker date="1489587956000" expanded="true" signature="675:721" ph="{...}" />
-            <marker date="1489587956000" expanded="true" signature="781:827" ph="{...}" />
-            <marker date="1489587956000" expanded="true" signature="837:972" ph="/* modify or delete? ... */" />
+            <marker date="1489603112000" expanded="true" signature="6:152" ph="..." />
+            <marker date="1489603112000" expanded="true" signature="176:2223" ph="{...}" />
+            <marker date="1489603112000" expanded="true" signature="205:2221" ph="{...}" />
+            <marker date="1489603112000" expanded="true" signature="258:1202" ph="{...}" />
+            <marker date="1489603112000" expanded="true" signature="543:1159" ph="{...}" />
+            <marker date="1489603112000" expanded="true" signature="1276:1433" ph="{...}" />
+            <marker date="1489603112000" expanded="true" signature="1325:1423" ph="{...}" />
+            <marker date="1489603112000" expanded="true" signature="1528:1716" ph="{...}" />
+            <marker date="1489603112000" expanded="true" signature="1812:2068" ph="{...}" />
+            <marker date="1489603112000" expanded="true" signature="2078:2213" ph="/* modify or delete? ... */" />
           </folding>
         </state>
       </provider>
