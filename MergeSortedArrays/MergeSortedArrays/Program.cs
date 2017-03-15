@@ -30,11 +30,11 @@ namespace MergeSortedArrays
 
             PrintArray(first);
             PrintArray(last);
-            Console.WriteLine(Convert.ToString(VerifyArrays(first, last)));
+            Console.WriteLine("Matches expecgted: " + Convert.ToString(VerifyArrays(first, last)));
 
             PrintArray(fast);
             PrintArray(slow);
-            Console.WriteLine(Convert.ToString(VerifyArrays(fast, slow)));
+            Console.WriteLine("Matches expecgted: " + Convert.ToString(VerifyArrays(fast, slow)));
 
         }
 
