@@ -15,38 +15,40 @@
       <file leaf-file-name="Program.cs" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/MergeSortedArrays/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="249">
-              <caret line="47" column="13" lean-forward="true" selection-start-line="47" selection-start-column="13" selection-end-line="47" selection-end-column="13" />
+            <state relative-caret-position="-231">
+              <caret line="27" column="15" lean-forward="false" selection-start-line="27" selection-start-column="15" selection-end-line="27" selection-end-column="15" />
               <folding>
-                <marker date="1489501234000" expanded="true" signature="6:154" ph="..." />
-                <marker date="1489501234000" expanded="true" signature="183:4926" ph="{...}" />
-                <marker date="1489501234000" expanded="true" signature="212:4924" ph="{...}" />
-                <marker date="1489501234000" expanded="true" signature="265:726" ph="{...}" />
-                <marker date="1489501234000" expanded="true" signature="584:638" ph="/* PrintArray(first); ... */" />
-                <marker date="1489501234000" expanded="true" signature="843:1077" ph="{...}" />
-                <marker date="1489501234000" expanded="true" signature="1189:1774" ph="{...}" />
-                <marker date="1489501234000" expanded="true" signature="1373:1483" ph="{...}" />
-                <marker date="1489501234000" expanded="true" signature="1543:1730" ph="{...}" />
-                <marker date="1489501234000" expanded="true" signature="1679:1716" ph="{...}" />
-                <marker date="1489501234000" expanded="true" signature="1784:1923" ph="/* check the next set of numbers, and then return the index of the next number ... */" />
-                <marker date="1489501234000" expanded="true" signature="1980:2392" ph="{...}" />
-                <marker date="1489501234000" expanded="true" signature="2106:2355" ph="{...}" />
-                <marker date="1489501234000" expanded="true" signature="2526:4223" ph="{...}" />
-                <marker date="1489501234000" expanded="true" signature="2765:4186" ph="{...}" />
-                <marker date="1489501234000" expanded="true" signature="2906:3746" ph="{...}" />
-                <marker date="1489501234000" expanded="true" signature="2945:3046" ph="/* if else if whichever is lower gets placed next ... */" />
-                <marker date="1489501234000" expanded="true" signature="3101:3229" ph="{...}" />
-                <marker date="1489501234000" expanded="true" signature="3289:3417" ph="{...}" />
-                <marker date="1489501234000" expanded="true" signature="3480:3728" ph="{...}" />
-                <marker date="1489501234000" expanded="true" signature="3807:4172" ph="{...}" />
-                <marker date="1489501234000" expanded="true" signature="3939:4034" ph="{...}" />
-                <marker date="1489501234000" expanded="true" signature="4059:4154" ph="{...}" />
-                <marker date="1489501234000" expanded="true" signature="4354:4698" ph="{...}" />
-                <marker date="1489501234000" expanded="true" signature="4412:4470" ph="{...}" />
-                <marker date="1489501234000" expanded="true" signature="4521:4663" ph="{...}" />
-                <marker date="1489501234000" expanded="true" signature="4579:4649" ph="{...}" />
-                <marker date="1489501234000" expanded="true" signature="4778:4918" ph="{...}" />
-                <marker date="1489501234000" expanded="true" signature="4824:4908" ph="{...}" />
+                <marker date="1489580098000" expanded="true" signature="6:154" ph="..." />
+                <marker date="1489580098000" expanded="true" signature="183:6132" ph="{...}" />
+                <marker date="1489580098000" expanded="true" signature="212:6130" ph="{...}" />
+                <marker date="1489580098000" expanded="true" signature="265:1048" ph="{...}" />
+                <marker date="1489580098000" expanded="true" signature="798:885" ph="/* PrintArray(first); ... */" />
+                <marker date="1489580098000" expanded="true" signature="1165:1399" ph="{...}" />
+                <marker date="1489580098000" expanded="true" signature="1511:2994" ph="{...}" />
+                <marker date="1489580098000" expanded="true" signature="1695:1805" ph="{...}" />
+                <marker date="1489580098000" expanded="true" signature="1962:2952" ph="{...}" />
+                <marker date="1489580098000" expanded="true" signature="2078:2569" ph="{...}" />
+                <marker date="1489580098000" expanded="true" signature="2160:2253" ph="{...}" />
+                <marker date="1489580098000" expanded="true" signature="2314:2551" ph="{...}" />
+                <marker date="1489580098000" expanded="true" signature="2724:2804" ph="{...}" />
+                <marker date="1489580098000" expanded="true" signature="2825:2938" ph="{...}" />
+                <marker date="1489580098000" expanded="true" signature="3004:3143" ph="/* check the next set of numbers, and then return the index of the next number ... */" />
+                <marker date="1489580098000" expanded="true" signature="3200:3745" ph="{...}" />
+                <marker date="1489580098000" expanded="true" signature="3459:3708" ph="{...}" />
+                <marker date="1489580098000" expanded="true" signature="3879:5576" ph="{...}" />
+                <marker date="1489580098000" expanded="true" signature="4118:5539" ph="{...}" />
+                <marker date="1489580098000" expanded="true" signature="4259:5099" ph="{...}" />
+                <marker date="1489580098000" expanded="true" signature="4298:4399" ph="/* if else if whichever is lower gets placed next ... */" />
+                <marker date="1489580098000" expanded="true" signature="4454:4582" ph="{...}" />
+                <marker date="1489580098000" expanded="true" signature="4642:4770" ph="{...}" />
+                <marker date="1489580098000" expanded="true" signature="4833:5081" ph="{...}" />
+                <marker date="1489580098000" expanded="true" signature="5160:5525" ph="{...}" />
+                <marker date="1489580098000" expanded="true" signature="5292:5387" ph="{...}" />
+                <marker date="1489580098000" expanded="true" signature="5412:5507" ph="{...}" />
+                <marker date="1489580098000" expanded="true" signature="5707:5899" ph="{...}" />
+                <marker date="1489580098000" expanded="true" signature="5765:5823" ph="{...}" />
+                <marker date="1489580098000" expanded="true" signature="5979:6124" ph="{...}" />
+                <marker date="1489580098000" expanded="true" signature="6025:6114" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -118,6 +120,140 @@
       <envs />
       <method />
     </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="riderModule" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="riderModule" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Attests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="riderModule" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="riderModule" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Nosetests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="riderModule" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="riderModule" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="py.test">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="riderModule" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="testToRun" value="" />
+      <option name="keywords" value="" />
+      <option name="params" value="" />
+      <option name="USE_PARAM" value="false" />
+      <option name="USE_KEYWORD" value="false" />
+      <method />
+    </configuration>
     <configuration default="false" name="Default" type="DotNetProject" factoryName=".NET Project">
       <option name="PROJECT_PATH" value="$PROJECT_DIR$/MergeSortedArrays/MergeSortedArrays.csproj" />
       <option name="PROJECT_KIND" value="Console" />
@@ -156,12 +292,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1489464281262</updated>
-      <workItem from="1489464283547" duration="4798000" />
+      <workItem from="1489464283547" duration="9114000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4798000" />
+    <option name="totallyTimeSpent" value="9114000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -182,7 +318,7 @@
       <window_info id="Unit Tests" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Run Dashboard" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32901296" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32901296" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="NuGet" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Change Signature" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
@@ -210,38 +346,40 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/MergeSortedArrays/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="249">
-          <caret line="47" column="13" lean-forward="true" selection-start-line="47" selection-start-column="13" selection-end-line="47" selection-end-column="13" />
+        <state relative-caret-position="-231">
+          <caret line="27" column="15" lean-forward="false" selection-start-line="27" selection-start-column="15" selection-end-line="27" selection-end-column="15" />
           <folding>
-            <marker date="1489501234000" expanded="true" signature="6:154" ph="..." />
-            <marker date="1489501234000" expanded="true" signature="183:4926" ph="{...}" />
-            <marker date="1489501234000" expanded="true" signature="212:4924" ph="{...}" />
-            <marker date="1489501234000" expanded="true" signature="265:726" ph="{...}" />
-            <marker date="1489501234000" expanded="true" signature="584:638" ph="/* PrintArray(first); ... */" />
-            <marker date="1489501234000" expanded="true" signature="843:1077" ph="{...}" />
-            <marker date="1489501234000" expanded="true" signature="1189:1774" ph="{...}" />
-            <marker date="1489501234000" expanded="true" signature="1373:1483" ph="{...}" />
-            <marker date="1489501234000" expanded="true" signature="1543:1730" ph="{...}" />
-            <marker date="1489501234000" expanded="true" signature="1679:1716" ph="{...}" />
-            <marker date="1489501234000" expanded="true" signature="1784:1923" ph="/* check the next set of numbers, and then return the index of the next number ... */" />
-            <marker date="1489501234000" expanded="true" signature="1980:2392" ph="{...}" />
-            <marker date="1489501234000" expanded="true" signature="2106:2355" ph="{...}" />
-            <marker date="1489501234000" expanded="true" signature="2526:4223" ph="{...}" />
-            <marker date="1489501234000" expanded="true" signature="2765:4186" ph="{...}" />
-            <marker date="1489501234000" expanded="true" signature="2906:3746" ph="{...}" />
-            <marker date="1489501234000" expanded="true" signature="2945:3046" ph="/* if else if whichever is lower gets placed next ... */" />
-            <marker date="1489501234000" expanded="true" signature="3101:3229" ph="{...}" />
-            <marker date="1489501234000" expanded="true" signature="3289:3417" ph="{...}" />
-            <marker date="1489501234000" expanded="true" signature="3480:3728" ph="{...}" />
-            <marker date="1489501234000" expanded="true" signature="3807:4172" ph="{...}" />
-            <marker date="1489501234000" expanded="true" signature="3939:4034" ph="{...}" />
-            <marker date="1489501234000" expanded="true" signature="4059:4154" ph="{...}" />
-            <marker date="1489501234000" expanded="true" signature="4354:4698" ph="{...}" />
-            <marker date="1489501234000" expanded="true" signature="4412:4470" ph="{...}" />
-            <marker date="1489501234000" expanded="true" signature="4521:4663" ph="{...}" />
-            <marker date="1489501234000" expanded="true" signature="4579:4649" ph="{...}" />
-            <marker date="1489501234000" expanded="true" signature="4778:4918" ph="{...}" />
-            <marker date="1489501234000" expanded="true" signature="4824:4908" ph="{...}" />
+            <marker date="1489580098000" expanded="true" signature="6:154" ph="..." />
+            <marker date="1489580098000" expanded="true" signature="183:6132" ph="{...}" />
+            <marker date="1489580098000" expanded="true" signature="212:6130" ph="{...}" />
+            <marker date="1489580098000" expanded="true" signature="265:1048" ph="{...}" />
+            <marker date="1489580098000" expanded="true" signature="798:885" ph="/* PrintArray(first); ... */" />
+            <marker date="1489580098000" expanded="true" signature="1165:1399" ph="{...}" />
+            <marker date="1489580098000" expanded="true" signature="1511:2994" ph="{...}" />
+            <marker date="1489580098000" expanded="true" signature="1695:1805" ph="{...}" />
+            <marker date="1489580098000" expanded="true" signature="1962:2952" ph="{...}" />
+            <marker date="1489580098000" expanded="true" signature="2078:2569" ph="{...}" />
+            <marker date="1489580098000" expanded="true" signature="2160:2253" ph="{...}" />
+            <marker date="1489580098000" expanded="true" signature="2314:2551" ph="{...}" />
+            <marker date="1489580098000" expanded="true" signature="2724:2804" ph="{...}" />
+            <marker date="1489580098000" expanded="true" signature="2825:2938" ph="{...}" />
+            <marker date="1489580098000" expanded="true" signature="3004:3143" ph="/* check the next set of numbers, and then return the index of the next number ... */" />
+            <marker date="1489580098000" expanded="true" signature="3200:3745" ph="{...}" />
+            <marker date="1489580098000" expanded="true" signature="3459:3708" ph="{...}" />
+            <marker date="1489580098000" expanded="true" signature="3879:5576" ph="{...}" />
+            <marker date="1489580098000" expanded="true" signature="4118:5539" ph="{...}" />
+            <marker date="1489580098000" expanded="true" signature="4259:5099" ph="{...}" />
+            <marker date="1489580098000" expanded="true" signature="4298:4399" ph="/* if else if whichever is lower gets placed next ... */" />
+            <marker date="1489580098000" expanded="true" signature="4454:4582" ph="{...}" />
+            <marker date="1489580098000" expanded="true" signature="4642:4770" ph="{...}" />
+            <marker date="1489580098000" expanded="true" signature="4833:5081" ph="{...}" />
+            <marker date="1489580098000" expanded="true" signature="5160:5525" ph="{...}" />
+            <marker date="1489580098000" expanded="true" signature="5292:5387" ph="{...}" />
+            <marker date="1489580098000" expanded="true" signature="5412:5507" ph="{...}" />
+            <marker date="1489580098000" expanded="true" signature="5707:5899" ph="{...}" />
+            <marker date="1489580098000" expanded="true" signature="5765:5823" ph="{...}" />
+            <marker date="1489580098000" expanded="true" signature="5979:6124" ph="{...}" />
+            <marker date="1489580098000" expanded="true" signature="6025:6114" ph="{...}" />
           </folding>
         </state>
       </provider>

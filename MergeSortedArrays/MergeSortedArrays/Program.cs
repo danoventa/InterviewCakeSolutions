@@ -17,10 +17,18 @@ namespace MergeSortedArrays
             // merge sort the arrays while we add them..
             var first = MergesortsBuiltIn(myArray, alicesArray);
             var last = MergeSortedSorts(myArray, alicesArray);
+            var twoarie = new int[2][];
+            twoarie[0] = new int[] {3, 4, 6, 10, 11, 15};
+            twoarie[1] = new int[] {1, 5, 8, 12, 14, 19};
+
+
+            var fast = ArrayOfSortedArraySort(twoarie);
             // PrintArray(first);
             // PrintArray(last);
+            // PrintArray(fast);
 
             Console.WriteLine(Convert.ToString(VerifyArrays(first, last)));
+            Console.WriteLine(Convert.ToString(VerifyArrays(fast, last)));
 
         }
 
@@ -34,7 +42,7 @@ namespace MergeSortedArrays
         }
 
         // merge multiple sorted arrays.
-        public static int[] arrayOfSortedArraySort(int[][] manyArray)
+        public static int[] ArrayOfSortedArraySort(int[][] manyArray)
         {
             var arrayCount = manyArray.Length;
             var cursors = new int[arrayCount];
@@ -44,25 +52,52 @@ namespace MergeSortedArrays
                 cursors[i] = 0;
                 totalSize += manyArray[i].Length;
             }
+            var finalArray = new int[totalSize];
+            var nextNums = new int[arrayCount];
             for (var index = 0; index < totalSize; index++)
             {
-                for(var arrIndex = 0; arrIndex < totalSize; arrIndex++)
-                if (j >= manyArray[j][cursor[j]])
+                int mindex;
+                for (var arrIndex = 0; arrIndex < arrayCount; arrIndex++)
                 {
+                    if (arrIndex >= manyArray[arrIndex].Length)
+                    {
+                        nextNums[arrIndex] = -1;
+                    }
+                    else if (cursors[arrIndex] < arrayCount)
+                    {
+                        Console.Write(Convert.ToString(manyArray[arrIndex][cursors[arrIndex]]) + " \n\n");
+                        nextNums[arrIndex] = manyArray[arrIndex][cursors[arrIndex]];
+
+                    }
+                }
+                mindex = indexOfNextMin(nextNums);
+                cursors[mindex] += 1;
+
+                if (cursors[mindex] >= manyArray[mindex].Length)
+                {
+                    PrintArray(finalArray);
+                }
+                else
+                {
+                    finalArray[index] = manyArray[mindex][cursors[mindex]];
 
                 }
             }
 
-            return manyArray[0];
+            return finalArray;
         }
 
         // check the next set of numbers, and then return the index of the next number
         // potential issue, if some run out, but not others.
         public static int indexOfNextMin(int[] nextNums)
         {
+            Console.Write("---------------\n");
+            PrintArray(nextNums);
+            Console.Write("\n---------------\n");
+
             var min = nextNums[0];
             var mindex = 0;
-            for(int i = 0; i < nextNums.Length; i++)
+            for(var i = 0; i < nextNums.Length; i++)
             {
                 // negative one indicates no number since Id's should not be negative
                 if (nextNums[i] >= min || nextNums[i] == -1) continue;
@@ -134,14 +169,7 @@ namespace MergeSortedArrays
             {
                 return false;
             }
-            for(int i = 0; i < arrie1.Length; i++)
-            {
-                if (arrie1[i] != arrie2[i])
-                {
-                    return false;
-                }
-            }
-            return true;
+            return !arrie1.Where((t, i) => t != arrie2[i]).Any();
         }
 
         // print the arrays.
@@ -149,7 +177,7 @@ namespace MergeSortedArrays
         {
             foreach (var n in arrg)
             {
-                Console.WriteLine(Convert.ToString(n));
+                Console.Write(Convert.ToString(n) + " | " );
             }
         }
     }
