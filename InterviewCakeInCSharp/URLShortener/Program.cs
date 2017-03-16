@@ -70,6 +70,10 @@ namespace URLShortener
 
         // analytics
 
+        // db design
+        // can have users ?
+        // sites
+
 
     }
 }
