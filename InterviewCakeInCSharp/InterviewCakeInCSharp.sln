@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "nthFibonacci", "nthFibonacc
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MillionGazillion", "MillionGazillion\MillionGazillion.csproj", "{15F258E0-07DF-4219-B49A-9B568B72309F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinarySearchTreeChecker", "BinarySearchTreeChecker\BinarySearchTreeChecker.csproj", "{14187460-918A-4275-A393-28D2DF3C914C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{15F258E0-07DF-4219-B49A-9B568B72309F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{15F258E0-07DF-4219-B49A-9B568B72309F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{15F258E0-07DF-4219-B49A-9B568B72309F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{14187460-918A-4275-A393-28D2DF3C914C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14187460-918A-4275-A393-28D2DF3C914C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14187460-918A-4275-A393-28D2DF3C914C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14187460-918A-4275-A393-28D2DF3C914C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
