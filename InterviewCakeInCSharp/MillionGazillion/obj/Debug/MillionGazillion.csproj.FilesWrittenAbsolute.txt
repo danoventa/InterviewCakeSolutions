@@ -1,0 +1,5 @@
+/Users/temogen/Documents/Github/InterviewCakeSolutions/InterviewCakeInCSharp/MillionGazillion/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/temogen/Documents/Github/InterviewCakeSolutions/InterviewCakeInCSharp/MillionGazillion/bin/Debug/MillionGazillion.exe.mdb
+/Users/temogen/Documents/Github/InterviewCakeSolutions/InterviewCakeInCSharp/MillionGazillion/bin/Debug/MillionGazillion.exe
+/Users/temogen/Documents/Github/InterviewCakeSolutions/InterviewCakeInCSharp/MillionGazillion/obj/Debug/MillionGazillion.exe
+/Users/temogen/Documents/Github/InterviewCakeSolutions/InterviewCakeInCSharp/MillionGazillion/obj/Debug/MillionGazillion.exe.mdb
