@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "URLShortener", "URLShortene
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "nthFibonacci", "nthFibonacci\nthFibonacci.csproj", "{3B95E15F-4F3A-4EB0-B0F5-FEBBCCE5A39D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MillionGazillion", "MillionGazillion\MillionGazillion.csproj", "{15F258E0-07DF-4219-B49A-9B568B72309F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{3B95E15F-4F3A-4EB0-B0F5-FEBBCCE5A39D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3B95E15F-4F3A-4EB0-B0F5-FEBBCCE5A39D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3B95E15F-4F3A-4EB0-B0F5-FEBBCCE5A39D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{15F258E0-07DF-4219-B49A-9B568B72309F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15F258E0-07DF-4219-B49A-9B568B72309F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15F258E0-07DF-4219-B49A-9B568B72309F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15F258E0-07DF-4219-B49A-9B568B72309F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
