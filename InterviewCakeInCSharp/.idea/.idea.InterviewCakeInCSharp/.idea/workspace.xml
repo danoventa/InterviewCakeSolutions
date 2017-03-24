@@ -60,8 +60,8 @@
       <file leaf-file-name="Program.cs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/MillionGazillion/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="764">
-              <caret line="76" column="9" lean-forward="false" selection-start-line="76" selection-start-column="9" selection-end-line="76" selection-end-column="9" />
+            <state relative-caret-position="265">
+              <caret line="50" column="54" lean-forward="false" selection-start-line="50" selection-start-column="46" selection-end-line="50" selection-end-column="54" />
               <folding>
                 <marker date="1490292504000" expanded="true" signature="6:233" ph="..." />
                 <marker date="1490292504000" expanded="true" signature="261:2457" ph="{...}" />
@@ -88,14 +88,18 @@
       <file leaf-file-name="Program.cs" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/BinarySearchTreeChecker/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" column="14" lean-forward="false" selection-start-line="16" selection-start-column="14" selection-end-line="16" selection-end-column="14" />
+            <state relative-caret-position="285">
+              <caret line="20" column="8" lean-forward="false" selection-start-line="20" selection-start-column="8" selection-end-line="20" selection-end-column="8" />
               <folding>
-                <marker date="1490311420000" expanded="true" signature="6:47" ph="..." />
-                <marker date="1490311420000" expanded="true" signature="82:256" ph="{...}" />
-                <marker date="1490311420000" expanded="true" signature="111:192" ph="{...}" />
-                <marker date="1490311420000" expanded="true" signature="164:186" ph="{...}" />
-                <marker date="1490311420000" expanded="true" signature="227:254" ph="{...}" />
+                <marker date="1490321134000" expanded="true" signature="6:97" ph="..." />
+                <marker date="1490321134000" expanded="true" signature="132:952" ph="{...}" />
+                <marker date="1490321134000" expanded="true" signature="161:242" ph="{...}" />
+                <marker date="1490321134000" expanded="true" signature="214:236" ph="{...}" />
+                <marker date="1490321134000" expanded="true" signature="273:354" ph="{...}" />
+                <marker date="1490321134000" expanded="true" signature="389:950" ph="{...}" />
+                <marker date="1490321134000" expanded="true" signature="586:633" ph="{...}" />
+                <marker date="1490321134000" expanded="true" signature="691:786" ph="{...}" />
+                <marker date="1490321134000" expanded="true" signature="846:944" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -378,12 +382,12 @@
       <workItem from="1489587125894" duration="3365000" />
       <workItem from="1489702288517" duration="1129000" />
       <workItem from="1489759423214" duration="2251000" />
-      <workItem from="1489883449183" duration="5354000" />
+      <workItem from="1489883449183" duration="5863000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12099000" />
+    <option name="totallyTimeSpent" value="12608000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -589,8 +593,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/MillionGazillion/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="764">
-          <caret line="76" column="9" lean-forward="false" selection-start-line="76" selection-start-column="9" selection-end-line="76" selection-end-column="9" />
+        <state relative-caret-position="265">
+          <caret line="50" column="54" lean-forward="false" selection-start-line="50" selection-start-column="46" selection-end-line="50" selection-end-column="54" />
           <folding>
             <marker date="1490292504000" expanded="true" signature="6:233" ph="..." />
             <marker date="1490292504000" expanded="true" signature="261:2457" ph="{...}" />
@@ -615,14 +619,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/BinarySearchTreeChecker/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="14" lean-forward="false" selection-start-line="16" selection-start-column="14" selection-end-line="16" selection-end-column="14" />
+        <state relative-caret-position="285">
+          <caret line="20" column="8" lean-forward="false" selection-start-line="20" selection-start-column="8" selection-end-line="20" selection-end-column="8" />
           <folding>
-            <marker date="1490311420000" expanded="true" signature="6:47" ph="..." />
-            <marker date="1490311420000" expanded="true" signature="82:256" ph="{...}" />
-            <marker date="1490311420000" expanded="true" signature="111:192" ph="{...}" />
-            <marker date="1490311420000" expanded="true" signature="164:186" ph="{...}" />
-            <marker date="1490311420000" expanded="true" signature="227:254" ph="{...}" />
+            <marker date="1490321134000" expanded="true" signature="6:97" ph="..." />
+            <marker date="1490321134000" expanded="true" signature="132:952" ph="{...}" />
+            <marker date="1490321134000" expanded="true" signature="161:242" ph="{...}" />
+            <marker date="1490321134000" expanded="true" signature="214:236" ph="{...}" />
+            <marker date="1490321134000" expanded="true" signature="273:354" ph="{...}" />
+            <marker date="1490321134000" expanded="true" signature="389:950" ph="{...}" />
+            <marker date="1490321134000" expanded="true" signature="586:633" ph="{...}" />
+            <marker date="1490321134000" expanded="true" signature="691:786" ph="{...}" />
+            <marker date="1490321134000" expanded="true" signature="846:944" ph="{...}" />
           </folding>
         </state>
       </provider>
