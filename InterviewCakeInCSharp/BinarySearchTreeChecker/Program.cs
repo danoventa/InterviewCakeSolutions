@@ -18,7 +18,7 @@ namespace BinarySearchTreeChecker
         public BinaryTreeNode _root { get; private set; }
 
 
-        
+
     }
 
     internal class BinaryTreeNode

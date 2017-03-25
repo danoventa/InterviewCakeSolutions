@@ -88,18 +88,18 @@
       <file leaf-file-name="Program.cs" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/BinarySearchTreeChecker/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="20" column="8" lean-forward="false" selection-start-line="20" selection-start-column="8" selection-end-line="20" selection-end-column="8" />
+            <state relative-caret-position="300">
+              <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
               <folding>
-                <marker date="1490321134000" expanded="true" signature="6:97" ph="..." />
-                <marker date="1490321134000" expanded="true" signature="132:952" ph="{...}" />
-                <marker date="1490321134000" expanded="true" signature="161:242" ph="{...}" />
-                <marker date="1490321134000" expanded="true" signature="214:236" ph="{...}" />
-                <marker date="1490321134000" expanded="true" signature="273:354" ph="{...}" />
-                <marker date="1490321134000" expanded="true" signature="389:950" ph="{...}" />
-                <marker date="1490321134000" expanded="true" signature="586:633" ph="{...}" />
-                <marker date="1490321134000" expanded="true" signature="691:786" ph="{...}" />
-                <marker date="1490321134000" expanded="true" signature="846:944" ph="{...}" />
+                <marker date="1490380089000" expanded="true" signature="6:97" ph="..." />
+                <marker date="1490380089000" expanded="true" signature="132:944" ph="{...}" />
+                <marker date="1490380089000" expanded="true" signature="161:242" ph="{...}" />
+                <marker date="1490380089000" expanded="true" signature="214:236" ph="{...}" />
+                <marker date="1490380089000" expanded="true" signature="273:346" ph="{...}" />
+                <marker date="1490380089000" expanded="true" signature="381:942" ph="{...}" />
+                <marker date="1490380089000" expanded="true" signature="578:625" ph="{...}" />
+                <marker date="1490380089000" expanded="true" signature="683:778" ph="{...}" />
+                <marker date="1490380089000" expanded="true" signature="838:936" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -382,12 +382,12 @@
       <workItem from="1489587125894" duration="3365000" />
       <workItem from="1489702288517" duration="1129000" />
       <workItem from="1489759423214" duration="2251000" />
-      <workItem from="1489883449183" duration="5863000" />
+      <workItem from="1489883449183" duration="6331000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12608000" />
+    <option name="totallyTimeSpent" value="13076000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -400,7 +400,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Errors In Solution" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -408,7 +407,7 @@
       <window_info id="Unit Tests" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32901296" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run Dashboard" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31505483" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31505483" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="NuGet" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Change Signature" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -619,18 +618,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/BinarySearchTreeChecker/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="20" column="8" lean-forward="false" selection-start-line="20" selection-start-column="8" selection-end-line="20" selection-end-column="8" />
+        <state relative-caret-position="300">
+          <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
           <folding>
-            <marker date="1490321134000" expanded="true" signature="6:97" ph="..." />
-            <marker date="1490321134000" expanded="true" signature="132:952" ph="{...}" />
-            <marker date="1490321134000" expanded="true" signature="161:242" ph="{...}" />
-            <marker date="1490321134000" expanded="true" signature="214:236" ph="{...}" />
-            <marker date="1490321134000" expanded="true" signature="273:354" ph="{...}" />
-            <marker date="1490321134000" expanded="true" signature="389:950" ph="{...}" />
-            <marker date="1490321134000" expanded="true" signature="586:633" ph="{...}" />
-            <marker date="1490321134000" expanded="true" signature="691:786" ph="{...}" />
-            <marker date="1490321134000" expanded="true" signature="846:944" ph="{...}" />
+            <marker date="1490380089000" expanded="true" signature="6:97" ph="..." />
+            <marker date="1490380089000" expanded="true" signature="132:944" ph="{...}" />
+            <marker date="1490380089000" expanded="true" signature="161:242" ph="{...}" />
+            <marker date="1490380089000" expanded="true" signature="214:236" ph="{...}" />
+            <marker date="1490380089000" expanded="true" signature="273:346" ph="{...}" />
+            <marker date="1490380089000" expanded="true" signature="381:942" ph="{...}" />
+            <marker date="1490380089000" expanded="true" signature="578:625" ph="{...}" />
+            <marker date="1490380089000" expanded="true" signature="683:778" ph="{...}" />
+            <marker date="1490380089000" expanded="true" signature="838:936" ph="{...}" />
           </folding>
         </state>
       </provider>
