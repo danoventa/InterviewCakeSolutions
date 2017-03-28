@@ -1,0 +1,5 @@
+/Users/temogen/Documents/Github/InterviewCakeSolutions/DotNetCore1CS6/SpeakingCSh/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/temogen/Documents/Github/InterviewCakeSolutions/DotNetCore1CS6/SpeakingCSh/bin/Debug/SpeakingCSh.exe.mdb
+/Users/temogen/Documents/Github/InterviewCakeSolutions/DotNetCore1CS6/SpeakingCSh/bin/Debug/SpeakingCSh.exe
+/Users/temogen/Documents/Github/InterviewCakeSolutions/DotNetCore1CS6/SpeakingCSh/obj/Debug/SpeakingCSh.exe
+/Users/temogen/Documents/Github/InterviewCakeSolutions/DotNetCore1CS6/SpeakingCSh/obj/Debug/SpeakingCSh.exe.mdb
