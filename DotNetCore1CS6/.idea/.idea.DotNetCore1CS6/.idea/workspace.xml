@@ -15,16 +15,19 @@
       <file leaf-file-name="Program.cs" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/SpeakingCSh/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="495">
-              <caret line="33" column="128" lean-forward="false" selection-start-line="33" selection-start-column="128" selection-end-line="33" selection-end-column="128" />
+            <state relative-caret-position="915">
+              <caret line="61" column="9" lean-forward="true" selection-start-line="61" selection-start-column="9" selection-end-line="61" selection-end-column="9" />
               <folding>
-                <marker date="1490704698000" expanded="true" signature="6:91" ph="..." />
-                <marker date="1490704698000" expanded="true" signature="114:1285" ph="{...}" />
-                <marker date="1490704698000" expanded="true" signature="143:1283" ph="{...}" />
-                <marker date="1490704698000" expanded="true" signature="196:251" ph="{...}" />
-                <marker date="1490704698000" expanded="true" signature="300:1277" ph="{...}" />
-                <marker date="1490704698000" expanded="true" signature="433:786" ph="{...}" />
-                <marker date="1490704698000" expanded="true" signature="548:644" ph="{...}" />
+                <marker date="1490710994000" expanded="true" signature="6:141" ph="..." />
+                <marker date="1490710994000" expanded="true" signature="164:2228" ph="{...}" />
+                <marker date="1490710994000" expanded="true" signature="193:2226" ph="{...}" />
+                <marker date="1490710994000" expanded="true" signature="246:301" ph="{...}" />
+                <marker date="1490710994000" expanded="true" signature="350:2220" ph="{...}" />
+                <marker date="1490710994000" expanded="true" signature="483:828" ph="{...}" />
+                <marker date="1490710994000" expanded="true" signature="598:694" ph="{...}" />
+                <marker date="1490710994000" expanded="true" signature="1298:1415" ph="/* Foreach and collections use iterators, and hence cannot modify the assigned variable. :( ... */" />
+                <marker date="1490710994000" expanded="true" signature="1519:1615" ph="{...}" />
+                <marker date="1490710994000" expanded="true" signature="1699:1869" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -296,12 +299,12 @@
       <updated>1490380089664</updated>
       <workItem from="1490380090974" duration="152000" />
       <workItem from="1490401243894" duration="1310000" />
-      <workItem from="1490668533574" duration="422000" />
+      <workItem from="1490668533574" duration="1866000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1884000" />
+    <option name="totallyTimeSpent" value="3328000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -357,13 +360,16 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1490704698000" expanded="true" signature="6:91" ph="..." />
-            <marker date="1490704698000" expanded="true" signature="114:1285" ph="{...}" />
-            <marker date="1490704698000" expanded="true" signature="143:1283" ph="{...}" />
-            <marker date="1490704698000" expanded="true" signature="196:251" ph="{...}" />
-            <marker date="1490704698000" expanded="true" signature="300:1277" ph="{...}" />
-            <marker date="1490704698000" expanded="true" signature="433:786" ph="{...}" />
-            <marker date="1490704698000" expanded="true" signature="548:644" ph="{...}" />
+            <marker date="1490710994000" expanded="true" signature="6:141" ph="..." />
+            <marker date="1490710994000" expanded="true" signature="164:2228" ph="{...}" />
+            <marker date="1490710994000" expanded="true" signature="193:2226" ph="{...}" />
+            <marker date="1490710994000" expanded="true" signature="246:301" ph="{...}" />
+            <marker date="1490710994000" expanded="true" signature="350:2220" ph="{...}" />
+            <marker date="1490710994000" expanded="true" signature="483:828" ph="{...}" />
+            <marker date="1490710994000" expanded="true" signature="598:694" ph="{...}" />
+            <marker date="1490710994000" expanded="true" signature="1298:1415" ph="/* Foreach and collections use iterators, and hence cannot modify the assigned variable. :( ... */" />
+            <marker date="1490710994000" expanded="true" signature="1519:1615" ph="{...}" />
+            <marker date="1490710994000" expanded="true" signature="1699:1869" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -373,29 +379,35 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1490704698000" expanded="true" signature="6:91" ph="..." />
-            <marker date="1490704698000" expanded="true" signature="114:1285" ph="{...}" />
-            <marker date="1490704698000" expanded="true" signature="143:1283" ph="{...}" />
-            <marker date="1490704698000" expanded="true" signature="196:251" ph="{...}" />
-            <marker date="1490704698000" expanded="true" signature="300:1277" ph="{...}" />
-            <marker date="1490704698000" expanded="true" signature="433:786" ph="{...}" />
-            <marker date="1490704698000" expanded="true" signature="548:644" ph="{...}" />
+            <marker date="1490710994000" expanded="true" signature="6:141" ph="..." />
+            <marker date="1490710994000" expanded="true" signature="164:2228" ph="{...}" />
+            <marker date="1490710994000" expanded="true" signature="193:2226" ph="{...}" />
+            <marker date="1490710994000" expanded="true" signature="246:301" ph="{...}" />
+            <marker date="1490710994000" expanded="true" signature="350:2220" ph="{...}" />
+            <marker date="1490710994000" expanded="true" signature="483:828" ph="{...}" />
+            <marker date="1490710994000" expanded="true" signature="598:694" ph="{...}" />
+            <marker date="1490710994000" expanded="true" signature="1298:1415" ph="/* Foreach and collections use iterators, and hence cannot modify the assigned variable. :( ... */" />
+            <marker date="1490710994000" expanded="true" signature="1519:1615" ph="{...}" />
+            <marker date="1490710994000" expanded="true" signature="1699:1869" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/SpeakingCSh/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="495">
-          <caret line="33" column="128" lean-forward="false" selection-start-line="33" selection-start-column="128" selection-end-line="33" selection-end-column="128" />
+        <state relative-caret-position="915">
+          <caret line="61" column="9" lean-forward="true" selection-start-line="61" selection-start-column="9" selection-end-line="61" selection-end-column="9" />
           <folding>
-            <marker date="1490704698000" expanded="true" signature="6:91" ph="..." />
-            <marker date="1490704698000" expanded="true" signature="114:1285" ph="{...}" />
-            <marker date="1490704698000" expanded="true" signature="143:1283" ph="{...}" />
-            <marker date="1490704698000" expanded="true" signature="196:251" ph="{...}" />
-            <marker date="1490704698000" expanded="true" signature="300:1277" ph="{...}" />
-            <marker date="1490704698000" expanded="true" signature="433:786" ph="{...}" />
-            <marker date="1490704698000" expanded="true" signature="548:644" ph="{...}" />
+            <marker date="1490710994000" expanded="true" signature="6:141" ph="..." />
+            <marker date="1490710994000" expanded="true" signature="164:2228" ph="{...}" />
+            <marker date="1490710994000" expanded="true" signature="193:2226" ph="{...}" />
+            <marker date="1490710994000" expanded="true" signature="246:301" ph="{...}" />
+            <marker date="1490710994000" expanded="true" signature="350:2220" ph="{...}" />
+            <marker date="1490710994000" expanded="true" signature="483:828" ph="{...}" />
+            <marker date="1490710994000" expanded="true" signature="598:694" ph="{...}" />
+            <marker date="1490710994000" expanded="true" signature="1298:1415" ph="/* Foreach and collections use iterators, and hence cannot modify the assigned variable. :( ... */" />
+            <marker date="1490710994000" expanded="true" signature="1519:1615" ph="{...}" />
+            <marker date="1490710994000" expanded="true" signature="1699:1869" ph="{...}" />
           </folding>
         </state>
       </provider>
