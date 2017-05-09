@@ -82,6 +82,18 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="/Users/temogen/Documents/Github/InterviewCakeSolutions/InterviewCakeInCPP/HiCal.cpp">
+			<Option target="InterviewCakeInCPP"/>
+		</Unit>
+		<Unit filename="/Users/temogen/Documents/Github/InterviewCakeSolutions/InterviewCakeInCPP/HiCal.h">
+			<Option target="InterviewCakeInCPP"/>
+		</Unit>
+		<Unit filename="/Users/temogen/Documents/Github/InterviewCakeSolutions/InterviewCakeInCPP/Meeting.cpp">
+			<Option target="InterviewCakeInCPP"/>
+		</Unit>
+		<Unit filename="/Users/temogen/Documents/Github/InterviewCakeSolutions/InterviewCakeInCPP/Meeting.h">
+			<Option target="InterviewCakeInCPP"/>
+		</Unit>
 		<Unit filename="/Users/temogen/Documents/Github/InterviewCakeSolutions/InterviewCakeInCPP/main.cpp">
 			<Option target="InterviewCakeInCPP"/>
 		</Unit>

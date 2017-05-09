@@ -3,5 +3,5 @@ project(InterviewCakeInCPP)
 
 set(CMAKE_CXX_STANDARD 11)
 
-set(SOURCE_FILES main.cpp)
+set(SOURCE_FILES main.cpp HiCal.cpp HiCal.h)
 add_executable(InterviewCakeInCPP ${SOURCE_FILES})

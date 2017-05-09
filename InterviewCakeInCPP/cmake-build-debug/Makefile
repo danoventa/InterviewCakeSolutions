@@ -123,6 +123,60 @@ InterviewCakeInCPP/fast:
 	$(MAKE) -f CMakeFiles/InterviewCakeInCPP.dir/build.make CMakeFiles/InterviewCakeInCPP.dir/build
 .PHONY : InterviewCakeInCPP/fast
 
+HiCal.o: HiCal.cpp.o
+
+.PHONY : HiCal.o
+
+# target to build an object file
+HiCal.cpp.o:
+	$(MAKE) -f CMakeFiles/InterviewCakeInCPP.dir/build.make CMakeFiles/InterviewCakeInCPP.dir/HiCal.cpp.o
+.PHONY : HiCal.cpp.o
+
+HiCal.i: HiCal.cpp.i
+
+.PHONY : HiCal.i
+
+# target to preprocess a source file
+HiCal.cpp.i:
+	$(MAKE) -f CMakeFiles/InterviewCakeInCPP.dir/build.make CMakeFiles/InterviewCakeInCPP.dir/HiCal.cpp.i
+.PHONY : HiCal.cpp.i
+
+HiCal.s: HiCal.cpp.s
+
+.PHONY : HiCal.s
+
+# target to generate assembly for a file
+HiCal.cpp.s:
+	$(MAKE) -f CMakeFiles/InterviewCakeInCPP.dir/build.make CMakeFiles/InterviewCakeInCPP.dir/HiCal.cpp.s
+.PHONY : HiCal.cpp.s
+
+Meeting.o: Meeting.cpp.o
+
+.PHONY : Meeting.o
+
+# target to build an object file
+Meeting.cpp.o:
+	$(MAKE) -f CMakeFiles/InterviewCakeInCPP.dir/build.make CMakeFiles/InterviewCakeInCPP.dir/Meeting.cpp.o
+.PHONY : Meeting.cpp.o
+
+Meeting.i: Meeting.cpp.i
+
+.PHONY : Meeting.i
+
+# target to preprocess a source file
+Meeting.cpp.i:
+	$(MAKE) -f CMakeFiles/InterviewCakeInCPP.dir/build.make CMakeFiles/InterviewCakeInCPP.dir/Meeting.cpp.i
+.PHONY : Meeting.cpp.i
+
+Meeting.s: Meeting.cpp.s
+
+.PHONY : Meeting.s
+
+# target to generate assembly for a file
+Meeting.cpp.s:
+	$(MAKE) -f CMakeFiles/InterviewCakeInCPP.dir/build.make CMakeFiles/InterviewCakeInCPP.dir/Meeting.cpp.s
+.PHONY : Meeting.cpp.s
+
 main.o: main.cpp.o
 
 .PHONY : main.o
@@ -159,6 +213,12 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... InterviewCakeInCPP"
+	@echo "... HiCal.o"
+	@echo "... HiCal.i"
+	@echo "... HiCal.s"
+	@echo "... Meeting.o"
+	@echo "... Meeting.i"
+	@echo "... Meeting.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"

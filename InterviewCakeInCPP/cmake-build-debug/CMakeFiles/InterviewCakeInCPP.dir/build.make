@@ -81,17 +81,69 @@ CMakeFiles/InterviewCakeInCPP.dir/main.cpp.o.provides: CMakeFiles/InterviewCakeI
 CMakeFiles/InterviewCakeInCPP.dir/main.cpp.o.provides.build: CMakeFiles/InterviewCakeInCPP.dir/main.cpp.o
 
 
+CMakeFiles/InterviewCakeInCPP.dir/HiCal.cpp.o: CMakeFiles/InterviewCakeInCPP.dir/flags.make
+CMakeFiles/InterviewCakeInCPP.dir/HiCal.cpp.o: ../HiCal.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/temogen/Documents/Github/InterviewCakeSolutions/InterviewCakeInCPP/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/InterviewCakeInCPP.dir/HiCal.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/InterviewCakeInCPP.dir/HiCal.cpp.o -c /Users/temogen/Documents/Github/InterviewCakeSolutions/InterviewCakeInCPP/HiCal.cpp
+
+CMakeFiles/InterviewCakeInCPP.dir/HiCal.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/InterviewCakeInCPP.dir/HiCal.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/temogen/Documents/Github/InterviewCakeSolutions/InterviewCakeInCPP/HiCal.cpp > CMakeFiles/InterviewCakeInCPP.dir/HiCal.cpp.i
+
+CMakeFiles/InterviewCakeInCPP.dir/HiCal.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/InterviewCakeInCPP.dir/HiCal.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/temogen/Documents/Github/InterviewCakeSolutions/InterviewCakeInCPP/HiCal.cpp -o CMakeFiles/InterviewCakeInCPP.dir/HiCal.cpp.s
+
+CMakeFiles/InterviewCakeInCPP.dir/HiCal.cpp.o.requires:
+
+.PHONY : CMakeFiles/InterviewCakeInCPP.dir/HiCal.cpp.o.requires
+
+CMakeFiles/InterviewCakeInCPP.dir/HiCal.cpp.o.provides: CMakeFiles/InterviewCakeInCPP.dir/HiCal.cpp.o.requires
+	$(MAKE) -f CMakeFiles/InterviewCakeInCPP.dir/build.make CMakeFiles/InterviewCakeInCPP.dir/HiCal.cpp.o.provides.build
+.PHONY : CMakeFiles/InterviewCakeInCPP.dir/HiCal.cpp.o.provides
+
+CMakeFiles/InterviewCakeInCPP.dir/HiCal.cpp.o.provides.build: CMakeFiles/InterviewCakeInCPP.dir/HiCal.cpp.o
+
+
+CMakeFiles/InterviewCakeInCPP.dir/Meeting.cpp.o: CMakeFiles/InterviewCakeInCPP.dir/flags.make
+CMakeFiles/InterviewCakeInCPP.dir/Meeting.cpp.o: ../Meeting.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/temogen/Documents/Github/InterviewCakeSolutions/InterviewCakeInCPP/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/InterviewCakeInCPP.dir/Meeting.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/InterviewCakeInCPP.dir/Meeting.cpp.o -c /Users/temogen/Documents/Github/InterviewCakeSolutions/InterviewCakeInCPP/Meeting.cpp
+
+CMakeFiles/InterviewCakeInCPP.dir/Meeting.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/InterviewCakeInCPP.dir/Meeting.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/temogen/Documents/Github/InterviewCakeSolutions/InterviewCakeInCPP/Meeting.cpp > CMakeFiles/InterviewCakeInCPP.dir/Meeting.cpp.i
+
+CMakeFiles/InterviewCakeInCPP.dir/Meeting.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/InterviewCakeInCPP.dir/Meeting.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/temogen/Documents/Github/InterviewCakeSolutions/InterviewCakeInCPP/Meeting.cpp -o CMakeFiles/InterviewCakeInCPP.dir/Meeting.cpp.s
+
+CMakeFiles/InterviewCakeInCPP.dir/Meeting.cpp.o.requires:
+
+.PHONY : CMakeFiles/InterviewCakeInCPP.dir/Meeting.cpp.o.requires
+
+CMakeFiles/InterviewCakeInCPP.dir/Meeting.cpp.o.provides: CMakeFiles/InterviewCakeInCPP.dir/Meeting.cpp.o.requires
+	$(MAKE) -f CMakeFiles/InterviewCakeInCPP.dir/build.make CMakeFiles/InterviewCakeInCPP.dir/Meeting.cpp.o.provides.build
+.PHONY : CMakeFiles/InterviewCakeInCPP.dir/Meeting.cpp.o.provides
+
+CMakeFiles/InterviewCakeInCPP.dir/Meeting.cpp.o.provides.build: CMakeFiles/InterviewCakeInCPP.dir/Meeting.cpp.o
+
+
 # Object files for target InterviewCakeInCPP
 InterviewCakeInCPP_OBJECTS = \
-"CMakeFiles/InterviewCakeInCPP.dir/main.cpp.o"
+"CMakeFiles/InterviewCakeInCPP.dir/main.cpp.o" \
+"CMakeFiles/InterviewCakeInCPP.dir/HiCal.cpp.o" \
+"CMakeFiles/InterviewCakeInCPP.dir/Meeting.cpp.o"
 
 # External object files for target InterviewCakeInCPP
 InterviewCakeInCPP_EXTERNAL_OBJECTS =
 
 InterviewCakeInCPP: CMakeFiles/InterviewCakeInCPP.dir/main.cpp.o
+InterviewCakeInCPP: CMakeFiles/InterviewCakeInCPP.dir/HiCal.cpp.o
+InterviewCakeInCPP: CMakeFiles/InterviewCakeInCPP.dir/Meeting.cpp.o
 InterviewCakeInCPP: CMakeFiles/InterviewCakeInCPP.dir/build.make
 InterviewCakeInCPP: CMakeFiles/InterviewCakeInCPP.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/temogen/Documents/Github/InterviewCakeSolutions/InterviewCakeInCPP/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable InterviewCakeInCPP"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/temogen/Documents/Github/InterviewCakeSolutions/InterviewCakeInCPP/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Linking CXX executable InterviewCakeInCPP"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/InterviewCakeInCPP.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -100,6 +152,8 @@ CMakeFiles/InterviewCakeInCPP.dir/build: InterviewCakeInCPP
 .PHONY : CMakeFiles/InterviewCakeInCPP.dir/build
 
 CMakeFiles/InterviewCakeInCPP.dir/requires: CMakeFiles/InterviewCakeInCPP.dir/main.cpp.o.requires
+CMakeFiles/InterviewCakeInCPP.dir/requires: CMakeFiles/InterviewCakeInCPP.dir/HiCal.cpp.o.requires
+CMakeFiles/InterviewCakeInCPP.dir/requires: CMakeFiles/InterviewCakeInCPP.dir/Meeting.cpp.o.requires
 
 .PHONY : CMakeFiles/InterviewCakeInCPP.dir/requires
 
