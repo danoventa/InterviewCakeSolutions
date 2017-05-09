@@ -4,12 +4,12 @@
 	<PropertyGroup>
 		<Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
 		<Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-		<ProjectGuid>{3EDBD057-7481-4A20-A2CC-76B2FDBAF705}</ProjectGuid>
+		<ProjectGuid>{25296814-115E-44D8-8E43-69C15D8B8147}</ProjectGuid>
                 <ProjectTypeGuids>{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
 		<OutputType>Exe</OutputType>
 		<AppDesignerFolder>Properties</AppDesignerFolder>
-		<RootNamespace>InterviewCackeInCSharp</RootNamespace>
-		<AssemblyName>InterviewCackeInCSharp</AssemblyName>
+		<RootNamespace>HiCal</RootNamespace>
+		<AssemblyName>HiCal</AssemblyName>
 		<TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
 		<FileAlignment>512</FileAlignment>
 	</PropertyGroup>

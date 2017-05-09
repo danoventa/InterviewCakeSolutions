@@ -1,5 +1,0 @@
-/Users/temogen/Documents/Github/InterviewCakeSolutions/InterviewCackeInCSharp/InterviewCackeInCSharp/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
-/Users/temogen/Documents/Github/InterviewCakeSolutions/InterviewCackeInCSharp/InterviewCackeInCSharp/bin/Debug/InterviewCackeInCSharp.exe.mdb
-/Users/temogen/Documents/Github/InterviewCakeSolutions/InterviewCackeInCSharp/InterviewCackeInCSharp/bin/Debug/InterviewCackeInCSharp.exe
-/Users/temogen/Documents/Github/InterviewCakeSolutions/InterviewCackeInCSharp/InterviewCackeInCSharp/obj/Debug/InterviewCackeInCSharp.exe
-/Users/temogen/Documents/Github/InterviewCakeSolutions/InterviewCackeInCSharp/InterviewCackeInCSharp/obj/Debug/InterviewCackeInCSharp.exe.mdb
