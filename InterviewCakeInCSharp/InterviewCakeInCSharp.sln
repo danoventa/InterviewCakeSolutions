@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinarySearchTreeChecker", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HiCal", "HiCal\HiCal.csproj", "{25296814-115E-44D8-8E43-69C15D8B8147}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MakingChange", "MakingChange\MakingChange.csproj", "{178C3263-A361-458F-81CF-A41AB53763E9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{25296814-115E-44D8-8E43-69C15D8B8147}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{25296814-115E-44D8-8E43-69C15D8B8147}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{25296814-115E-44D8-8E43-69C15D8B8147}.Release|Any CPU.Build.0 = Release|Any CPU
+		{178C3263-A361-458F-81CF-A41AB53763E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{178C3263-A361-458F-81CF-A41AB53763E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{178C3263-A361-458F-81CF-A41AB53763E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{178C3263-A361-458F-81CF-A41AB53763E9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
