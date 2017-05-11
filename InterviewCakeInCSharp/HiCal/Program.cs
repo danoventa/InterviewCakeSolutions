@@ -13,7 +13,7 @@ namespace HiCal
             var meeting1 = new Meeting(2, 3);
             var meeting2 = new Meeting(3, 4);
             var meeting3 = new Meeting(8, 9);
-            var meeting4 = new Meeting(9, 12);
+            var meeting4 = new Meeting(9, 13);
             var meeting5 = new Meeting(14, 15);
             var meeting6 = new Meeting(1, 5);
             var meeting7 = new Meeting(17, 19);
@@ -25,7 +25,35 @@ namespace HiCal
             {
                 Console.WriteLine(Convert.ToString(meeting.StartTime) + " - " + Convert.ToString(meeting.EndTime));
             }
+
+            var mergedMeetingsOverlap = MergeRangeOverlap(initialMeetings);
+            foreach (var meeting in mergedMeetingsOverlap)
+            {
+                Console.WriteLine(Convert.ToString(meeting.StartTime) + " - " + Convert.ToString(meeting.EndTime));
+            }
         }
+
+        public static List<Meeting> MergeRangeOverlap(List<Meeting> meetings)
+        {
+            var sortedMeetings = meetings.OrderBy(m => m.StartTime).ToList();
+            var newMeetings = new List<Meeting> {sortedMeetings[0]};
+            foreach (var meeting in sortedMeetings)
+            {
+                if (meeting.StartTime <= newMeetings.Last().EndTime)
+                {
+                    if (meeting.EndTime > newMeetings.Last().EndTime)
+                    {
+                        newMeetings.Last().EndTime = meeting.EndTime;
+                    }
+                }
+                else
+                {
+                    newMeetings.Add(meeting);
+                }
+            }
+            return newMeetings;
+        }
+
 
         public static List<Meeting> MergeRange(List<Meeting> meetings)
         {
