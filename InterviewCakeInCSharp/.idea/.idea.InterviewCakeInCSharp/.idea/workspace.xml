@@ -106,18 +106,26 @@
       <file leaf-file-name="Program.cs" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/HiCal/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" column="12" lean-forward="false" selection-start-line="14" selection-start-column="12" selection-end-line="14" selection-end-column="12" />
+            <state relative-caret-position="322">
+              <caret line="40" column="11" lean-forward="false" selection-start-line="40" selection-start-column="11" selection-end-line="40" selection-end-column="11" />
               <folding>
-                <marker date="1494334983000" expanded="true" signature="6:88" ph="..." />
-                <marker date="1494334983000" expanded="true" signature="105:1450" ph="{...}" />
-                <marker date="1494334983000" expanded="true" signature="132:1024" ph="{...}" />
-                <marker date="1494334983000" expanded="true" signature="185:751" ph="{...}" />
-                <marker date="1494334983000" expanded="true" signature="601:741" ph="{...}" />
-                <marker date="1494334983000" expanded="true" signature="823:1018" ph="{...}" />
-                <marker date="1494334983000" expanded="true" signature="1050:1448" ph="{...}" />
-                <marker date="1494334983000" expanded="true" signature="1193:1331" ph="{...}" />
-                <marker date="1494334983000" expanded="true" signature="1374:1442" ph="{...}" />
+                <marker date="1494477344000" expanded="true" signature="6:145" ph="..." />
+                <marker date="1494477344000" expanded="true" signature="162:2481" ph="{...}" />
+                <marker date="1494477344000" expanded="true" signature="189:2055" ph="{...}" />
+                <marker date="1494477344000" expanded="true" signature="242:800" ph="{...}" />
+                <marker date="1494477344000" expanded="true" signature="646:790" ph="{...}" />
+                <marker date="1494477344000" expanded="true" signature="872:2049" ph="{...}" />
+                <marker date="1494477344000" expanded="true" signature="1079:1257" ph="{...}" />
+                <marker date="1494477344000" expanded="true" signature="1168:1243" ph="{...}" />
+                <marker date="1494477344000" expanded="true" signature="1316:2003" ph="{...}" />
+                <marker date="1494477344000" expanded="true" signature="1432:1889" ph="{...}" />
+                <marker date="1494477344000" expanded="true" signature="1506:1597" ph="{...}" />
+                <marker date="1494477344000" expanded="true" signature="1622:1871" ph="{...}" />
+                <marker date="1494477344000" expanded="true" signature="1695:1849" ph="{...}" />
+                <marker date="1494477344000" expanded="true" signature="1910:1989" ph="{...}" />
+                <marker date="1494477344000" expanded="true" signature="2081:2479" ph="{...}" />
+                <marker date="1494477344000" expanded="true" signature="2224:2362" ph="{...}" />
+                <marker date="1494477344000" expanded="true" signature="2405:2473" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -276,7 +284,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected=".NET Project.MillionGazillion">
+  <component name="RunManager" selected=".NET Project.HiCal">
     <configuration default="false" name="nthFibonacci" type="DotNetProject" factoryName=".NET Project" temporary="true">
       <option name="PROJECT_PATH" value="$PROJECT_DIR$/nthFibonacci/nthFibonacci.csproj" />
       <option name="PROJECT_KIND" value="Console" />
@@ -296,6 +304,18 @@
       <option name="EXE_PATH" value="$PROJECT_DIR$/MillionGazillion/bin/Debug/MillionGazillion.exe" />
       <option name="PROGRAM_PARAMETERS" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MillionGazillion/bin/Debug" />
+      <option name="USE_MONO" value="0" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="HiCal" type="DotNetProject" factoryName=".NET Project" temporary="true">
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/HiCal/HiCal.csproj" />
+      <option name="PROJECT_KIND" value="Console" />
+      <option name="PROJECT_TFM" value=".NETFramework,Version=v4.5" />
+      <option name="EXE_PATH" value="$PROJECT_DIR$/HiCal/bin/Debug/HiCal.exe" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/HiCal/bin/Debug" />
       <option name="USE_MONO" value="0" />
       <option name="USE_EXTERNAL_CONSOLE" value="0" />
       <envs />
@@ -501,15 +521,17 @@
       <envs />
       <method />
     </configuration>
-    <list size="3">
+    <list size="4">
       <item index="0" class="java.lang.String" itemvalue=".NET Project.Default" />
       <item index="1" class="java.lang.String" itemvalue=".NET Project.nthFibonacci" />
       <item index="2" class="java.lang.String" itemvalue=".NET Project.MillionGazillion" />
+      <item index="3" class="java.lang.String" itemvalue=".NET Project.HiCal" />
     </list>
     <recent_temporary>
-      <list size="2">
-        <item index="0" class="java.lang.String" itemvalue=".NET Project.MillionGazillion" />
-        <item index="1" class="java.lang.String" itemvalue=".NET Project.nthFibonacci" />
+      <list size="3">
+        <item index="0" class="java.lang.String" itemvalue=".NET Project.HiCal" />
+        <item index="1" class="java.lang.String" itemvalue=".NET Project.MillionGazillion" />
+        <item index="2" class="java.lang.String" itemvalue=".NET Project.nthFibonacci" />
       </list>
     </recent_temporary>
   </component>
@@ -542,12 +564,12 @@
       <workItem from="1489702288517" duration="1129000" />
       <workItem from="1489759423214" duration="2251000" />
       <workItem from="1489883449183" duration="6331000" />
-      <workItem from="1494333994030" duration="1587000" />
+      <workItem from="1494333994030" duration="3598000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14663000" />
+    <option name="totallyTimeSpent" value="16674000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -566,7 +588,7 @@
       <window_info id="Errors In Solution" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Unit Tests" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32901296" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31505483" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31505483" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="NuGet" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -872,20 +894,36 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/HiCal/Program.cs">
+    <entry file="file://$USER_HOME$/.local/share/JetBrains/Shared/v08/DecompilerCache/decompiler/8F2C4843-0728-4B51-944A-1A13A14C0266/a1/8522f4ac/Int32.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
-          <caret line="14" column="12" lean-forward="false" selection-start-line="14" selection-start-column="12" selection-end-line="14" selection-end-column="12" />
+          <caret line="14" column="16" lean-forward="false" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HiCal/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="40" column="11" lean-forward="false" selection-start-line="40" selection-start-column="11" selection-end-line="40" selection-end-column="11" />
           <folding>
-            <marker date="1494334983000" expanded="true" signature="6:88" ph="..." />
-            <marker date="1494334983000" expanded="true" signature="105:1450" ph="{...}" />
-            <marker date="1494334983000" expanded="true" signature="132:1024" ph="{...}" />
-            <marker date="1494334983000" expanded="true" signature="185:751" ph="{...}" />
-            <marker date="1494334983000" expanded="true" signature="601:741" ph="{...}" />
-            <marker date="1494334983000" expanded="true" signature="823:1018" ph="{...}" />
-            <marker date="1494334983000" expanded="true" signature="1050:1448" ph="{...}" />
-            <marker date="1494334983000" expanded="true" signature="1193:1331" ph="{...}" />
-            <marker date="1494334983000" expanded="true" signature="1374:1442" ph="{...}" />
+            <marker date="1494477344000" expanded="true" signature="6:145" ph="..." />
+            <marker date="1494477344000" expanded="true" signature="162:2481" ph="{...}" />
+            <marker date="1494477344000" expanded="true" signature="189:2055" ph="{...}" />
+            <marker date="1494477344000" expanded="true" signature="242:800" ph="{...}" />
+            <marker date="1494477344000" expanded="true" signature="646:790" ph="{...}" />
+            <marker date="1494477344000" expanded="true" signature="872:2049" ph="{...}" />
+            <marker date="1494477344000" expanded="true" signature="1079:1257" ph="{...}" />
+            <marker date="1494477344000" expanded="true" signature="1168:1243" ph="{...}" />
+            <marker date="1494477344000" expanded="true" signature="1316:2003" ph="{...}" />
+            <marker date="1494477344000" expanded="true" signature="1432:1889" ph="{...}" />
+            <marker date="1494477344000" expanded="true" signature="1506:1597" ph="{...}" />
+            <marker date="1494477344000" expanded="true" signature="1622:1871" ph="{...}" />
+            <marker date="1494477344000" expanded="true" signature="1695:1849" ph="{...}" />
+            <marker date="1494477344000" expanded="true" signature="1910:1989" ph="{...}" />
+            <marker date="1494477344000" expanded="true" signature="2081:2479" ph="{...}" />
+            <marker date="1494477344000" expanded="true" signature="2224:2362" ph="{...}" />
+            <marker date="1494477344000" expanded="true" signature="2405:2473" ph="{...}" />
           </folding>
         </state>
       </provider>
