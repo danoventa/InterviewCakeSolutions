@@ -12,10 +12,13 @@ namespace HiCal
         {
             var meeting1 = new Meeting(2, 3);
             var meeting2 = new Meeting(3, 4);
-            var meeting3 = new Meeting(6, 9);
-            var meeting4 = new Meeting(1, 4);
+            var meeting3 = new Meeting(8, 9);
+            var meeting4 = new Meeting(9, 12);
+            var meeting5 = new Meeting(14, 15);
+            var meeting6 = new Meeting(1, 5);
+            var meeting7 = new Meeting(17, 19);
 
-            var initialMeetings = new List<Meeting> {meeting1, meeting2, meeting3, meeting4};
+            var initialMeetings = new List<Meeting> {meeting1, meeting2, meeting3, meeting4, meeting5, meeting6, meeting7};
 
             var mergedMeetings = MergeRange(initialMeetings);
             foreach (var meeting in mergedMeetings)
@@ -38,11 +41,11 @@ namespace HiCal
                 }
             }
 
-           
+            var meetingArr = meetingSet.ToArray();
+            Array.Sort(meetingArr);
 
-            foreach (var time in meetingSet)
+            foreach (var time in meetingArr)
             {
-                Console.WriteLine(Convert.ToString(time));
                 if (mergedTimes.Count > 0)
                 {
                     if (mergedTimes.Last() + 1 == time)
@@ -51,16 +54,20 @@ namespace HiCal
                     }
                     else
                     {
-                        if (mergedTimes.Count > 0)
-                        {
-                            mergedMeetings.Add(new Meeting(mergedTimes.First(), mergedTimes.Last()));
-                        }
+                        if (mergedTimes.Count <= 0) continue;
+                        mergedMeetings.Add(new Meeting(mergedTimes.First(), mergedTimes.Last()));
+                        mergedTimes = new List<int> {time};
                     }
                 }
                 else
                 {
+
                     mergedTimes.Add(time);
                 }
+            }
+            if (mergedTimes.Count > 0)
+            {
+                mergedMeetings.Add(new Meeting(mergedTimes.First(), mergedTimes.Last()));
             }
 
             return mergedMeetings;
