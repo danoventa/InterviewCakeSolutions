@@ -10,14 +10,7 @@ namespace MakingChange
         {
             var combinations = GetCombinations(5, new []{10,2 , 3, 4});
 
-            foreach (var combination in combinations)
-            {
-                Console.WriteLine();
-                foreach (var denom in combination)
-                {
-                    Console.Write(Convert.ToString(denom) + " ");
-                }
-            }
+            Console.Write(Convert.ToString(combinations) + " ");
         }
 
         public static int GetCombinations(int money, int[] denominations)
