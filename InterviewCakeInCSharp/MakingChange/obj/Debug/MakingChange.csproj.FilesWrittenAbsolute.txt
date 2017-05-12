@@ -1,0 +1,5 @@
+/Users/temogen/Documents/Github/InterviewCakeSolutions/InterviewCakeInCSharp/MakingChange/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/temogen/Documents/Github/InterviewCakeSolutions/InterviewCakeInCSharp/MakingChange/bin/Debug/MakingChange.exe.mdb
+/Users/temogen/Documents/Github/InterviewCakeSolutions/InterviewCakeInCSharp/MakingChange/bin/Debug/MakingChange.exe
+/Users/temogen/Documents/Github/InterviewCakeSolutions/InterviewCakeInCSharp/MakingChange/obj/Debug/MakingChange.exe
+/Users/temogen/Documents/Github/InterviewCakeSolutions/InterviewCakeInCSharp/MakingChange/obj/Debug/MakingChange.exe.mdb
