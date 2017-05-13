@@ -12,11 +12,11 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Program.cs" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Program.cs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/MakingChange/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="378">
-              <caret line="43" column="32" lean-forward="true" selection-start-line="43" selection-start-column="32" selection-end-line="43" selection-end-column="32" />
+              <caret line="43" column="32" lean-forward="false" selection-start-line="43" selection-start-column="32" selection-end-line="43" selection-end-column="32" />
               <folding>
                 <marker date="1494593905000" expanded="true" signature="6:66" ph="..." />
                 <marker date="1494593905000" expanded="true" signature="90:1579" ph="{...}" />
@@ -35,6 +35,25 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="Program.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/RectangularLove/Program.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="480">
+              <caret line="34" column="33" lean-forward="false" selection-start-line="34" selection-start-column="33" selection-end-line="34" selection-end-column="33" />
+              <folding>
+                <marker date="1494709765000" expanded="true" signature="6:83" ph="..." />
+                <marker date="1494709765000" expanded="true" signature="110:1691" ph="{...}" />
+                <marker date="1494709765000" expanded="true" signature="139:1689" ph="{...}" />
+                <marker date="1494709765000" expanded="true" signature="192:620" ph="{...}" />
+                <marker date="1494709765000" expanded="true" signature="707:1062" ph="{...}" />
+                <marker date="1494709765000" expanded="true" signature="731:1014" ph="/* identify perimeter boundaries ... */" />
+                <marker date="1494709765000" expanded="true" signature="1142:1683" ph="{...}" />
+                <marker date="1494709765000" expanded="true" signature="1515:1673" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
     </leaf>
   </component>
   <component name="IdeDocumentHistory">
@@ -48,6 +67,7 @@
         <option value="$PROJECT_DIR$/BinarySearchTreeChecker/Program.cs" />
         <option value="$PROJECT_DIR$/HiCal/Program.cs" />
         <option value="$PROJECT_DIR$/MakingChange/Program.cs" />
+        <option value="$PROJECT_DIR$/RectangularLove/Program.cs" />
       </list>
     </option>
   </component>
@@ -85,7 +105,7 @@
               <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="InterviewCakeInCSharp (6 projects)" />
+              <option name="myItemId" value="InterviewCakeInCSharp (7 projects)" />
               <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerNodeRider" />
             </PATH_ELEMENT>
           </PATH>
@@ -405,12 +425,12 @@
       <workItem from="1489702288517" duration="1129000" />
       <workItem from="1489759423214" duration="2251000" />
       <workItem from="1489883449183" duration="6331000" />
-      <workItem from="1494333994030" duration="9971000" />
+      <workItem from="1494333994030" duration="10972000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23047000" />
+    <option name="totallyTimeSpent" value="24048000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -427,9 +447,9 @@
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Errors In Solution" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2662014" sideWeight="0.50238097" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Unit Tests" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32901296" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2662014" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2662014" sideWeight="0.49761903" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="NuGet" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -778,7 +798,7 @@
     <entry file="file://$PROJECT_DIR$/MakingChange/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="378">
-          <caret line="43" column="32" lean-forward="true" selection-start-line="43" selection-start-column="32" selection-end-line="43" selection-end-column="32" />
+          <caret line="43" column="32" lean-forward="false" selection-start-line="43" selection-start-column="32" selection-end-line="43" selection-end-column="32" />
           <folding>
             <marker date="1494593905000" expanded="true" signature="6:66" ph="..." />
             <marker date="1494593905000" expanded="true" signature="90:1579" ph="{...}" />
@@ -792,6 +812,23 @@
             <marker date="1494593905000" expanded="true" signature="1111:1484" ph="{...}" />
             <marker date="1494593905000" expanded="true" signature="1199:1322" ph="{...}" />
             <marker date="1494593905000" expanded="true" signature="1351:1462" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RectangularLove/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="34" column="33" lean-forward="false" selection-start-line="34" selection-start-column="33" selection-end-line="34" selection-end-column="33" />
+          <folding>
+            <marker date="1494709765000" expanded="true" signature="6:83" ph="..." />
+            <marker date="1494709765000" expanded="true" signature="110:1691" ph="{...}" />
+            <marker date="1494709765000" expanded="true" signature="139:1689" ph="{...}" />
+            <marker date="1494709765000" expanded="true" signature="192:620" ph="{...}" />
+            <marker date="1494709765000" expanded="true" signature="707:1062" ph="{...}" />
+            <marker date="1494709765000" expanded="true" signature="731:1014" ph="/* identify perimeter boundaries ... */" />
+            <marker date="1494709765000" expanded="true" signature="1142:1683" ph="{...}" />
+            <marker date="1494709765000" expanded="true" signature="1515:1673" ph="{...}" />
           </folding>
         </state>
       </provider>

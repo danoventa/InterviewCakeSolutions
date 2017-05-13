@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HiCal", "HiCal\HiCal.csproj
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MakingChange", "MakingChange\MakingChange.csproj", "{178C3263-A361-458F-81CF-A41AB53763E9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RectangularLove", "RectangularLove\RectangularLove.csproj", "{4F185933-6429-42D8-ADDC-5BA01BA054DC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{178C3263-A361-458F-81CF-A41AB53763E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{178C3263-A361-458F-81CF-A41AB53763E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{178C3263-A361-458F-81CF-A41AB53763E9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F185933-6429-42D8-ADDC-5BA01BA054DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F185933-6429-42D8-ADDC-5BA01BA054DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F185933-6429-42D8-ADDC-5BA01BA054DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F185933-6429-42D8-ADDC-5BA01BA054DC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
