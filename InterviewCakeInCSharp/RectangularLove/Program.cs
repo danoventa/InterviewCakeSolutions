@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Reflection;
 using System.Security.Cryptography;
 
 namespace RectangularLove
@@ -10,29 +11,39 @@ namespace RectangularLove
         {
             var person1 = new Rectangle(0, 0, 3, 4);
 
-            var person2 = new Rectangle(1, 2, 4, 4);
+            var person2 = new Rectangle(2, 2, 4, 4);
 
             var loveTriangle = GetLoveTriangle(person1, person2);
-            
+
             Console.WriteLine(Convert.ToString(loveTriangle.LeftX));
             Console.WriteLine(Convert.ToString(loveTriangle.BottomY));
             Console.WriteLine(Convert.ToString(loveTriangle.Width));
             Console.WriteLine(Convert.ToString(loveTriangle.Height));
+
 
         }
 
         public static Rectangle GetLoveTriangle(Rectangle person1, Rectangle person2)
         {
 
-            // identify perimeter boundaries
-            // see if any love rectangle exists, if not return 0000 rectangle or error
 
-            // see which is left most, see which is bottom most.
-            // see which is right most, see which is top most.
+            var leastBottomest = Math.Max(person1.BottomY, person2.BottomY);
+            var leastLeftest = Math.Max(person1.LeftX, person2.LeftX);
 
-            // generate rectangle
+            var leastToppest = Math.Min(person1.BottomY + person1.Height, person2.BottomY + person2.Height);
+            var leastRightest = Math.Min(person1.LeftX + person1.Width, person2.LeftX + person2.Width);
 
-            return new Rectangle();
+            var loveWidth = leastRightest - leastLeftest;
+            var loveHeight = leastToppest - leastBottomest;
+
+            if (loveWidth < 0 || loveHeight < 0)
+            {
+                throw new Exception("There is no love here...");
+            }
+
+            var loveRectangle = new Rectangle(leastLeftest, leastBottomest, loveWidth, loveHeight);
+
+            return loveRectangle;
 
         }
 
