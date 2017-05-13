@@ -20,12 +20,10 @@ namespace RectangularLove
             Console.WriteLine(Convert.ToString(loveTriangle.Width));
             Console.WriteLine(Convert.ToString(loveTriangle.Height));
 
-
         }
 
         public static Rectangle GetLoveTriangle(Rectangle person1, Rectangle person2)
         {
-
 
             var leastBottomest = Math.Max(person1.BottomY, person2.BottomY);
             var leastLeftest = Math.Max(person1.LeftX, person2.LeftX);
@@ -36,7 +34,7 @@ namespace RectangularLove
             var loveWidth = leastRightest - leastLeftest;
             var loveHeight = leastToppest - leastBottomest;
 
-            if (loveWidth < 0 || loveHeight < 0)
+            if (loveWidth <= 0 || loveHeight <= 0)
             {
                 throw new Exception("There is no love here...");
             }
