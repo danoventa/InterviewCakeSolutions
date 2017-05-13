@@ -8,19 +8,17 @@ namespace RectangularLove
     {
         public static void Main(string[] args)
         {
-            var person1 = new Rectangle();
-            person1.BottomY = 0;
-            person1.LeftX = 0;
-            person1.Height = 4;
-            person1.Width = 3;
+            var person1 = new Rectangle(0, 0, 3, 4);
 
-            var person2 = new Rectangle();
-            person2.BottomY = 0;
-            person2.LeftX = 0;
-            person2.Height = 4;
-            person2.Width = 3;
+            var person2 = new Rectangle(1, 2, 4, 4);
 
             var loveTriangle = GetLoveTriangle(person1, person2);
+            
+            Console.WriteLine(Convert.ToString(loveTriangle.LeftX));
+            Console.WriteLine(Convert.ToString(loveTriangle.BottomY));
+            Console.WriteLine(Convert.ToString(loveTriangle.Width));
+            Console.WriteLine(Convert.ToString(loveTriangle.Height));
+
         }
 
         public static Rectangle GetLoveTriangle(Rectangle person1, Rectangle person2)

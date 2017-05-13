@@ -38,17 +38,17 @@
       <file leaf-file-name="Program.cs" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/RectangularLove/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="480">
-              <caret line="34" column="33" lean-forward="false" selection-start-line="34" selection-start-column="33" selection-end-line="34" selection-end-column="33" />
+            <state relative-caret-position="208">
+              <caret line="15" column="12" lean-forward="false" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="12" />
               <folding>
-                <marker date="1494709765000" expanded="true" signature="6:83" ph="..." />
-                <marker date="1494709765000" expanded="true" signature="110:1691" ph="{...}" />
-                <marker date="1494709765000" expanded="true" signature="139:1689" ph="{...}" />
-                <marker date="1494709765000" expanded="true" signature="192:620" ph="{...}" />
-                <marker date="1494709765000" expanded="true" signature="707:1062" ph="{...}" />
-                <marker date="1494709765000" expanded="true" signature="731:1014" ph="/* identify perimeter boundaries ... */" />
-                <marker date="1494709765000" expanded="true" signature="1142:1683" ph="{...}" />
-                <marker date="1494709765000" expanded="true" signature="1515:1673" ph="{...}" />
+                <marker date="1494710057000" expanded="true" signature="6:83" ph="..." />
+                <marker date="1494710057000" expanded="true" signature="110:1750" ph="{...}" />
+                <marker date="1494710057000" expanded="true" signature="139:1748" ph="{...}" />
+                <marker date="1494710057000" expanded="true" signature="192:679" ph="{...}" />
+                <marker date="1494710057000" expanded="true" signature="766:1121" ph="{...}" />
+                <marker date="1494710057000" expanded="true" signature="790:1073" ph="/* identify perimeter boundaries ... */" />
+                <marker date="1494710057000" expanded="true" signature="1201:1742" ph="{...}" />
+                <marker date="1494710057000" expanded="true" signature="1574:1732" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -425,12 +425,12 @@
       <workItem from="1489702288517" duration="1129000" />
       <workItem from="1489759423214" duration="2251000" />
       <workItem from="1489883449183" duration="6331000" />
-      <workItem from="1494333994030" duration="10972000" />
+      <workItem from="1494333994030" duration="11266000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="24048000" />
+    <option name="totallyTimeSpent" value="24342000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -818,17 +818,17 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/RectangularLove/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="34" column="33" lean-forward="false" selection-start-line="34" selection-start-column="33" selection-end-line="34" selection-end-column="33" />
+        <state relative-caret-position="208">
+          <caret line="15" column="12" lean-forward="false" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="12" />
           <folding>
-            <marker date="1494709765000" expanded="true" signature="6:83" ph="..." />
-            <marker date="1494709765000" expanded="true" signature="110:1691" ph="{...}" />
-            <marker date="1494709765000" expanded="true" signature="139:1689" ph="{...}" />
-            <marker date="1494709765000" expanded="true" signature="192:620" ph="{...}" />
-            <marker date="1494709765000" expanded="true" signature="707:1062" ph="{...}" />
-            <marker date="1494709765000" expanded="true" signature="731:1014" ph="/* identify perimeter boundaries ... */" />
-            <marker date="1494709765000" expanded="true" signature="1142:1683" ph="{...}" />
-            <marker date="1494709765000" expanded="true" signature="1515:1673" ph="{...}" />
+            <marker date="1494710057000" expanded="true" signature="6:83" ph="..." />
+            <marker date="1494710057000" expanded="true" signature="110:1750" ph="{...}" />
+            <marker date="1494710057000" expanded="true" signature="139:1748" ph="{...}" />
+            <marker date="1494710057000" expanded="true" signature="192:679" ph="{...}" />
+            <marker date="1494710057000" expanded="true" signature="766:1121" ph="{...}" />
+            <marker date="1494710057000" expanded="true" signature="790:1073" ph="/* identify perimeter boundaries ... */" />
+            <marker date="1494710057000" expanded="true" signature="1201:1742" ph="{...}" />
+            <marker date="1494710057000" expanded="true" signature="1574:1732" ph="{...}" />
           </folding>
         </state>
       </provider>
