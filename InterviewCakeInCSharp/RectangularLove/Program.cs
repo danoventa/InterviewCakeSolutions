@@ -38,7 +38,6 @@ namespace RectangularLove
             {
                 throw new Exception("There is no love here...");
             }
-
             var loveRectangle = new Rectangle(leastLeftest, leastBottomest, loveWidth, loveHeight);
 
             return loveRectangle;
