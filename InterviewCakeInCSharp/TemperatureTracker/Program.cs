@@ -51,11 +51,17 @@ namespace TemperatureTracker
             public double GetMean()
             {
                 var node = Head;
-                return GetMeandR(node);
+                return GetMeandR(node, 0, 0);
             }
-            private static double GetMeandR(Node node)
+
+            private static double GetMeandR(Node node, int sum, int count)
             {
-                return 0.0;
+                if (node == null)
+                {
+                    return sum / count;
+                }
+                return (GetMeandR(node.Left, sum + node.Value , count + 1) +
+                          GetMeandR(node.Right, sum + node.Value , count + 1)) / 2;
             }
         }
 
