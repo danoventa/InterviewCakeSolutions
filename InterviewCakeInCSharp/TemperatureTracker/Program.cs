@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Runtime.CompilerServices;
 using System.Runtime.InteropServices;
 using System.Threading;
 
@@ -46,14 +47,24 @@ namespace TemperatureTracker
 
             public int GetMode()
             {
-                return 0;
+                var dictionary = Dictinoary<int, int>;
+                GetCount(Head, dictionary);
+                var max = 0;
+                var mode = 0;
+                foreach (var item in dictionary)
+                {
+                    if (item.value <= max) continue;
+                    max = item.value;
+                    mode = item.key;
+                }
+                return mode;
             }
 
             public double GetMean()
             {
                 var node = Head;
                 var dictionary = new Dictionary<int, int>();
-                GetMeandR(node, dictionary);
+                GetCount(node, dictionary);
                 var count = 0;
                 var sum = 0;
                 foreach (var item in dictionary)
@@ -65,7 +76,7 @@ namespace TemperatureTracker
                 return sum / count;
             }
 
-            private static void GetMeandR(Node node, Dictionary<int, int> dictionary)
+            private static void GetCount(Node node, Dictionary<int, int> dictionary)
             {
                 if (node == null)
                 {
@@ -79,8 +90,8 @@ namespace TemperatureTracker
                 {
                     dictionary.Add(node.Value, 1);
                 }
-                GetMeandR(node.Left, dictionary);
-                GetMeandR(node.Right, dictionary);
+                GetCount(node.Left, dictionary);
+                GetCount(node.Right, dictionary);
             }
         }
 
