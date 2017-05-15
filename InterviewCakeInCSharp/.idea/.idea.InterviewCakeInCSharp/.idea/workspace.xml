@@ -35,11 +35,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Program.cs" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Program.cs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/RectangularLove/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="838">
-              <caret line="57" column="33" lean-forward="true" selection-start-line="57" selection-start-column="33" selection-end-line="57" selection-end-column="33" />
+              <caret line="57" column="33" lean-forward="false" selection-start-line="57" selection-start-column="33" selection-end-line="57" selection-end-column="33" />
               <folding>
                 <marker date="1494781113000" expanded="true" signature="6:108" ph="..." />
                 <marker date="1494781113000" expanded="true" signature="135:2191" ph="{...}" />
@@ -49,6 +49,33 @@
                 <marker date="1494781113000" expanded="true" signature="1323:1416" ph="{...}" />
                 <marker date="1494781113000" expanded="true" signature="1642:2183" ph="{...}" />
                 <marker date="1494781113000" expanded="true" signature="2015:2173" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Program.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/TemperatureTracker/Program.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="603">
+              <caret line="57" column="27" lean-forward="false" selection-start-line="57" selection-start-column="27" selection-end-line="57" selection-end-column="27" />
+              <folding>
+                <marker date="1494842092000" expanded="true" signature="6:85" ph="..." />
+                <marker date="1494842092000" expanded="true" signature="115:1614" ph="{...}" />
+                <marker date="1494842092000" expanded="true" signature="144:1612" ph="{...}" />
+                <marker date="1494842092000" expanded="true" signature="197:217" ph="{...}" />
+                <marker date="1494842092000" expanded="true" signature="251:1339" ph="{...}" />
+                <marker date="1494842092000" expanded="true" signature="402:498" ph="{...}" />
+                <marker date="1494842092000" expanded="true" signature="433:484" ph="/* insert at proper location ... */" />
+                <marker date="1494842092000" expanded="true" signature="531:746" ph="{...}" />
+                <marker date="1494842092000" expanded="true" signature="622:697" ph="{...}" />
+                <marker date="1494842092000" expanded="true" signature="779:992" ph="{...}" />
+                <marker date="1494842092000" expanded="true" signature="869:943" ph="{...}" />
+                <marker date="1494842092000" expanded="true" signature="1026:1080" ph="{...}" />
+                <marker date="1494842092000" expanded="true" signature="1117:1218" ph="{...}" />
+                <marker date="1494842092000" expanded="true" signature="1273:1329" ph="{...}" />
+                <marker date="1494842092000" expanded="true" signature="1366:1606" ph="{...}" />
+                <marker date="1494842092000" expanded="true" signature="1537:1596" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -68,6 +95,7 @@
         <option value="$PROJECT_DIR$/HiCal/Program.cs" />
         <option value="$PROJECT_DIR$/MakingChange/Program.cs" />
         <option value="$PROJECT_DIR$/RectangularLove/Program.cs" />
+        <option value="$PROJECT_DIR$/TemperatureTracker/Program.cs" />
       </list>
     </option>
   </component>
@@ -105,7 +133,7 @@
               <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="InterviewCakeInCSharp (7 projects)" />
+              <option name="myItemId" value="InterviewCakeInCSharp (8 projects)" />
               <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerNodeRider" />
             </PATH_ELEMENT>
           </PATH>
@@ -439,12 +467,12 @@
       <workItem from="1489702288517" duration="1129000" />
       <workItem from="1489759423214" duration="2251000" />
       <workItem from="1489883449183" duration="6331000" />
-      <workItem from="1494333994030" duration="13802000" />
+      <workItem from="1494333994030" duration="15270000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26878000" />
+    <option name="totallyTimeSpent" value="28346000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -833,7 +861,7 @@
     <entry file="file://$PROJECT_DIR$/RectangularLove/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="838">
-          <caret line="57" column="33" lean-forward="true" selection-start-line="57" selection-start-column="33" selection-end-line="57" selection-end-column="33" />
+          <caret line="57" column="33" lean-forward="false" selection-start-line="57" selection-start-column="33" selection-end-line="57" selection-end-column="33" />
           <folding>
             <marker date="1494781113000" expanded="true" signature="6:108" ph="..." />
             <marker date="1494781113000" expanded="true" signature="135:2191" ph="{...}" />
@@ -843,6 +871,31 @@
             <marker date="1494781113000" expanded="true" signature="1323:1416" ph="{...}" />
             <marker date="1494781113000" expanded="true" signature="1642:2183" ph="{...}" />
             <marker date="1494781113000" expanded="true" signature="2015:2173" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TemperatureTracker/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="603">
+          <caret line="57" column="27" lean-forward="false" selection-start-line="57" selection-start-column="27" selection-end-line="57" selection-end-column="27" />
+          <folding>
+            <marker date="1494842092000" expanded="true" signature="6:85" ph="..." />
+            <marker date="1494842092000" expanded="true" signature="115:1614" ph="{...}" />
+            <marker date="1494842092000" expanded="true" signature="144:1612" ph="{...}" />
+            <marker date="1494842092000" expanded="true" signature="197:217" ph="{...}" />
+            <marker date="1494842092000" expanded="true" signature="251:1339" ph="{...}" />
+            <marker date="1494842092000" expanded="true" signature="402:498" ph="{...}" />
+            <marker date="1494842092000" expanded="true" signature="433:484" ph="/* insert at proper location ... */" />
+            <marker date="1494842092000" expanded="true" signature="531:746" ph="{...}" />
+            <marker date="1494842092000" expanded="true" signature="622:697" ph="{...}" />
+            <marker date="1494842092000" expanded="true" signature="779:992" ph="{...}" />
+            <marker date="1494842092000" expanded="true" signature="869:943" ph="{...}" />
+            <marker date="1494842092000" expanded="true" signature="1026:1080" ph="{...}" />
+            <marker date="1494842092000" expanded="true" signature="1117:1218" ph="{...}" />
+            <marker date="1494842092000" expanded="true" signature="1273:1329" ph="{...}" />
+            <marker date="1494842092000" expanded="true" signature="1366:1606" ph="{...}" />
+            <marker date="1494842092000" expanded="true" signature="1537:1596" ph="{...}" />
           </folding>
         </state>
       </provider>
