@@ -10,17 +10,67 @@ namespace TemperatureTracker
     {
         public static void Main(string[] args)
         {
+
         }
 
         public class TempTracker
         {
-            public List<Node> Temperature { get; set; }
             public Node Head { get; set; }
 
-            public void Insert(int temp)
+            public TempTracker()
             {
-                // insert at proper location
-                // BST
+                Head = null;
+            }
+
+            public void Insert(int val)
+            {
+                if (Head == null)
+                {
+                    Head = new Node(val);
+                    return;
+                }
+                var node = Head;
+
+                while (true)
+                {
+                    if (node.Left == null && node.Right == null)
+                    {
+                        if (node.Value > val)
+                        {
+                            node.Right = new Node(val);
+                            break;
+                        }
+                        node.Left = new Node(val);
+                        break;
+                    }
+
+                    if (node.Value > val)
+                    {
+                        if (node.Right != null)
+                        {
+                            if (node.Right.Value < val)
+                            {
+                                node.Right = new Node(val, node.Right.Left, node.Right);
+                                break;
+                            }
+                            node = node.Right;
+                            continue;
+                        }
+                        node.Right = new Node(val);
+                    }
+
+                    if (node.Left == null)
+                    {
+                        node.Left = new Node(val);
+                        break;
+                    }
+                    if (node.Left.Value > val)
+                    {
+                        node.Left = new Node(val, node.Left.Right, node.Left);
+                        break;
+                    }
+                    node = node.Left;
+                }
             }
 
             public int GetMax()
@@ -47,15 +97,15 @@ namespace TemperatureTracker
 
             public int GetMode()
             {
-                var dictionary = Dictinoary<int, int>;
+                var dictionary = new Dictionary<int, int>();
                 GetCount(Head, dictionary);
                 var max = 0;
                 var mode = 0;
                 foreach (var item in dictionary)
                 {
-                    if (item.value <= max) continue;
-                    max = item.value;
-                    mode = item.key;
+                    if (item.Value <= max) continue;
+                    max = item.Value;
+                    mode = item.Key;
                 }
                 return mode;
             }
@@ -104,6 +154,13 @@ namespace TemperatureTracker
             public Node(int value)
             {
                 Value = value;
+            }
+
+            public Node(int value, Node left, Node right)
+            {
+                Value = value;
+                Left = left;
+                Right = right;
             }
         }
     }
