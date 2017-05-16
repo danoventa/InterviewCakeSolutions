@@ -1,0 +1,5 @@
+/Users/temogen/Documents/Github/InterviewCakeSolutions/InterviewCakeInCSharp/TemperatureTracker/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/temogen/Documents/Github/InterviewCakeSolutions/InterviewCakeInCSharp/TemperatureTracker/bin/Debug/TemperatureTracker.exe.mdb
+/Users/temogen/Documents/Github/InterviewCakeSolutions/InterviewCakeInCSharp/TemperatureTracker/bin/Debug/TemperatureTracker.exe
+/Users/temogen/Documents/Github/InterviewCakeSolutions/InterviewCakeInCSharp/TemperatureTracker/obj/Debug/TemperatureTracker.exe
+/Users/temogen/Documents/Github/InterviewCakeSolutions/InterviewCakeInCSharp/TemperatureTracker/obj/Debug/TemperatureTracker.exe.mdb
