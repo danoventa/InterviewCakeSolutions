@@ -15,7 +15,11 @@ namespace TemperatureTracker
 
         public class TempTracker
         {
-            public Node Head { get; set; }
+            private Node Head;
+            private int _Max;
+            private int _Min;
+            private int _Mode;
+            private double _Mean;
 
             public TempTracker()
             {
@@ -75,73 +79,22 @@ namespace TemperatureTracker
 
             public int GetMax()
             {
-                var node = Head;
-
-                while (node.Right != null)
-                {
-                    node = node.Right;
-                }
-                return node.Value;
+                return _Max;
             }
 
             public int GetMin()
             {
-                var node = Head;
-
-                while (node.Left != null)
-                {
-                    node = node.Left;
-                }
-                return node.Value;
+                return _Min;
             }
 
             public int GetMode()
             {
-                var dictionary = new Dictionary<int, int>();
-                GetCount(Head, dictionary);
-                var max = 0;
-                var mode = 0;
-                foreach (var item in dictionary)
-                {
-                    if (item.Value <= max) continue;
-                    max = item.Value;
-                    mode = item.Key;
-                }
-                return mode;
+                return _Mode;
             }
 
             public double GetMean()
             {
-                var node = Head;
-                var dictionary = new Dictionary<int, int>();
-                GetCount(node, dictionary);
-                var count = 0;
-                var sum = 0;
-                foreach (var item in dictionary)
-                {
-                    sum += item.Key;
-                    count += item.Value;
-                }
-
-                return sum / count;
-            }
-
-            private static void GetCount(Node node, Dictionary<int, int> dictionary)
-            {
-                if (node == null)
-                {
-                    return;
-                }
-                if (dictionary.ContainsKey(node.Value))
-                {
-                    dictionary[node.Value] += 1;
-                }
-                else
-                {
-                    dictionary.Add(node.Value, 1);
-                }
-                GetCount(node.Left, dictionary);
-                GetCount(node.Right, dictionary);
+                return _Mean;
             }
         }
 
