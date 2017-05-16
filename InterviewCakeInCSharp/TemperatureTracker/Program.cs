@@ -15,86 +15,45 @@ namespace TemperatureTracker
 
         public class TempTracker
         {
-            private Node Head;
-            private int _Max;
-            private int _Min;
-            private int _Mode;
-            private double _Mean;
-
-            public TempTracker()
-            {
-                Head = null;
-            }
+            private Node _head;
+            private int _max = int.MinValue;
+            private int _min = int.MaxValue;
+            private int _mode;
+            private double _mean;
 
             public void Insert(int val)
             {
-                if (Head == null)
+                if (_head == null)
                 {
-                    Head = new Node(val);
+                    _max = val;
+                    _min = val;
+                    _mode = val;
+                    _mean = val;
+                    _head = new Node(val);
                     return;
                 }
-                var node = Head;
 
-                while (true)
-                {
-                    if (node.Left == null && node.Right == null)
-                    {
-                        if (node.Value > val)
-                        {
-                            node.Right = new Node(val);
-                            break;
-                        }
-                        node.Left = new Node(val);
-                        break;
-                    }
 
-                    if (node.Value > val)
-                    {
-                        if (node.Right != null)
-                        {
-                            if (node.Right.Value < val)
-                            {
-                                node.Right = new Node(val, node.Right.Left, node.Right);
-                                break;
-                            }
-                            node = node.Right;
-                            continue;
-                        }
-                        node.Right = new Node(val);
-                    }
-
-                    if (node.Left == null)
-                    {
-                        node.Left = new Node(val);
-                        break;
-                    }
-                    if (node.Left.Value > val)
-                    {
-                        node.Left = new Node(val, node.Left.Right, node.Left);
-                        break;
-                    }
-                    node = node.Left;
-                }
             }
 
             public int GetMax()
             {
-                return _Max;
+                return _max;
             }
 
             public int GetMin()
             {
-                return _Min;
+                return _min;
             }
 
             public int GetMode()
             {
-                return _Mode;
+                return _mode;
             }
 
             public double GetMean()
             {
-                return _Mean;
+                return _mean;
             }
         }
 
