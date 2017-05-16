@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Globalization;
 using System.Runtime.CompilerServices;
 using System.Runtime.InteropServices;
 using System.Threading;
@@ -18,17 +19,26 @@ namespace TemperatureTracker
                 new TempTracker(),
                 new TempTracker()
             };
-
+            var counter = 0;
             foreach (var test in testList)
             {
-                var rand = new Random(15);
-                Console.WriteLine(rand.Next());
-                for (var i = 0; i < rand.Next(); i++)
+                var rand = new Random();
+                Console.WriteLine();
+                Console.WriteLine("Load this one: ");
+                var cap = rand.Next(9 + counter);
+                for (var i = 0; i < cap; i++)
                 {
-                    var next = rand.Next();
-                    Console.Write(Convert.ToString(next));
+                    var next = rand.Next(9 + i + counter);
+                    Console.WriteLine("Next: " + Convert.ToString(next));
                     test.Insert(next);
                 }
+                counter++;
+                Console.WriteLine("Test This one ");
+                Console.WriteLine("Max: " + Convert.ToString(test.GetMax()));
+                Console.WriteLine("Min: " + Convert.ToString(test.GetMin()));
+                Console.WriteLine("Mode: " + Convert.ToString(test.GetMode()));
+                Console.WriteLine("Mean: " + Convert.ToString(test.GetMean(), CultureInfo.InvariantCulture));
+                Console.WriteLine();
             }
         }
 
@@ -75,7 +85,7 @@ namespace TemperatureTracker
 
                 _sum += val;
                 _count += 1;
-                _mean = _sum / _count;
+                _mean = _sum / (double)_count;
             }
 
             public int GetMax()
