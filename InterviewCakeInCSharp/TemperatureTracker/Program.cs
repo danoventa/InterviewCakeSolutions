@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Globalization;
 using System.Runtime.CompilerServices;
 using System.Runtime.InteropServices;
+using System.Security.Cryptography.X509Certificates;
 using System.Threading;
 
 namespace TemperatureTracker
@@ -39,7 +40,61 @@ namespace TemperatureTracker
                 Console.WriteLine("Mode: " + Convert.ToString(test.GetMode()));
                 Console.WriteLine("Mean: " + Convert.ToString(test.GetMean(), CultureInfo.InvariantCulture));
                 Console.WriteLine();
+
+                if (test.GetMax() > 0 && test.GetMin() > 0)
+                {
+                    Console.WriteLine("This Works");
+                }
             }
+
+            var sums = new List<int> {-4, -3, -2, -2, -2, -3, -4, -1};
+            Console.WriteLine(Convert.ToString(getMaxSum(sums)));
+        }
+
+        public static int getMaxSum(List<int> sums) {
+
+            if(sums.Count == 0){
+                return 0;
+            }
+
+            if(sums.Count == 1) {
+                return sums[0];
+            }
+
+            var maxSum = int.MinValue;
+            var currMax = int.MinValue;
+            foreach (var t in sums)
+            {
+                if (t < 0)
+                {
+                    if (maxSum < currMax)
+                    {
+                        maxSum = currMax;
+                        currMax = int.MinValue;
+                        continue;
+                    }
+                    if (maxSum == currMax)
+                    {
+                        maxSum = t;
+                        continue;
+                    }
+                    if (maxSum < t)
+                    {
+                        maxSum = t;
+                        continue;
+                    }
+                }
+
+                if (currMax == int.MinValue )
+                {
+                    currMax = t;
+                    continue;
+                }
+                maxSum = Math.Max(Math.Max(maxSum, currMax), t);
+                currMax += t;
+            }
+
+            return Math.Max(maxSum, currMax);
         }
 
         public class TempTracker
