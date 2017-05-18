@@ -19,6 +19,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RectangularLove", "Rectangu
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TemperatureTracker", "TemperatureTracker\TemperatureTracker.csproj", "{ADA2C5C0-652A-452F-8288-88FBF2D2E423}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwoEggProblem", "TwoEggProblem\TwoEggProblem.csproj", "{5A3812C2-683F-4AA7-AE34-5597C40BE043}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -57,6 +59,10 @@ Global
 		{ADA2C5C0-652A-452F-8288-88FBF2D2E423}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ADA2C5C0-652A-452F-8288-88FBF2D2E423}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ADA2C5C0-652A-452F-8288-88FBF2D2E423}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5A3812C2-683F-4AA7-AE34-5597C40BE043}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A3812C2-683F-4AA7-AE34-5597C40BE043}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A3812C2-683F-4AA7-AE34-5597C40BE043}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A3812C2-683F-4AA7-AE34-5597C40BE043}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

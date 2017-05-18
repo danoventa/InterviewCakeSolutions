@@ -53,7 +53,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Program.cs" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Program.cs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/TemperatureTracker/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="528">
@@ -92,6 +92,28 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="Program.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/TwoEggProblem/Program.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="134">
+              <caret line="12" column="26" lean-forward="false" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
+              <folding>
+                <marker date="1495114066000" expanded="true" signature="6:111" ph="..." />
+                <marker date="1495114066000" expanded="true" signature="136:2155" ph="{...}" />
+                <marker date="1495114066000" expanded="true" signature="165:2153" ph="{...}" />
+                <marker date="1495114066000" expanded="true" signature="218:509" ph="{...}" />
+                <marker date="1495114066000" expanded="true" signature="587:1645" ph="{...}" />
+                <marker date="1495114066000" expanded="true" signature="709:1606" ph="{...}" />
+                <marker date="1495114066000" expanded="true" signature="896:1352" ph="{...}" />
+                <marker date="1495114066000" expanded="true" signature="1023:1110" ph="{...}" />
+                <marker date="1495114066000" expanded="true" signature="1373:1592" ph="{...}" />
+                <marker date="1495114066000" expanded="true" signature="1434:1547" ph="{...}" />
+                <marker date="1495114066000" expanded="true" signature="1701:2147" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
     </leaf>
   </component>
   <component name="IdeDocumentHistory">
@@ -107,6 +129,7 @@
         <option value="$PROJECT_DIR$/MakingChange/Program.cs" />
         <option value="$PROJECT_DIR$/RectangularLove/Program.cs" />
         <option value="$PROJECT_DIR$/TemperatureTracker/Program.cs" />
+        <option value="$PROJECT_DIR$/TwoEggProblem/Program.cs" />
       </list>
     </option>
   </component>
@@ -143,7 +166,7 @@
               <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="InterviewCakeInCSharp (8 projects)" />
+              <option name="myItemId" value="InterviewCakeInCSharp (9 projects)" />
               <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerNodeRider" />
             </PATH_ELEMENT>
           </PATH>
@@ -170,7 +193,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected=".NET Project.RectangularLove">
+  <component name="RunManager" selected=".NET Project.MakingChange">
     <configuration default="false" name="nthFibonacci" type="DotNetProject" factoryName=".NET Project" temporary="true">
       <option name="PROJECT_PATH" value="$PROJECT_DIR$/nthFibonacci/nthFibonacci.csproj" />
       <option name="PROJECT_KIND" value="Console" />
@@ -207,18 +230,6 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="MakingChange" type="DotNetProject" factoryName=".NET Project" temporary="true">
-      <option name="PROJECT_PATH" value="$PROJECT_DIR$/MakingChange/MakingChange.csproj" />
-      <option name="PROJECT_KIND" value="Console" />
-      <option name="PROJECT_TFM" value=".NETFramework,Version=v4.5" />
-      <option name="EXE_PATH" value="$PROJECT_DIR$/MakingChange/bin/Debug/MakingChange.exe" />
-      <option name="PROGRAM_PARAMETERS" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MakingChange/bin/Debug" />
-      <option name="USE_MONO" value="0" />
-      <option name="USE_EXTERNAL_CONSOLE" value="0" />
-      <envs />
-      <method />
-    </configuration>
     <configuration default="false" name="RectangularLove" type="DotNetProject" factoryName=".NET Project" temporary="true">
       <option name="PROJECT_PATH" value="$PROJECT_DIR$/TemperatureTracker/TemperatureTracker.csproj" />
       <option name="PROJECT_KIND" value="Console" />
@@ -226,6 +237,18 @@
       <option name="EXE_PATH" value="$PROJECT_DIR$/TemperatureTracker/bin/Debug/TemperatureTracker.exe" />
       <option name="PROGRAM_PARAMETERS" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/TemperatureTracker/bin/Debug" />
+      <option name="USE_MONO" value="0" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="MakingChange" type="DotNetProject" factoryName=".NET Project" temporary="true">
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/TwoEggProblem/TwoEggProblem.csproj" />
+      <option name="PROJECT_KIND" value="Console" />
+      <option name="PROJECT_TFM" value=".NETFramework,Version=v4.5" />
+      <option name="EXE_PATH" value="$PROJECT_DIR$/TwoEggProblem/bin/Debug/TwoEggProblem.exe" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/TwoEggProblem/bin/Debug" />
       <option name="USE_MONO" value="0" />
       <option name="USE_EXTERNAL_CONSOLE" value="0" />
       <envs />
@@ -404,13 +427,13 @@
       <item index="1" class="java.lang.String" itemvalue=".NET Project.nthFibonacci" />
       <item index="2" class="java.lang.String" itemvalue=".NET Project.MillionGazillion" />
       <item index="3" class="java.lang.String" itemvalue=".NET Project.HiCal" />
-      <item index="4" class="java.lang.String" itemvalue=".NET Project.MakingChange" />
-      <item index="5" class="java.lang.String" itemvalue=".NET Project.RectangularLove" />
+      <item index="4" class="java.lang.String" itemvalue=".NET Project.RectangularLove" />
+      <item index="5" class="java.lang.String" itemvalue=".NET Project.MakingChange" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue=".NET Project.RectangularLove" />
-        <item index="1" class="java.lang.String" itemvalue=".NET Project.MakingChange" />
+        <item index="0" class="java.lang.String" itemvalue=".NET Project.MakingChange" />
+        <item index="1" class="java.lang.String" itemvalue=".NET Project.RectangularLove" />
         <item index="2" class="java.lang.String" itemvalue=".NET Project.HiCal" />
         <item index="3" class="java.lang.String" itemvalue=".NET Project.MillionGazillion" />
         <item index="4" class="java.lang.String" itemvalue=".NET Project.nthFibonacci" />
@@ -467,12 +490,12 @@
       <workItem from="1489883449183" duration="6331000" />
       <workItem from="1494333994030" duration="23965000" />
       <workItem from="1494951956602" duration="1981000" />
-      <workItem from="1494966899646" duration="7306000" />
+      <workItem from="1494966899646" duration="13524000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="46328000" />
+    <option name="totallyTimeSpent" value="52546000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -491,7 +514,7 @@
       <window_info id="Errors In Solution" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32901296" sideWeight="0.50238097" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Unit Tests" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32901296" sideWeight="0.49761903" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2662014" sideWeight="0.49761903" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2662014" sideWeight="0.49761903" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="NuGet" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -521,7 +544,7 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="1" />
+      <option name="time" value="3" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -857,6 +880,26 @@
             <marker date="1494981216000" expanded="true" signature="4403:4460" ph="{...}" />
             <marker date="1494981216000" expanded="true" signature="4494:4552" ph="{...}" />
             <marker date="1494981216000" expanded="true" signature="4589:4647" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TwoEggProblem/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="134">
+          <caret line="12" column="26" lean-forward="false" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
+          <folding>
+            <marker date="1495114066000" expanded="true" signature="6:111" ph="..." />
+            <marker date="1495114066000" expanded="true" signature="136:2155" ph="{...}" />
+            <marker date="1495114066000" expanded="true" signature="165:2153" ph="{...}" />
+            <marker date="1495114066000" expanded="true" signature="218:509" ph="{...}" />
+            <marker date="1495114066000" expanded="true" signature="587:1645" ph="{...}" />
+            <marker date="1495114066000" expanded="true" signature="709:1606" ph="{...}" />
+            <marker date="1495114066000" expanded="true" signature="896:1352" ph="{...}" />
+            <marker date="1495114066000" expanded="true" signature="1023:1110" ph="{...}" />
+            <marker date="1495114066000" expanded="true" signature="1373:1592" ph="{...}" />
+            <marker date="1495114066000" expanded="true" signature="1434:1547" ph="{...}" />
+            <marker date="1495114066000" expanded="true" signature="1701:2147" ph="{...}" />
           </folding>
         </state>
       </provider>
