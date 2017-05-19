@@ -95,20 +95,20 @@
       <file leaf-file-name="Program.cs" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/TwoEggProblem/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="134">
-              <caret line="12" column="26" lean-forward="false" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
+            <state relative-caret-position="130">
+              <caret line="13" column="24" lean-forward="false" selection-start-line="13" selection-start-column="24" selection-end-line="13" selection-end-column="24" />
               <folding>
-                <marker date="1495114066000" expanded="true" signature="6:111" ph="..." />
-                <marker date="1495114066000" expanded="true" signature="136:2155" ph="{...}" />
-                <marker date="1495114066000" expanded="true" signature="165:2153" ph="{...}" />
-                <marker date="1495114066000" expanded="true" signature="218:509" ph="{...}" />
-                <marker date="1495114066000" expanded="true" signature="587:1645" ph="{...}" />
-                <marker date="1495114066000" expanded="true" signature="709:1606" ph="{...}" />
-                <marker date="1495114066000" expanded="true" signature="896:1352" ph="{...}" />
-                <marker date="1495114066000" expanded="true" signature="1023:1110" ph="{...}" />
-                <marker date="1495114066000" expanded="true" signature="1373:1592" ph="{...}" />
-                <marker date="1495114066000" expanded="true" signature="1434:1547" ph="{...}" />
-                <marker date="1495114066000" expanded="true" signature="1701:2147" ph="{...}" />
+                <marker date="1495197005000" expanded="true" signature="6:111" ph="..." />
+                <marker date="1495197005000" expanded="true" signature="136:2335" ph="{...}" />
+                <marker date="1495197005000" expanded="true" signature="165:2333" ph="{...}" />
+                <marker date="1495197005000" expanded="true" signature="218:447" ph="{...}" />
+                <marker date="1495197005000" expanded="true" signature="525:1851" ph="{...}" />
+                <marker date="1495197005000" expanded="true" signature="682:1812" ph="{...}" />
+                <marker date="1495197005000" expanded="true" signature="754:1404" ph="{...}" />
+                <marker date="1495197005000" expanded="true" signature="814:1001" ph="{...}" />
+                <marker date="1495197005000" expanded="true" signature="1425:1798" ph="{...}" />
+                <marker date="1495197005000" expanded="true" signature="1485:1598" ph="{...}" />
+                <marker date="1495197005000" expanded="true" signature="1907:2327" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -490,12 +490,12 @@
       <workItem from="1489883449183" duration="6331000" />
       <workItem from="1494333994030" duration="23965000" />
       <workItem from="1494951956602" duration="1981000" />
-      <workItem from="1494966899646" duration="13524000" />
+      <workItem from="1494966899646" duration="18349000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="52546000" />
+    <option name="totallyTimeSpent" value="57371000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -886,20 +886,20 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/TwoEggProblem/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="134">
-          <caret line="12" column="26" lean-forward="false" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
+        <state relative-caret-position="130">
+          <caret line="13" column="24" lean-forward="false" selection-start-line="13" selection-start-column="24" selection-end-line="13" selection-end-column="24" />
           <folding>
-            <marker date="1495114066000" expanded="true" signature="6:111" ph="..." />
-            <marker date="1495114066000" expanded="true" signature="136:2155" ph="{...}" />
-            <marker date="1495114066000" expanded="true" signature="165:2153" ph="{...}" />
-            <marker date="1495114066000" expanded="true" signature="218:509" ph="{...}" />
-            <marker date="1495114066000" expanded="true" signature="587:1645" ph="{...}" />
-            <marker date="1495114066000" expanded="true" signature="709:1606" ph="{...}" />
-            <marker date="1495114066000" expanded="true" signature="896:1352" ph="{...}" />
-            <marker date="1495114066000" expanded="true" signature="1023:1110" ph="{...}" />
-            <marker date="1495114066000" expanded="true" signature="1373:1592" ph="{...}" />
-            <marker date="1495114066000" expanded="true" signature="1434:1547" ph="{...}" />
-            <marker date="1495114066000" expanded="true" signature="1701:2147" ph="{...}" />
+            <marker date="1495197005000" expanded="true" signature="6:111" ph="..." />
+            <marker date="1495197005000" expanded="true" signature="136:2335" ph="{...}" />
+            <marker date="1495197005000" expanded="true" signature="165:2333" ph="{...}" />
+            <marker date="1495197005000" expanded="true" signature="218:447" ph="{...}" />
+            <marker date="1495197005000" expanded="true" signature="525:1851" ph="{...}" />
+            <marker date="1495197005000" expanded="true" signature="682:1812" ph="{...}" />
+            <marker date="1495197005000" expanded="true" signature="754:1404" ph="{...}" />
+            <marker date="1495197005000" expanded="true" signature="814:1001" ph="{...}" />
+            <marker date="1495197005000" expanded="true" signature="1425:1798" ph="{...}" />
+            <marker date="1495197005000" expanded="true" signature="1485:1598" ph="{...}" />
+            <marker date="1495197005000" expanded="true" signature="1907:2327" ph="{...}" />
           </folding>
         </state>
       </provider>

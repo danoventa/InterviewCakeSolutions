@@ -10,8 +10,8 @@ namespace TwoEggProblem
         public static void Main(string[] args)
         {
             var floors = 100;
-            var bPoint = 1;
-            var eggs = 2; // this is built for 2 eggs, later can enhance to handle more.
+            var bPoint = 50;
+            var eggs = 5;
 
             var floorFound = FindHighestFloor(eggs, bPoint, floors);
             Console.WriteLine(floorFound.ToString());
@@ -21,34 +21,40 @@ namespace TwoEggProblem
         {
             var atPoint = 1;
             var counter = 0;
-            var nextVal = 0;
-            while (true)
+            var nextVal = _solveQuadratic(floors);
+
+            while (counter < floors)
             {
                 counter++;
-                Console.WriteLine($"atPoint: {atPoint}");
-                Console.WriteLine($"Counter: {counter}");
+
                 if (eggs > 1)
                 {
-
-                    nextVal += _solveQuadratic(floors - nextVal);
                     if (nextVal < bPoint)
                     {
                         atPoint = nextVal;
+                        nextVal += Math.Min(_solveQuadratic((floors - nextVal) + nextVal), floors);
                     }
-                    else if (nextVal == bPoint)
+                    else if (nextVal == bPoint || atPoint == bPoint)
                     {
+                        atPoint = nextVal;
                         break;
                     }
                     else
                     {
+                        nextVal -= Math.Max(_solveQuadratic((floors - nextVal) + nextVal), 0)/2;
                         eggs--;
                     }
                 }
                 else
                 {
-                    if (atPoint != bPoint)
+                    if (atPoint < bPoint)
                     {
                         atPoint++;
+                        continue;
+                    }
+                    if (atPoint > bPoint)
+                    {
+                        atPoint--;
                         continue;
                     }
                     break;
@@ -62,10 +68,10 @@ namespace TwoEggProblem
         {
             int enclosed = 4 * floors * 2;
             var inner = Math.Sqrt(1.0 + (double)enclosed);
-            if (inner == Double.NaN){ throw new Exception("Issue over here?");}
-            Console.WriteLine($"Inner: {inner}");
-            var plus = (1.0 + inner) / 2.0;
-            var minus = (1.0 - inner) / 2.0;
+            if (inner == Double.NaN){ throw new Exception("Issue over here, look at me, I'm Mr. Meseeks!");}
+
+            var plus = (inner) / (2.0 );
+            var minus = (inner) / (2.0 );
             var next = Math.Max(Math.Ceiling(plus), Math.Ceiling(minus));
 
             return (int)next;
