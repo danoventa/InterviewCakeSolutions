@@ -47,8 +47,39 @@ namespace TemperatureTracker
                 }
             }
 
-            var sums = new List<int> {-4, -3, -2, -2, -2, -3, -4, -1};
+            // var sums = new List<int> {-4, -3, -2, -2, -2, -3, -4, -1};
+            // var sums = new List<int> {-4, -3, -2, -2, 0, -3, -4, -1};
+            var sums = new List<int> {1 ,2, 3, -2, 4, -3, 1, -1};
+            // var sums = new List<int> {1, 2, 3, 4, 5};
+
+
             Console.WriteLine(Convert.ToString(getMaxSum(sums)));
+
+            Console.WriteLine(Convert.ToString(getMaxSum2(sums)));
+        }
+
+        public static int getMaxSum2(List<int> sums)
+        {
+            var maxSum = int.MinValue;
+            var curSum = int.MinValue;
+
+            foreach (var n in sums)
+            {
+                if (curSum == int.MinValue)
+                {
+                    curSum = n;
+                    continue;
+                }
+                if (curSum >= curSum + n)
+                {
+                    maxSum = Math.Max(maxSum, curSum);
+                    curSum = curSum > n ? int.MinValue : n;
+                    continue;
+                }
+                curSum += n;
+            }
+            var max = Math.Max(maxSum, curSum);
+            return max;
         }
 
         public static int getMaxSum(List<int> sums) {
