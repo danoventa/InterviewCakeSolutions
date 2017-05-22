@@ -11,6 +11,7 @@
       <sourceFolder url="file://$MODULE_DIR$/../../TemperatureTracker" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/../../TwoEggProblem" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/../../URLShortener" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../WordCloudData" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/../../BinarySearchTreeChecker/bin" />
       <excludeFolder url="file://$MODULE_DIR$/../../BinarySearchTreeChecker/obj" />
       <excludeFolder url="file://$MODULE_DIR$/../../HiCal/bin" />
@@ -27,6 +28,8 @@
       <excludeFolder url="file://$MODULE_DIR$/../../TwoEggProblem/obj" />
       <excludeFolder url="file://$MODULE_DIR$/../../URLShortener/bin" />
       <excludeFolder url="file://$MODULE_DIR$/../../URLShortener/obj" />
+      <excludeFolder url="file://$MODULE_DIR$/../../WordCloudData/bin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../WordCloudData/obj" />
       <excludeFolder url="file://$MODULE_DIR$/../../nthFibonacci/bin" />
       <excludeFolder url="file://$MODULE_DIR$/../../nthFibonacci/obj" />
       <excludeFolder url="file://$MODULE_DIR$/../../packages" />

@@ -1,0 +1,5 @@
+/Users/temogen/Documents/Github/InterviewCakeSolutions/InterviewCakeInCSharp/WordCloudData/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/temogen/Documents/Github/InterviewCakeSolutions/InterviewCakeInCSharp/WordCloudData/bin/Debug/WordCloudData.exe.mdb
+/Users/temogen/Documents/Github/InterviewCakeSolutions/InterviewCakeInCSharp/WordCloudData/bin/Debug/WordCloudData.exe
+/Users/temogen/Documents/Github/InterviewCakeSolutions/InterviewCakeInCSharp/WordCloudData/obj/Debug/WordCloudData.exe
+/Users/temogen/Documents/Github/InterviewCakeSolutions/InterviewCakeInCSharp/WordCloudData/obj/Debug/WordCloudData.exe.mdb

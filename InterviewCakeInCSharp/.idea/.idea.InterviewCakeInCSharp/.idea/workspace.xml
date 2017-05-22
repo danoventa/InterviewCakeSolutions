@@ -52,11 +52,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Program.cs" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Program.cs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/TemperatureTracker/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="765">
-              <caret line="51" column="12" lean-forward="false" selection-start-line="51" selection-start-column="12" selection-end-line="51" selection-end-column="12" />
+            <state relative-caret-position="426">
+              <caret line="75" column="0" lean-forward="false" selection-start-line="75" selection-start-column="0" selection-end-line="76" selection-end-column="0" />
               <folding>
                 <marker date="1495392699000" expanded="true" signature="6:229" ph="..." />
                 <marker date="1495392699000" expanded="true" signature="259:5617" ph="{...}" />
@@ -91,6 +91,21 @@
                 <marker date="1495392699000" expanded="true" signature="5355:5412" ph="{...}" />
                 <marker date="1495392699000" expanded="true" signature="5446:5504" ph="{...}" />
                 <marker date="1495392699000" expanded="true" signature="5541:5599" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Program.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/WordCloudData/Program.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+              <folding>
+                <marker date="1495476716000" expanded="false" signature="6:47" ph="..." />
+                <marker date="1495476716000" expanded="true" signature="72:183" ph="{...}" />
+                <marker date="1495476716000" expanded="true" signature="101:181" ph="{...}" />
+                <marker date="1495476716000" expanded="true" signature="154:175" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -137,6 +152,7 @@
         <option value="$PROJECT_DIR$/RectangularLove/Program.cs" />
         <option value="$PROJECT_DIR$/TwoEggProblem/Program.cs" />
         <option value="$PROJECT_DIR$/TemperatureTracker/Program.cs" />
+        <option value="$PROJECT_DIR$/WordCloudData/Program.cs" />
       </list>
     </option>
   </component>
@@ -174,7 +190,7 @@
               <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="InterviewCakeInCSharp (9 projects)" />
+              <option name="myItemId" value="InterviewCakeInCSharp (10 projects)" />
               <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerNodeRider" />
             </PATH_ELEMENT>
           </PATH>
@@ -250,12 +266,12 @@
       <method />
     </configuration>
     <configuration default="false" name="MakingChange" type="DotNetProject" factoryName=".NET Project" temporary="true">
-      <option name="PROJECT_PATH" value="$PROJECT_DIR$/TemperatureTracker/TemperatureTracker.csproj" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/WordCloudData/WordCloudData.csproj" />
       <option name="PROJECT_KIND" value="Console" />
       <option name="PROJECT_TFM" value=".NETFramework,Version=v4.5" />
-      <option name="EXE_PATH" value="$PROJECT_DIR$/TemperatureTracker/bin/Debug/TemperatureTracker.exe" />
+      <option name="EXE_PATH" value="$PROJECT_DIR$/WordCloudData/bin/Debug/WordCloudData.exe" />
       <option name="PROGRAM_PARAMETERS" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/TemperatureTracker/bin/Debug" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/WordCloudData/bin/Debug" />
       <option name="USE_MONO" value="0" />
       <option name="USE_EXTERNAL_CONSOLE" value="0" />
       <envs />
@@ -498,12 +514,12 @@
       <workItem from="1494333994030" duration="23965000" />
       <workItem from="1494951956602" duration="1981000" />
       <workItem from="1494966899646" duration="18608000" />
-      <workItem from="1495391819175" duration="1236000" />
+      <workItem from="1495391819175" duration="1347000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="58866000" />
+    <option name="totallyTimeSpent" value="58977000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -988,8 +1004,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/TemperatureTracker/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="765">
-          <caret line="51" column="12" lean-forward="false" selection-start-line="51" selection-start-column="12" selection-end-line="51" selection-end-column="12" />
+        <state relative-caret-position="426">
+          <caret line="75" column="0" lean-forward="false" selection-start-line="75" selection-start-column="0" selection-end-line="76" selection-end-column="0" />
           <folding>
             <marker date="1495392699000" expanded="true" signature="6:229" ph="..." />
             <marker date="1495392699000" expanded="true" signature="259:5617" ph="{...}" />
@@ -1024,6 +1040,19 @@
             <marker date="1495392699000" expanded="true" signature="5355:5412" ph="{...}" />
             <marker date="1495392699000" expanded="true" signature="5446:5504" ph="{...}" />
             <marker date="1495392699000" expanded="true" signature="5541:5599" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WordCloudData/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding>
+            <marker date="1495476716000" expanded="false" signature="6:47" ph="..." />
+            <marker date="1495476716000" expanded="true" signature="72:183" ph="{...}" />
+            <marker date="1495476716000" expanded="true" signature="101:181" ph="{...}" />
+            <marker date="1495476716000" expanded="true" signature="154:175" ph="{...}" />
           </folding>
         </state>
       </provider>

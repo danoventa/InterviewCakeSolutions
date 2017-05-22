@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TemperatureTracker", "Tempe
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwoEggProblem", "TwoEggProblem\TwoEggProblem.csproj", "{5A3812C2-683F-4AA7-AE34-5597C40BE043}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WordCloudData", "WordCloudData\WordCloudData.csproj", "{DC57734B-0F98-4721-B57C-7E793D7B5E65}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{5A3812C2-683F-4AA7-AE34-5597C40BE043}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5A3812C2-683F-4AA7-AE34-5597C40BE043}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5A3812C2-683F-4AA7-AE34-5597C40BE043}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC57734B-0F98-4721-B57C-7E793D7B5E65}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC57734B-0F98-4721-B57C-7E793D7B5E65}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC57734B-0F98-4721-B57C-7E793D7B5E65}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC57734B-0F98-4721-B57C-7E793D7B5E65}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
