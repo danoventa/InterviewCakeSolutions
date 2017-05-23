@@ -120,7 +120,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Program.cs" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Program.cs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/InPlaceShuffle/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="-42">
@@ -144,6 +144,29 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="Program.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ShuffleDeck/Program.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="482">
+              <caret line="62" column="29" lean-forward="true" selection-start-line="62" selection-start-column="29" selection-end-line="62" selection-end-column="29" />
+              <folding>
+                <marker date="1495545645000" expanded="true" signature="6:217" ph="..." />
+                <marker date="1495545645000" expanded="true" signature="240:2091" ph="{...}" />
+                <marker date="1495545645000" expanded="true" signature="269:2089" ph="{...}" />
+                <marker date="1495545645000" expanded="true" signature="322:698" ph="{...}" />
+                <marker date="1495545645000" expanded="true" signature="408:469" ph="{...}" />
+                <marker date="1495545645000" expanded="true" signature="619:688" ph="{...}" />
+                <marker date="1495545645000" expanded="true" signature="762:2083" ph="{...}" />
+                <marker date="1495545645000" expanded="true" signature="1146:2018" ph="{...}" />
+                <marker date="1495545645000" expanded="true" signature="1327:1434" ph="{...}" />
+                <marker date="1495545645000" expanded="true" signature="1469:1541" ph="{...}" />
+                <marker date="1495545645000" expanded="true" signature="1732:1839" ph="{...}" />
+                <marker date="1495545645000" expanded="true" signature="1879:1954" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
     </leaf>
   </component>
   <component name="IdeDocumentHistory">
@@ -162,6 +185,7 @@
         <option value="$PROJECT_DIR$/TemperatureTracker/Program.cs" />
         <option value="$PROJECT_DIR$/WordCloudData/Program.cs" />
         <option value="$PROJECT_DIR$/InPlaceShuffle/Program.cs" />
+        <option value="$PROJECT_DIR$/ShuffleDeck/Program.cs" />
       </list>
     </option>
   </component>
@@ -199,7 +223,7 @@
               <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="InterviewCakeInCSharp (11 projects)" />
+              <option name="myItemId" value="InterviewCakeInCSharp (12 projects)" />
               <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerNodeRider" />
             </PATH_ELEMENT>
           </PATH>
@@ -443,12 +467,12 @@
       <method />
     </configuration>
     <configuration default="false" name="Default" type="DotNetProject" factoryName=".NET Project">
-      <option name="PROJECT_PATH" value="$PROJECT_DIR$/InPlaceShuffle/InPlaceShuffle.csproj" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/ShuffleDeck/ShuffleDeck.csproj" />
       <option name="PROJECT_KIND" value="Console" />
       <option name="PROJECT_TFM" value=".NETFramework,Version=v4.5" />
-      <option name="EXE_PATH" value="$PROJECT_DIR$/InPlaceShuffle/bin/Debug/InPlaceShuffle.exe" />
+      <option name="EXE_PATH" value="$PROJECT_DIR$/ShuffleDeck/bin/Debug/ShuffleDeck.exe" />
       <option name="PROGRAM_PARAMETERS" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/InPlaceShuffle/bin/Debug" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ShuffleDeck/bin/Debug" />
       <option name="USE_MONO" value="0" />
       <option name="USE_EXTERNAL_CONSOLE" value="0" />
       <envs />
@@ -525,12 +549,12 @@
       <workItem from="1494966899646" duration="18608000" />
       <workItem from="1495391819175" duration="2730000" />
       <workItem from="1495508581686" duration="3144000" />
-      <workItem from="1495542886419" duration="449000" />
+      <workItem from="1495542886419" duration="2399000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="63953000" />
+    <option name="totallyTimeSpent" value="65903000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1283,6 +1307,27 @@
             <marker date="1495543324000" expanded="true" signature="1552:1987" ph="{...}" />
             <marker date="1495543324000" expanded="true" signature="1659:1977" ph="{...}" />
             <marker date="1495543324000" expanded="true" signature="1762:1854" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ShuffleDeck/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="482">
+          <caret line="62" column="29" lean-forward="true" selection-start-line="62" selection-start-column="29" selection-end-line="62" selection-end-column="29" />
+          <folding>
+            <marker date="1495545645000" expanded="true" signature="6:217" ph="..." />
+            <marker date="1495545645000" expanded="true" signature="240:2091" ph="{...}" />
+            <marker date="1495545645000" expanded="true" signature="269:2089" ph="{...}" />
+            <marker date="1495545645000" expanded="true" signature="322:698" ph="{...}" />
+            <marker date="1495545645000" expanded="true" signature="408:469" ph="{...}" />
+            <marker date="1495545645000" expanded="true" signature="619:688" ph="{...}" />
+            <marker date="1495545645000" expanded="true" signature="762:2083" ph="{...}" />
+            <marker date="1495545645000" expanded="true" signature="1146:2018" ph="{...}" />
+            <marker date="1495545645000" expanded="true" signature="1327:1434" ph="{...}" />
+            <marker date="1495545645000" expanded="true" signature="1469:1541" ph="{...}" />
+            <marker date="1495545645000" expanded="true" signature="1732:1839" ph="{...}" />
+            <marker date="1495545645000" expanded="true" signature="1879:1954" ph="{...}" />
           </folding>
         </state>
       </provider>
