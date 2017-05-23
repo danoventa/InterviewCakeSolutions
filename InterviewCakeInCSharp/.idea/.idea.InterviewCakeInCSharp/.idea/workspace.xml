@@ -95,7 +95,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Program.cs" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Program.cs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/WordCloudData/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="555">
@@ -121,6 +121,22 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="Program.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/InPlaceShuffle/Program.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="19" column="38" lean-forward="true" selection-start-line="10" selection-start-column="9" selection-end-line="19" selection-end-column="38" />
+              <folding>
+                <marker date="1495512486000" expanded="true" signature="6:89" ph="..." />
+                <marker date="1495512486000" expanded="true" signature="115:587" ph="{...}" />
+                <marker date="1495512486000" expanded="true" signature="144:585" ph="{...}" />
+                <marker date="1495512486000" expanded="true" signature="197:579" ph="{...}" />
+                <marker date="1495512486000" expanded="true" signature="379:569" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
     </leaf>
   </component>
   <component name="IdeDocumentHistory">
@@ -138,6 +154,7 @@
         <option value="$PROJECT_DIR$/TwoEggProblem/Program.cs" />
         <option value="$PROJECT_DIR$/TemperatureTracker/Program.cs" />
         <option value="$PROJECT_DIR$/WordCloudData/Program.cs" />
+        <option value="$PROJECT_DIR$/InPlaceShuffle/Program.cs" />
       </list>
     </option>
   </component>
@@ -175,7 +192,7 @@
               <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="InterviewCakeInCSharp (10 projects)" />
+              <option name="myItemId" value="InterviewCakeInCSharp (11 projects)" />
               <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerNodeRider" />
             </PATH_ELEMENT>
           </PATH>
@@ -201,7 +218,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected=".NET Project.MakingChange">
+  <component name="RunManager" selected=".NET Project.Default">
     <configuration default="false" name="nthFibonacci" type="DotNetProject" factoryName=".NET Project" temporary="true">
       <option name="PROJECT_PATH" value="$PROJECT_DIR$/nthFibonacci/nthFibonacci.csproj" />
       <option name="PROJECT_KIND" value="Console" />
@@ -419,12 +436,12 @@
       <method />
     </configuration>
     <configuration default="false" name="Default" type="DotNetProject" factoryName=".NET Project">
-      <option name="PROJECT_PATH" value="$PROJECT_DIR$/URLShortener/URLShortener.csproj" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/InPlaceShuffle/InPlaceShuffle.csproj" />
       <option name="PROJECT_KIND" value="Console" />
       <option name="PROJECT_TFM" value=".NETFramework,Version=v4.5" />
-      <option name="EXE_PATH" value="$PROJECT_DIR$/URLShortener/bin/Debug/URLShortener.exe" />
+      <option name="EXE_PATH" value="$PROJECT_DIR$/InPlaceShuffle/bin/Debug/InPlaceShuffle.exe" />
       <option name="PROGRAM_PARAMETERS" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/URLShortener/bin/Debug" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/InPlaceShuffle/bin/Debug" />
       <option name="USE_MONO" value="0" />
       <option name="USE_EXTERNAL_CONSOLE" value="0" />
       <envs />
@@ -500,12 +517,12 @@
       <workItem from="1494951956602" duration="1981000" />
       <workItem from="1494966899646" duration="18608000" />
       <workItem from="1495391819175" duration="2730000" />
-      <workItem from="1495508581686" duration="1981000" />
+      <workItem from="1495508581686" duration="2742000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="62341000" />
+    <option name="totallyTimeSpent" value="63102000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -525,7 +542,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32901296" sideWeight="0.50238097" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Unit Tests" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32901296" sideWeight="0.49761903" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2662014" sideWeight="0.49761903" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2662014" sideWeight="0.49761903" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="NuGet" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Change Signature" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -1115,6 +1132,20 @@
             <marker date="1495510842000" expanded="true" signature="1624:1749" ph="{...}" />
             <marker date="1495510842000" expanded="true" signature="1916:2115" ph="{...}" />
             <marker date="1495510842000" expanded="true" signature="1973:2067" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/InPlaceShuffle/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="38" lean-forward="true" selection-start-line="10" selection-start-column="9" selection-end-line="19" selection-end-column="38" />
+          <folding>
+            <marker date="1495512486000" expanded="true" signature="6:89" ph="..." />
+            <marker date="1495512486000" expanded="true" signature="115:587" ph="{...}" />
+            <marker date="1495512486000" expanded="true" signature="144:585" ph="{...}" />
+            <marker date="1495512486000" expanded="true" signature="197:579" ph="{...}" />
+            <marker date="1495512486000" expanded="true" signature="379:569" ph="{...}" />
           </folding>
         </state>
       </provider>
