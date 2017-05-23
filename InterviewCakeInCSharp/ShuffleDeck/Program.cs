@@ -38,7 +38,6 @@ namespace ShuffleDeck
         {
             var size = deck.Length;
             var half = size / 2;
-            var newdeck = new int[52];
 
             var nextNum = new Random(52);
             var ruffled = false;
@@ -54,7 +53,7 @@ namespace ShuffleDeck
                 topHalf  = nextNum.Next(topHalf, 53);
                 for (var i = top; i < topHalf; i++)
                 {
-                    newdeck[atDeck] = i+1;
+                    deck[atDeck] = i+1;
                     atDeck++;
                 }
                 if (topHalf == 52)
@@ -65,7 +64,7 @@ namespace ShuffleDeck
                 bottomHalf = nextNum.Next(bottomHalf, half + 1);
                 for (var i = bottom; i < bottomHalf; i++)
                 {
-                    newdeck[atDeck] = i+1;
+                    deck[atDeck] = i+1;
                     atDeck++;
                 }
                 if (bottomHalf == half - 1)
@@ -78,7 +77,7 @@ namespace ShuffleDeck
             
             
 
-            return newdeck;
+            return deck;
         }
     }
 }
