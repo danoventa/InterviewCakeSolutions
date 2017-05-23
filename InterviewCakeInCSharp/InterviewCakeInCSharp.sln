@@ -27,6 +27,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InPlaceShuffle", "InPlaceSh
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShuffleDeck", "ShuffleDeck\ShuffleDeck.csproj", "{0D257CE4-BA6A-498F-824F-C92E03CDC15F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SevenSidedDie", "SevenSidedDie\SevenSidedDie.csproj", "{C38AC0B5-46F3-4B50-BE1E-6FFF7C89E162}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -81,6 +83,10 @@ Global
 		{0D257CE4-BA6A-498F-824F-C92E03CDC15F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0D257CE4-BA6A-498F-824F-C92E03CDC15F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0D257CE4-BA6A-498F-824F-C92E03CDC15F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C38AC0B5-46F3-4B50-BE1E-6FFF7C89E162}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C38AC0B5-46F3-4B50-BE1E-6FFF7C89E162}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C38AC0B5-46F3-4B50-BE1E-6FFF7C89E162}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C38AC0B5-46F3-4B50-BE1E-6FFF7C89E162}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

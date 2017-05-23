@@ -144,25 +144,43 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Program.cs" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Program.cs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ShuffleDeck/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="81">
-              <caret line="40" column="0" lean-forward="false" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
+            <state relative-caret-position="15">
+              <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
               <folding>
-                <marker date="1495548985000" expanded="true" signature="6:217" ph="..." />
-                <marker date="1495548985000" expanded="true" signature="240:2206" ph="{...}" />
-                <marker date="1495548985000" expanded="true" signature="269:2204" ph="{...}" />
-                <marker date="1495548985000" expanded="true" signature="322:902" ph="{...}" />
-                <marker date="1495548985000" expanded="true" signature="408:469" ph="{...}" />
-                <marker date="1495548985000" expanded="true" signature="619:688" ph="{...}" />
-                <marker date="1495548985000" expanded="true" signature="823:892" ph="{...}" />
-                <marker date="1495548985000" expanded="true" signature="966:2198" ph="{...}" />
-                <marker date="1495548985000" expanded="true" signature="1315:2136" ph="{...}" />
-                <marker date="1495548985000" expanded="true" signature="1470:1576" ph="{...}" />
-                <marker date="1495548985000" expanded="true" signature="1611:1683" ph="{...}" />
-                <marker date="1495548985000" expanded="true" signature="1847:1953" ph="{...}" />
-                <marker date="1495548985000" expanded="true" signature="1997:2072" ph="{...}" />
+                <marker date="1495549061000" expanded="true" signature="36:1976" ph="{...}" />
+                <marker date="1495549061000" expanded="true" signature="65:1974" ph="{...}" />
+                <marker date="1495549061000" expanded="true" signature="118:698" ph="{...}" />
+                <marker date="1495549061000" expanded="true" signature="204:265" ph="{...}" />
+                <marker date="1495549061000" expanded="true" signature="415:484" ph="{...}" />
+                <marker date="1495549061000" expanded="true" signature="619:688" ph="{...}" />
+                <marker date="1495549061000" expanded="true" signature="762:1968" ph="{...}" />
+                <marker date="1495549061000" expanded="true" signature="1111:1932" ph="{...}" />
+                <marker date="1495549061000" expanded="true" signature="1266:1372" ph="{...}" />
+                <marker date="1495549061000" expanded="true" signature="1407:1479" ph="{...}" />
+                <marker date="1495549061000" expanded="true" signature="1643:1749" ph="{...}" />
+                <marker date="1495549061000" expanded="true" signature="1793:1868" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Program.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/SevenSidedDie/Program.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="465">
+              <caret line="31" column="22" lean-forward="false" selection-start-line="31" selection-start-column="22" selection-end-line="31" selection-end-column="22" />
+              <folding>
+                <marker date="1495566260000" expanded="true" signature="6:188" ph="..." />
+                <marker date="1495566260000" expanded="true" signature="213:929" ph="{...}" />
+                <marker date="1495566260000" expanded="true" signature="242:927" ph="{...}" />
+                <marker date="1495566260000" expanded="true" signature="295:429" ph="{...}" />
+                <marker date="1495566260000" expanded="true" signature="346:419" ph="{...}" />
+                <marker date="1495566260000" expanded="true" signature="472:769" ph="{...}" />
+                <marker date="1495566260000" expanded="true" signature="576:722" ph="{...}" />
+                <marker date="1495566260000" expanded="true" signature="812:921" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -187,6 +205,7 @@
         <option value="$PROJECT_DIR$/WordCloudData/Program.cs" />
         <option value="$PROJECT_DIR$/InPlaceShuffle/Program.cs" />
         <option value="$PROJECT_DIR$/ShuffleDeck/Program.cs" />
+        <option value="$PROJECT_DIR$/SevenSidedDie/Program.cs" />
       </list>
     </option>
   </component>
@@ -224,7 +243,7 @@
               <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="InterviewCakeInCSharp (12 projects)" />
+              <option name="myItemId" value="InterviewCakeInCSharp (13 projects)" />
               <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerNodeRider" />
             </PATH_ELEMENT>
           </PATH>
@@ -468,12 +487,12 @@
       <method />
     </configuration>
     <configuration default="false" name="Default" type="DotNetProject" factoryName=".NET Project">
-      <option name="PROJECT_PATH" value="$PROJECT_DIR$/ShuffleDeck/ShuffleDeck.csproj" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/SevenSidedDie/SevenSidedDie.csproj" />
       <option name="PROJECT_KIND" value="Console" />
       <option name="PROJECT_TFM" value=".NETFramework,Version=v4.5" />
-      <option name="EXE_PATH" value="$PROJECT_DIR$/ShuffleDeck/bin/Debug/ShuffleDeck.exe" />
+      <option name="EXE_PATH" value="$PROJECT_DIR$/SevenSidedDie/bin/Debug/SevenSidedDie.exe" />
       <option name="PROGRAM_PARAMETERS" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ShuffleDeck/bin/Debug" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SevenSidedDie/bin/Debug" />
       <option name="USE_MONO" value="0" />
       <option name="USE_EXTERNAL_CONSOLE" value="0" />
       <envs />
@@ -550,12 +569,12 @@
       <workItem from="1494966899646" duration="18608000" />
       <workItem from="1495391819175" duration="2730000" />
       <workItem from="1495508581686" duration="3144000" />
-      <workItem from="1495542886419" duration="3927000" />
+      <workItem from="1495542886419" duration="5725000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="67431000" />
+    <option name="totallyTimeSpent" value="69229000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -574,7 +593,7 @@
       <window_info id="Errors In Solution" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32901296" sideWeight="0.50238097" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Unit Tests" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32901296" sideWeight="0.49761903" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2662014" sideWeight="0.49761903" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2662014" sideWeight="0.49761903" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="NuGet" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -1314,22 +1333,38 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ShuffleDeck/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="81">
-          <caret line="40" column="0" lean-forward="false" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
+        <state relative-caret-position="15">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
           <folding>
-            <marker date="1495548985000" expanded="true" signature="6:217" ph="..." />
-            <marker date="1495548985000" expanded="true" signature="240:2206" ph="{...}" />
-            <marker date="1495548985000" expanded="true" signature="269:2204" ph="{...}" />
-            <marker date="1495548985000" expanded="true" signature="322:902" ph="{...}" />
-            <marker date="1495548985000" expanded="true" signature="408:469" ph="{...}" />
-            <marker date="1495548985000" expanded="true" signature="619:688" ph="{...}" />
-            <marker date="1495548985000" expanded="true" signature="823:892" ph="{...}" />
-            <marker date="1495548985000" expanded="true" signature="966:2198" ph="{...}" />
-            <marker date="1495548985000" expanded="true" signature="1315:2136" ph="{...}" />
-            <marker date="1495548985000" expanded="true" signature="1470:1576" ph="{...}" />
-            <marker date="1495548985000" expanded="true" signature="1611:1683" ph="{...}" />
-            <marker date="1495548985000" expanded="true" signature="1847:1953" ph="{...}" />
-            <marker date="1495548985000" expanded="true" signature="1997:2072" ph="{...}" />
+            <marker date="1495549061000" expanded="true" signature="36:1976" ph="{...}" />
+            <marker date="1495549061000" expanded="true" signature="65:1974" ph="{...}" />
+            <marker date="1495549061000" expanded="true" signature="118:698" ph="{...}" />
+            <marker date="1495549061000" expanded="true" signature="204:265" ph="{...}" />
+            <marker date="1495549061000" expanded="true" signature="415:484" ph="{...}" />
+            <marker date="1495549061000" expanded="true" signature="619:688" ph="{...}" />
+            <marker date="1495549061000" expanded="true" signature="762:1968" ph="{...}" />
+            <marker date="1495549061000" expanded="true" signature="1111:1932" ph="{...}" />
+            <marker date="1495549061000" expanded="true" signature="1266:1372" ph="{...}" />
+            <marker date="1495549061000" expanded="true" signature="1407:1479" ph="{...}" />
+            <marker date="1495549061000" expanded="true" signature="1643:1749" ph="{...}" />
+            <marker date="1495549061000" expanded="true" signature="1793:1868" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SevenSidedDie/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="31" column="22" lean-forward="false" selection-start-line="31" selection-start-column="22" selection-end-line="31" selection-end-column="22" />
+          <folding>
+            <marker date="1495566260000" expanded="true" signature="6:188" ph="..." />
+            <marker date="1495566260000" expanded="true" signature="213:929" ph="{...}" />
+            <marker date="1495566260000" expanded="true" signature="242:927" ph="{...}" />
+            <marker date="1495566260000" expanded="true" signature="295:429" ph="{...}" />
+            <marker date="1495566260000" expanded="true" signature="346:419" ph="{...}" />
+            <marker date="1495566260000" expanded="true" signature="472:769" ph="{...}" />
+            <marker date="1495566260000" expanded="true" signature="576:722" ph="{...}" />
+            <marker date="1495566260000" expanded="true" signature="812:921" ph="{...}" />
           </folding>
         </state>
       </provider>

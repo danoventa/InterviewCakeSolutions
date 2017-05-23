@@ -9,6 +9,7 @@
       <sourceFolder url="file://$MODULE_DIR$/../../MillionGazillion" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/../../nthFibonacci" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/../../RectangularLove" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../SevenSidedDie" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/../../ShuffleDeck" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/../../TemperatureTracker" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/../../TwoEggProblem" isTestSource="false" />
@@ -26,6 +27,8 @@
       <excludeFolder url="file://$MODULE_DIR$/../../MillionGazillion/obj" />
       <excludeFolder url="file://$MODULE_DIR$/../../RectangularLove/bin" />
       <excludeFolder url="file://$MODULE_DIR$/../../RectangularLove/obj" />
+      <excludeFolder url="file://$MODULE_DIR$/../../SevenSidedDie/bin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../SevenSidedDie/obj" />
       <excludeFolder url="file://$MODULE_DIR$/../../ShuffleDeck/bin" />
       <excludeFolder url="file://$MODULE_DIR$/../../ShuffleDeck/obj" />
       <excludeFolder url="file://$MODULE_DIR$/../../TemperatureTracker/bin" />
