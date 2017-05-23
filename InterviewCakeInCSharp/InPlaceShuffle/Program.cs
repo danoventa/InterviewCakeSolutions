@@ -11,14 +11,21 @@ namespace InPlaceShuffle
         {
 
             var arr = new [] {2, 3, 4, 5, 6};
-            var tempVal = 0;
+            foreach (var n in arr)
+            {
+                Console.WriteLine("Original Val: " + n);
+            }
             var rLoc = new Random(arr.Length);
             for (var i = 0; i < arr.Length; i++)
             {
-                var pos = rLoc.Next(arr.Length);
-                tempVal = arr[i];
-                arr[i] = arr[tempVal];
-                arr[tempVal] = trmpVal;
+                var pos = rLoc.Next(0, arr.Length - 1);
+                var tempVal = arr[i];
+                arr[i] = arr[pos];
+                arr[pos] = tempVal;
+            }
+            foreach (var n in arr)
+            {
+                Console.WriteLine("Shuffled Val: " + n);
             }
         }
     }
