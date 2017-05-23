@@ -25,6 +25,13 @@ namespace ShuffleDeck
             {
                 Console.Write(n + " " );
             }
+            
+            Array.Sort(newDeck);
+            Console.WriteLine("\nSortedArray: ");
+            foreach (var n in newDeck)
+            {
+                Console.Write(n + " " );
+            }
         }
         
         public static int[] RuffleDeck(ref int[] deck)
@@ -37,32 +44,40 @@ namespace ShuffleDeck
             var ruffled = false;
             var topDone = false;
             var bottomDone = false;
-            var topHalf = half;
+            var topHalf = half - 1;
             var bottomHalf = 0;
 
             int atDeck = 0;
             while(!ruffled)
             {
-                topHalf  = nextNum.Next(topHalf, 51);
-                Console.WriteLine("TOP at: " + topHalf);
-                for (var i = topHalf; i < topHalf; i++)
+                Console.WriteLine("At: " + atDeck);
+                var top = topHalf;
+                topHalf  = nextNum.Next(topHalf, 53);
+                Console.WriteLine("TOP at: " + top);
+                Console.WriteLine("TOPHALF at: " + topHalf);
+                Console.WriteLine();
+                for (var i = top; i < topHalf; i++)
                 {
-                    newdeck[atDeck] = i;
+                    Console.Write("Top: " + (i+1) + " ");
+                    newdeck[atDeck] = i+1;
                     atDeck++;
                 }
-                if (topHalf == 51)
+                if (topHalf == 52)
                 {
                     topDone = true;
                 }
-
-                bottomHalf = nextNum.Next(bottomHalf, half - 1);
-                Console.WriteLine("Bottom at: " + bottomHalf);
-                for (var i = bottomHalf; i < bottomHalf; i++)
+                var bottom = bottomHalf;
+                bottomHalf = nextNum.Next(bottomHalf, half + 1);
+                Console.WriteLine("Bottom at: " + bottom);
+                Console.WriteLine("BottomHalf at: " + bottomHalf);
+                Console.WriteLine();
+                for (var i = bottom; i < bottomHalf; i++)
                 {
-                    newdeck[atDeck] = i;
+                    Console.Write("bottom: " + (i+1) + " ");
+                    newdeck[atDeck] = i+1;
                     atDeck++;
                 }
-                if (bottomHalf == half)
+                if (bottomHalf == half - 1)
                 {
                     bottomDone = true;
                 }
