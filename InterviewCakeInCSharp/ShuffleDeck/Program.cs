@@ -50,15 +50,10 @@ namespace ShuffleDeck
             int atDeck = 0;
             while(!ruffled)
             {
-                Console.WriteLine("At: " + atDeck);
                 var top = topHalf;
                 topHalf  = nextNum.Next(topHalf, 53);
-                Console.WriteLine("TOP at: " + top);
-                Console.WriteLine("TOPHALF at: " + topHalf);
-                Console.WriteLine();
                 for (var i = top; i < topHalf; i++)
                 {
-                    Console.Write("Top: " + (i+1) + " ");
                     newdeck[atDeck] = i+1;
                     atDeck++;
                 }
@@ -68,12 +63,8 @@ namespace ShuffleDeck
                 }
                 var bottom = bottomHalf;
                 bottomHalf = nextNum.Next(bottomHalf, half + 1);
-                Console.WriteLine("Bottom at: " + bottom);
-                Console.WriteLine("BottomHalf at: " + bottomHalf);
-                Console.WriteLine();
                 for (var i = bottom; i < bottomHalf; i++)
                 {
-                    Console.Write("bottom: " + (i+1) + " ");
                     newdeck[atDeck] = i+1;
                     atDeck++;
                 }
