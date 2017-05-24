@@ -12,7 +12,12 @@ namespace FindRepeatSpace
         {
             var xar = new[] {3, 4, 6, 7, 2, 3, 5, 6, 4};
             
-            Array.Sort(xar);
+            Console.WriteLine("Dup is: " + FindFirstDuplicate(xar));
+        }
+        
+        public static int FindFirstDuplicate(int[] arr) {
+            Array.Sort(arr);
+
             var counter = 0;
             var last = 0;
             var dup = int.MinValue;
@@ -20,20 +25,19 @@ namespace FindRepeatSpace
             {
                 if (counter == 0)
                 {
-                    last = xar[counter];
+                    last = arr[counter];
                     counter++;
                     continue;
                 }
-                if (last == xar[counter])
+                if (last == arr[counter])
                 {
-                    dup = xar[counter];
+                    dup = arr[counter];
                     break;
                 }
-                last = xar[counter];
+                last = arr[counter];
                 counter++;
             }
-            
-            Console.WriteLine("Dup is: " + dup);
+            return dup;
         }
     }
 }

@@ -40,16 +40,17 @@
       <file leaf-file-name="Program.cs" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/FindRepeatSpace/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" column="34" lean-forward="false" selection-start-line="17" selection-start-column="26" selection-end-line="17" selection-end-column="34" />
+            <state relative-caret-position="618">
+              <caret line="42" column="0" lean-forward="false" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
               <folding>
-                <marker date="1495592804000" expanded="true" signature="6:145" ph="..." />
-                <marker date="1495592804000" expanded="true" signature="172:968" ph="{...}" />
-                <marker date="1495592804000" expanded="true" signature="201:966" ph="{...}" />
-                <marker date="1495592804000" expanded="true" signature="254:960" ph="{...}" />
-                <marker date="1495592804000" expanded="true" signature="479:888" ph="{...}" />
-                <marker date="1495592804000" expanded="true" signature="527:665" ph="{...}" />
-                <marker date="1495592804000" expanded="true" signature="707:810" ph="{...}" />
+                <marker date="1495633204000" expanded="true" signature="6:145" ph="..." />
+                <marker date="1495633204000" expanded="true" signature="172:1077" ph="{...}" />
+                <marker date="1495633204000" expanded="true" signature="201:1075" ph="{...}" />
+                <marker date="1495633204000" expanded="true" signature="254:413" ph="{...}" />
+                <marker date="1495633204000" expanded="true" signature="479:1069" ph="{...}" />
+                <marker date="1495633204000" expanded="true" signature="626:1035" ph="{...}" />
+                <marker date="1495633204000" expanded="true" signature="674:812" ph="{...}" />
+                <marker date="1495633204000" expanded="true" signature="854:957" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -471,12 +472,12 @@
       <workItem from="1494966899646" duration="18608000" />
       <workItem from="1495391819175" duration="2730000" />
       <workItem from="1495508581686" duration="3144000" />
-      <workItem from="1495542886419" duration="8053000" />
+      <workItem from="1495542886419" duration="8310000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="71557000" />
+    <option name="totallyTimeSpent" value="71814000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1289,16 +1290,17 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/FindRepeatSpace/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="34" lean-forward="false" selection-start-line="17" selection-start-column="26" selection-end-line="17" selection-end-column="34" />
+        <state relative-caret-position="618">
+          <caret line="42" column="0" lean-forward="false" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
           <folding>
-            <marker date="1495592804000" expanded="true" signature="6:145" ph="..." />
-            <marker date="1495592804000" expanded="true" signature="172:968" ph="{...}" />
-            <marker date="1495592804000" expanded="true" signature="201:966" ph="{...}" />
-            <marker date="1495592804000" expanded="true" signature="254:960" ph="{...}" />
-            <marker date="1495592804000" expanded="true" signature="479:888" ph="{...}" />
-            <marker date="1495592804000" expanded="true" signature="527:665" ph="{...}" />
-            <marker date="1495592804000" expanded="true" signature="707:810" ph="{...}" />
+            <marker date="1495633204000" expanded="true" signature="6:145" ph="..." />
+            <marker date="1495633204000" expanded="true" signature="172:1077" ph="{...}" />
+            <marker date="1495633204000" expanded="true" signature="201:1075" ph="{...}" />
+            <marker date="1495633204000" expanded="true" signature="254:413" ph="{...}" />
+            <marker date="1495633204000" expanded="true" signature="479:1069" ph="{...}" />
+            <marker date="1495633204000" expanded="true" signature="626:1035" ph="{...}" />
+            <marker date="1495633204000" expanded="true" signature="674:812" ph="{...}" />
+            <marker date="1495633204000" expanded="true" signature="854:957" ph="{...}" />
           </folding>
         </state>
       </provider>
