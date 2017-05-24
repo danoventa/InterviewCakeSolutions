@@ -13,174 +13,43 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="Program.cs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/MakingChange/Program.cs">
+        <entry file="file://$PROJECT_DIR$/TwoEggProblem/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="645">
-              <caret line="43" column="32" lean-forward="false" selection-start-line="43" selection-start-column="32" selection-end-line="43" selection-end-column="32" />
+            <state relative-caret-position="498">
+              <caret line="40" column="21" lean-forward="false" selection-start-line="40" selection-start-column="21" selection-end-line="40" selection-end-column="21" />
               <folding>
-                <marker date="1494593905000" expanded="true" signature="6:66" ph="..." />
-                <marker date="1494593905000" expanded="true" signature="119:1577" ph="{...}" />
-                <marker date="1494593905000" expanded="true" signature="172:330" ph="{...}" />
-                <marker date="1494593905000" expanded="true" signature="405:1571" ph="{...}" />
-                <marker date="1494593905000" expanded="true" signature="517:621" ph="{...}" />
-                <marker date="1494593905000" expanded="true" signature="807:1537" ph="{...}" />
-                <marker date="1494593905000" expanded="true" signature="861:924" ph="{...}" />
-                <marker date="1494593905000" expanded="true" signature="1021:1502" ph="{...}" />
-                <marker date="1494593905000" expanded="true" signature="1111:1484" ph="{...}" />
-                <marker date="1494593905000" expanded="true" signature="1199:1322" ph="{...}" />
-                <marker date="1494593905000" expanded="true" signature="1351:1462" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Program.cs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/RectangularLove/Program.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="675">
-              <caret line="45" column="0" lean-forward="false" selection-start-line="45" selection-start-column="0" selection-end-line="45" selection-end-column="0" />
-              <folding>
-                <marker date="1494781113000" expanded="true" signature="6:108" ph="..." />
-                <marker date="1494781113000" expanded="true" signature="164:2189" ph="{...}" />
-                <marker date="1494781113000" expanded="true" signature="217:692" ph="{...}" />
-                <marker date="1494781113000" expanded="true" signature="779:1562" ph="{...}" />
-                <marker date="1494781113000" expanded="true" signature="1323:1416" ph="{...}" />
-                <marker date="1494781113000" expanded="true" signature="1642:2183" ph="{...}" />
-                <marker date="1494781113000" expanded="true" signature="2015:2173" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Program.cs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/TemperatureTracker/Program.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1125">
-              <caret line="75" column="0" lean-forward="false" selection-start-line="75" selection-start-column="0" selection-end-line="76" selection-end-column="0" />
-              <folding>
-                <marker date="1495392699000" expanded="true" signature="6:229" ph="..." />
-                <marker date="1495392699000" expanded="true" signature="288:5615" ph="{...}" />
-                <marker date="1495392699000" expanded="true" signature="341:2169" ph="{...}" />
-                <marker date="1495392699000" expanded="true" signature="413:602" ph="{...}" />
-                <marker date="1495392699000" expanded="true" signature="675:1752" ph="{...}" />
-                <marker date="1495392699000" expanded="true" signature="917:1125" ph="{...}" />
-                <marker date="1495392699000" expanded="true" signature="1649:1738" ph="{...}" />
-                <marker date="1495392699000" expanded="true" signature="1766:1900" ph="/* var sums = new List&lt;int&gt; {-4, -3, -2, -2, -2, -3, -4, -1}; ... */" />
-                <marker date="1495392699000" expanded="true" signature="2223:2852" ph="{...}" />
-                <marker date="1495392699000" expanded="true" signature="2348:2770" ph="{...}" />
-                <marker date="1495392699000" expanded="true" signature="2406:2504" ph="{...}" />
-                <marker date="1495392699000" expanded="true" signature="2546:2727" ph="{...}" />
-                <marker date="1495392699000" expanded="true" signature="2906:4084" ph="{...}" />
-                <marker date="1495392699000" expanded="true" signature="2940:2981" ph="{...}" />
-                <marker date="1495392699000" expanded="true" signature="3015:3062" ph="{...}" />
-                <marker date="1495392699000" expanded="true" signature="3178:4027" ph="{...}" />
-                <marker date="1495392699000" expanded="true" signature="3219:3772" ph="{...}" />
-                <marker date="1495392699000" expanded="true" signature="3279:3447" ph="{...}" />
-                <marker date="1495392699000" expanded="true" signature="3490:3604" ph="{...}" />
-                <marker date="1495392699000" expanded="true" signature="3640:3754" ph="{...}" />
-                <marker date="1495392699000" expanded="true" signature="3819:3918" ph="{...}" />
-                <marker date="1495392699000" expanded="true" signature="4118:5609" ph="{...}" />
-                <marker date="1495392699000" expanded="true" signature="4512:5232" ph="{...}" />
-                <marker date="1495392699000" expanded="true" signature="4573:4649" ph="{...}" />
-                <marker date="1495392699000" expanded="true" signature="4670:4748" ph="{...}" />
-                <marker date="1495392699000" expanded="true" signature="4795:4910" ph="{...}" />
-                <marker date="1495392699000" expanded="true" signature="4943:5011" ph="{...}" />
-                <marker date="1495392699000" expanded="true" signature="5044:5112" ph="{...}" />
-                <marker date="1495392699000" expanded="true" signature="5265:5322" ph="{...}" />
-                <marker date="1495392699000" expanded="true" signature="5355:5412" ph="{...}" />
-                <marker date="1495392699000" expanded="true" signature="5446:5504" ph="{...}" />
-                <marker date="1495392699000" expanded="true" signature="5541:5599" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Program.cs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/WordCloudData/Program.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="555">
-              <caret line="37" column="66" lean-forward="false" selection-start-line="37" selection-start-column="66" selection-end-line="37" selection-end-column="66" />
-              <folding>
-                <marker date="1495510842000" expanded="true" signature="6:141" ph="..." />
-                <marker date="1495510842000" expanded="true" signature="195:2278" ph="{...}" />
-                <marker date="1495510842000" expanded="true" signature="248:620" ph="{...}" />
-                <marker date="1495510842000" expanded="true" signature="470:610" ph="{...}" />
-                <marker date="1495510842000" expanded="true" signature="701:1026" ph="{...}" />
-                <marker date="1495510842000" expanded="true" signature="779:1016" ph="{...}" />
-                <marker date="1495510842000" expanded="true" signature="847:957" ph="{...}" />
-                <marker date="1495510842000" expanded="true" signature="1036:1183" ph="/* String builder has a Clear() function to clear a string ... */" />
-                <marker date="1495510842000" expanded="true" signature="1244:2272" ph="{...}" />
-                <marker date="1495510842000" expanded="true" signature="1443:2193" ph="{...}" />
-                <marker date="1495510842000" expanded="true" signature="1568:1878" ph="{...}" />
-                <marker date="1495510842000" expanded="true" signature="1624:1749" ph="{...}" />
-                <marker date="1495510842000" expanded="true" signature="1916:2115" ph="{...}" />
-                <marker date="1495510842000" expanded="true" signature="1973:2067" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Program.cs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/InPlaceShuffle/Program.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-42">
-              <caret line="30" column="34" lean-forward="false" selection-start-line="30" selection-start-column="34" selection-end-line="30" selection-end-column="34" />
-              <folding>
-                <marker date="1495543324000" expanded="true" signature="6:128" ph="..." />
-                <marker date="1495543324000" expanded="true" signature="154:1995" ph="{...}" />
-                <marker date="1495543324000" expanded="true" signature="183:1993" ph="{...}" />
-                <marker date="1495543324000" expanded="true" signature="236:1111" ph="{...}" />
-                <marker date="1495543324000" expanded="true" signature="374:443" ph="{...}" />
-                <marker date="1495543324000" expanded="true" signature="589:658" ph="{...}" />
-                <marker date="1495543324000" expanded="true" signature="806:875" ph="{...}" />
-                <marker date="1495543324000" expanded="true" signature="1032:1101" ph="{...}" />
-                <marker date="1495543324000" expanded="true" signature="1169:1479" ph="{...}" />
-                <marker date="1495543324000" expanded="true" signature="1276:1469" ph="{...}" />
-                <marker date="1495543324000" expanded="true" signature="1552:1987" ph="{...}" />
-                <marker date="1495543324000" expanded="true" signature="1659:1977" ph="{...}" />
-                <marker date="1495543324000" expanded="true" signature="1762:1854" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Program.cs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ShuffleDeck/Program.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-              <folding>
-                <marker date="1495549061000" expanded="true" signature="36:1976" ph="{...}" />
-                <marker date="1495549061000" expanded="true" signature="65:1974" ph="{...}" />
-                <marker date="1495549061000" expanded="true" signature="118:698" ph="{...}" />
-                <marker date="1495549061000" expanded="true" signature="204:265" ph="{...}" />
-                <marker date="1495549061000" expanded="true" signature="415:484" ph="{...}" />
-                <marker date="1495549061000" expanded="true" signature="619:688" ph="{...}" />
-                <marker date="1495549061000" expanded="true" signature="762:1968" ph="{...}" />
-                <marker date="1495549061000" expanded="true" signature="1111:1932" ph="{...}" />
-                <marker date="1495549061000" expanded="true" signature="1266:1372" ph="{...}" />
-                <marker date="1495549061000" expanded="true" signature="1407:1479" ph="{...}" />
-                <marker date="1495549061000" expanded="true" signature="1643:1749" ph="{...}" />
-                <marker date="1495549061000" expanded="true" signature="1793:1868" ph="{...}" />
+                <marker date="1495591339000" expanded="false" signature="6:111" ph="..." />
+                <marker date="1495591339000" expanded="true" signature="136:2335" ph="{...}" />
+                <marker date="1495591339000" expanded="true" signature="165:2333" ph="{...}" />
+                <marker date="1495591339000" expanded="true" signature="218:447" ph="{...}" />
+                <marker date="1495591339000" expanded="true" signature="525:1851" ph="{...}" />
+                <marker date="1495591339000" expanded="true" signature="682:1812" ph="{...}" />
+                <marker date="1495591339000" expanded="true" signature="754:1404" ph="{...}" />
+                <marker date="1495591339000" expanded="true" signature="814:1001" ph="{...}" />
+                <marker date="1495591339000" expanded="true" signature="1070:1188" ph="{...}" />
+                <marker date="1495591339000" expanded="true" signature="1213:1386" ph="{...}" />
+                <marker date="1495591339000" expanded="true" signature="1425:1798" ph="{...}" />
+                <marker date="1495591339000" expanded="true" signature="1485:1598" ph="{...}" />
+                <marker date="1495591339000" expanded="true" signature="1640:1753" ph="{...}" />
+                <marker date="1495591339000" expanded="true" signature="1907:2327" ph="{...}" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="Program.cs" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/SevenSidedDie/Program.cs">
+        <entry file="file://$PROJECT_DIR$/FindRepeatSpace/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="465">
-              <caret line="31" column="22" lean-forward="false" selection-start-line="31" selection-start-column="22" selection-end-line="31" selection-end-column="22" />
+            <state relative-caret-position="180">
+              <caret line="12" column="33" lean-forward="false" selection-start-line="12" selection-start-column="32" selection-end-line="12" selection-end-column="33" />
               <folding>
-                <marker date="1495566260000" expanded="true" signature="6:188" ph="..." />
-                <marker date="1495566260000" expanded="true" signature="213:929" ph="{...}" />
-                <marker date="1495566260000" expanded="true" signature="242:927" ph="{...}" />
-                <marker date="1495566260000" expanded="true" signature="295:429" ph="{...}" />
-                <marker date="1495566260000" expanded="true" signature="346:419" ph="{...}" />
-                <marker date="1495566260000" expanded="true" signature="472:769" ph="{...}" />
-                <marker date="1495566260000" expanded="true" signature="576:722" ph="{...}" />
-                <marker date="1495566260000" expanded="true" signature="812:921" ph="{...}" />
+                <marker date="1495592804000" expanded="true" signature="6:145" ph="..." />
+                <marker date="1495592804000" expanded="true" signature="172:968" ph="{...}" />
+                <marker date="1495592804000" expanded="true" signature="201:966" ph="{...}" />
+                <marker date="1495592804000" expanded="true" signature="254:960" ph="{...}" />
+                <marker date="1495592804000" expanded="true" signature="479:888" ph="{...}" />
+                <marker date="1495592804000" expanded="true" signature="527:665" ph="{...}" />
+                <marker date="1495592804000" expanded="true" signature="707:810" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -200,12 +69,13 @@
         <option value="$PROJECT_DIR$/HiCal/Program.cs" />
         <option value="$PROJECT_DIR$/MakingChange/Program.cs" />
         <option value="$PROJECT_DIR$/RectangularLove/Program.cs" />
-        <option value="$PROJECT_DIR$/TwoEggProblem/Program.cs" />
         <option value="$PROJECT_DIR$/TemperatureTracker/Program.cs" />
         <option value="$PROJECT_DIR$/WordCloudData/Program.cs" />
         <option value="$PROJECT_DIR$/InPlaceShuffle/Program.cs" />
         <option value="$PROJECT_DIR$/ShuffleDeck/Program.cs" />
         <option value="$PROJECT_DIR$/SevenSidedDie/Program.cs" />
+        <option value="$PROJECT_DIR$/TwoEggProblem/Program.cs" />
+        <option value="$PROJECT_DIR$/FindRepeatSpace/Program.cs" />
       </list>
     </option>
   </component>
@@ -243,7 +113,39 @@
               <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="InterviewCakeInCSharp (13 projects)" />
+              <option name="myItemId" value="InterviewCakeInCSharp (14 projects)" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="InterviewCakeInCSharp (14 projects)" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TwoEggProblem" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="InterviewCakeInCSharp (14 projects)" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TwoEggProblem" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Properties" />
               <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerNodeRider" />
             </PATH_ELEMENT>
           </PATH>
@@ -487,12 +389,12 @@
       <method />
     </configuration>
     <configuration default="false" name="Default" type="DotNetProject" factoryName=".NET Project">
-      <option name="PROJECT_PATH" value="$PROJECT_DIR$/SevenSidedDie/SevenSidedDie.csproj" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/FindRepeatSpace/FindRepeatSpace.csproj" />
       <option name="PROJECT_KIND" value="Console" />
       <option name="PROJECT_TFM" value=".NETFramework,Version=v4.5" />
-      <option name="EXE_PATH" value="$PROJECT_DIR$/SevenSidedDie/bin/Debug/SevenSidedDie.exe" />
+      <option name="EXE_PATH" value="$PROJECT_DIR$/FindRepeatSpace/bin/Debug/FindRepeatSpace.exe" />
       <option name="PROGRAM_PARAMETERS" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SevenSidedDie/bin/Debug" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/FindRepeatSpace/bin/Debug" />
       <option name="USE_MONO" value="0" />
       <option name="USE_EXTERNAL_CONSOLE" value="0" />
       <envs />
@@ -569,12 +471,12 @@
       <workItem from="1494966899646" duration="18608000" />
       <workItem from="1495391819175" duration="2730000" />
       <workItem from="1495508581686" duration="3144000" />
-      <workItem from="1495542886419" duration="5725000" />
+      <workItem from="1495542886419" duration="7634000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="69229000" />
+    <option name="totallyTimeSpent" value="71138000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -593,7 +495,7 @@
       <window_info id="Errors In Solution" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32901296" sideWeight="0.50238097" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Unit Tests" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32901296" sideWeight="0.49761903" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2662014" sideWeight="0.49761903" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2662014" sideWeight="0.49761903" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="NuGet" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -1279,13 +1181,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/TwoEggProblem/Program.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="570">
-          <caret line="38" column="31" lean-forward="false" selection-start-line="38" selection-start-column="24" selection-end-line="38" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/WordCloudData/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="555">
@@ -1365,6 +1260,45 @@
             <marker date="1495566260000" expanded="true" signature="472:769" ph="{...}" />
             <marker date="1495566260000" expanded="true" signature="576:722" ph="{...}" />
             <marker date="1495566260000" expanded="true" signature="812:921" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TwoEggProblem/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="498">
+          <caret line="40" column="21" lean-forward="false" selection-start-line="40" selection-start-column="21" selection-end-line="40" selection-end-column="21" />
+          <folding>
+            <marker date="1495591339000" expanded="false" signature="6:111" ph="..." />
+            <marker date="1495591339000" expanded="true" signature="136:2335" ph="{...}" />
+            <marker date="1495591339000" expanded="true" signature="165:2333" ph="{...}" />
+            <marker date="1495591339000" expanded="true" signature="218:447" ph="{...}" />
+            <marker date="1495591339000" expanded="true" signature="525:1851" ph="{...}" />
+            <marker date="1495591339000" expanded="true" signature="682:1812" ph="{...}" />
+            <marker date="1495591339000" expanded="true" signature="754:1404" ph="{...}" />
+            <marker date="1495591339000" expanded="true" signature="814:1001" ph="{...}" />
+            <marker date="1495591339000" expanded="true" signature="1070:1188" ph="{...}" />
+            <marker date="1495591339000" expanded="true" signature="1213:1386" ph="{...}" />
+            <marker date="1495591339000" expanded="true" signature="1425:1798" ph="{...}" />
+            <marker date="1495591339000" expanded="true" signature="1485:1598" ph="{...}" />
+            <marker date="1495591339000" expanded="true" signature="1640:1753" ph="{...}" />
+            <marker date="1495591339000" expanded="true" signature="1907:2327" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FindRepeatSpace/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="33" lean-forward="false" selection-start-line="12" selection-start-column="32" selection-end-line="12" selection-end-column="33" />
+          <folding>
+            <marker date="1495592804000" expanded="true" signature="6:145" ph="..." />
+            <marker date="1495592804000" expanded="true" signature="172:968" ph="{...}" />
+            <marker date="1495592804000" expanded="true" signature="201:966" ph="{...}" />
+            <marker date="1495592804000" expanded="true" signature="254:960" ph="{...}" />
+            <marker date="1495592804000" expanded="true" signature="479:888" ph="{...}" />
+            <marker date="1495592804000" expanded="true" signature="527:665" ph="{...}" />
+            <marker date="1495592804000" expanded="true" signature="707:810" ph="{...}" />
           </folding>
         </state>
       </provider>

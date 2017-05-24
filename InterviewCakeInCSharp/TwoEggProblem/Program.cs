@@ -11,7 +11,7 @@ namespace TwoEggProblem
         {
             var floors = 100;
             var bPoint = 50;
-            var eggs = 5;
+            var eggs = 2;
 
             var floorFound = FindHighestFloor(eggs, bPoint, floors);
             Console.WriteLine(floorFound.ToString());

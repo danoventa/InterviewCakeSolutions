@@ -1,0 +1,5 @@
+/Users/temogen/Documents/Github/InterviewCakeSolutions/InterviewCakeInCSharp/FindRepeatSpace/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/temogen/Documents/Github/InterviewCakeSolutions/InterviewCakeInCSharp/FindRepeatSpace/bin/Debug/FindRepeatSpace.exe.mdb
+/Users/temogen/Documents/Github/InterviewCakeSolutions/InterviewCakeInCSharp/FindRepeatSpace/bin/Debug/FindRepeatSpace.exe
+/Users/temogen/Documents/Github/InterviewCakeSolutions/InterviewCakeInCSharp/FindRepeatSpace/obj/Debug/FindRepeatSpace.exe
+/Users/temogen/Documents/Github/InterviewCakeSolutions/InterviewCakeInCSharp/FindRepeatSpace/obj/Debug/FindRepeatSpace.exe.mdb

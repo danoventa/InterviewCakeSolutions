@@ -29,6 +29,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShuffleDeck", "ShuffleDeck\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SevenSidedDie", "SevenSidedDie\SevenSidedDie.csproj", "{C38AC0B5-46F3-4B50-BE1E-6FFF7C89E162}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindRepeatSpace", "FindRepeatSpace\FindRepeatSpace.csproj", "{3C949787-2273-4485-9226-5A9902B205CE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +89,10 @@ Global
 		{C38AC0B5-46F3-4B50-BE1E-6FFF7C89E162}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C38AC0B5-46F3-4B50-BE1E-6FFF7C89E162}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C38AC0B5-46F3-4B50-BE1E-6FFF7C89E162}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C949787-2273-4485-9226-5A9902B205CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C949787-2273-4485-9226-5A9902B205CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C949787-2273-4485-9226-5A9902B205CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C949787-2273-4485-9226-5A9902B205CE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
