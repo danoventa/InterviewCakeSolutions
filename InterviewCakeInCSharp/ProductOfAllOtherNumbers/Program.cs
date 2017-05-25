@@ -21,6 +21,11 @@ namespace ProductOfAllOtherNumbers
             {
                 PrintList(BadProductOfAllOtherNumbers(l));
             }
+            Console.WriteLine();
+            foreach (var l in x)
+            {
+                PrintList(BalancedProductOfAllOtherNumbers(l));
+            }
         }
         public static void PrintList(List<int> lintz)
         {
@@ -33,13 +38,13 @@ namespace ProductOfAllOtherNumbers
             Console.Write("}");
         }
 
-        public static List<int> ProductOfAllOtherNumbers(List<int> lint)
+        public static List<int> BalancedProductOfAllOtherNumbers(List<int> lint)
         {
             var index = 0;
+            var proBefore = 1;
             var newList = new List<int>();
             while (index < lint.Count)
             {
-                var proBefore = 1;
                 if (index != 0)
                 {
                     proBefore *= lint[index - 1];
