@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Security.Policy;
 
 namespace ProductOfAllOtherNumbers
 {
@@ -26,6 +27,11 @@ namespace ProductOfAllOtherNumbers
             {
                 PrintList(BalancedProductOfAllOtherNumbers(l));
             }
+            Console.WriteLine();
+            foreach (var l in x)
+            {
+                PrintList(BetterProductOfAllOtherNumbers(l));
+            }
         }
         public static void PrintList(List<int> lintz)
         {
@@ -36,6 +42,39 @@ namespace ProductOfAllOtherNumbers
                 Console.Write(i + " ");
             }
             Console.Write("}");
+        }
+
+        public static List<int> BetterProductOfAllOtherNumbers(List<int> lint)
+        {
+            var allList = new List<int>();
+            var trailProd = 1;
+            for (var i = 0; i < lint.Count; i++)
+            {
+                if (i > 0)
+                {
+                    allList.Add(trailProd);
+                    trailProd *= lint[i - 1];
+                }
+                else
+                {
+                    allList.Add(1);
+                }
+               
+            }
+            var leadProd = 1;
+            for (var i = lint.Count - 1; i > 0; i--)
+            {
+                if (i < lint.Count - 1)
+                {
+                    allList[i] *= leadProd;
+                    leadProd *= lint[i + 1];
+                }
+                else
+                {
+                    allList[i] *= 1;
+                }
+            }
+            return allList;
         }
 
         public static List<int> BalancedProductOfAllOtherNumbers(List<int> lint)
