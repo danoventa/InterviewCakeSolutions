@@ -42,18 +42,7 @@ namespace StockPricesYesterday
             {
                 if (localWin == int.MinValue)
                 {
-                    if (count - 1 >= 0)
-                    {
-                        localWin = stocks[count] - stocks[count - 1];
-                        if (localWin < 0)
-                        {
-                            localWin = 0;
-                        }
-                    }
-                    else
-                    {
-                        localWin = 0;
-                    }
+                    localWin = 0;
                     topWin = Math.Max(localWin, topWin);
                     count++;
                     continue;
@@ -61,7 +50,7 @@ namespace StockPricesYesterday
                 if (stocks[count] - stocks[count -1] < 0)
                 {
                     topWin = Math.Max(localWin, topWin);
-                    localWin = int.MinValue;
+                    localWin = 0;
                     count++;
                     continue;
                 }
