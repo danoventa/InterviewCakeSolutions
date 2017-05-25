@@ -33,6 +33,29 @@ namespace ProductOfAllOtherNumbers
             Console.Write("}");
         }
 
+        public static List<int> ProductOfAllOtherNumbers(List<int> lint)
+        {
+            var index = 0;
+            var newList = new List<int>();
+            while (index < lint.Count)
+            {
+                var proBefore = 1;
+                if (index != 0)
+                {
+                    proBefore *= lint[index - 1];
+                }
+                var proAfter = 1;
+                for (var i = index + 1; i < lint.Count; i++)
+                {
+                    proAfter *= lint[i];
+                }
+                index++;
+                newList.Add(proBefore * proAfter);
+            }   
+            return newList;
+        }
+        
+
         // find product of every integer, except the integer at that point. 
         public static List<int> BadProductOfAllOtherNumbers(List<int> lint)
         {
