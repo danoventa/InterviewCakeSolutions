@@ -31,6 +31,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SevenSidedDie", "SevenSided
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindRepeatSpace", "FindRepeatSpace\FindRepeatSpace.csproj", "{3C949787-2273-4485-9226-5A9902B205CE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StockPricesYesterday", "StockPricesYesterday\StockPricesYesterday.csproj", "{8FDEE9FB-8205-41F0-8713-98B481E30222}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -93,6 +95,10 @@ Global
 		{3C949787-2273-4485-9226-5A9902B205CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3C949787-2273-4485-9226-5A9902B205CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3C949787-2273-4485-9226-5A9902B205CE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8FDEE9FB-8205-41F0-8713-98B481E30222}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8FDEE9FB-8205-41F0-8713-98B481E30222}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8FDEE9FB-8205-41F0-8713-98B481E30222}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8FDEE9FB-8205-41F0-8713-98B481E30222}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

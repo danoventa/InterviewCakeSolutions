@@ -12,6 +12,7 @@
       <sourceFolder url="file://$MODULE_DIR$/../../RectangularLove" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/../../SevenSidedDie" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/../../ShuffleDeck" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../StockPricesYesterday" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/../../TemperatureTracker" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/../../TwoEggProblem" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/../../URLShortener" isTestSource="false" />
@@ -34,6 +35,8 @@
       <excludeFolder url="file://$MODULE_DIR$/../../SevenSidedDie/obj" />
       <excludeFolder url="file://$MODULE_DIR$/../../ShuffleDeck/bin" />
       <excludeFolder url="file://$MODULE_DIR$/../../ShuffleDeck/obj" />
+      <excludeFolder url="file://$MODULE_DIR$/../../StockPricesYesterday/bin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../StockPricesYesterday/obj" />
       <excludeFolder url="file://$MODULE_DIR$/../../TemperatureTracker/bin" />
       <excludeFolder url="file://$MODULE_DIR$/../../TemperatureTracker/obj" />
       <excludeFolder url="file://$MODULE_DIR$/../../TwoEggProblem/bin" />

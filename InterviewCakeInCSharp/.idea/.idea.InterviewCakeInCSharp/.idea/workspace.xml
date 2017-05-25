@@ -37,11 +37,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Program.cs" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Program.cs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/FindRepeatSpace/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="288">
-              <caret line="20" column="36" lean-forward="false" selection-start-line="20" selection-start-column="36" selection-end-line="20" selection-end-column="36" />
+            <state relative-caret-position="468">
+              <caret line="32" column="17" lean-forward="false" selection-start-line="32" selection-start-column="17" selection-end-line="32" selection-end-column="17" />
               <folding>
                 <marker date="1495652758000" expanded="true" signature="6:145" ph="..." />
                 <marker date="1495652758000" expanded="true" signature="172:1127" ph="{...}" />
@@ -51,6 +51,21 @@
                 <marker date="1495652758000" expanded="true" signature="676:1085" ph="{...}" />
                 <marker date="1495652758000" expanded="true" signature="724:862" ph="{...}" />
                 <marker date="1495652758000" expanded="true" signature="904:1007" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Program.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/StockPricesYesterday/Program.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="15" column="50" lean-forward="false" selection-start-line="15" selection-start-column="50" selection-end-line="15" selection-end-column="50" />
+              <folding>
+                <marker date="1495685254000" expanded="false" signature="6:47" ph="..." />
+                <marker date="1495685254000" expanded="true" signature="79:348" ph="{...}" />
+                <marker date="1495685254000" expanded="true" signature="108:346" ph="{...}" />
+                <marker date="1495685254000" expanded="true" signature="161:279" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -77,6 +92,7 @@
         <option value="$PROJECT_DIR$/SevenSidedDie/Program.cs" />
         <option value="$PROJECT_DIR$/TwoEggProblem/Program.cs" />
         <option value="$PROJECT_DIR$/FindRepeatSpace/Program.cs" />
+        <option value="$PROJECT_DIR$/StockPricesYesterday/Program.cs" />
       </list>
     </option>
   </component>
@@ -114,39 +130,7 @@
               <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="InterviewCakeInCSharp (14 projects)" />
-              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerNodeRider" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" />
-              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="InterviewCakeInCSharp (14 projects)" />
-              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerNodeRider" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="TwoEggProblem" />
-              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerNodeRider" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" />
-              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="InterviewCakeInCSharp (14 projects)" />
-              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerNodeRider" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="TwoEggProblem" />
-              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerNodeRider" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Properties" />
+              <option name="myItemId" value="InterviewCakeInCSharp (15 projects)" />
               <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerNodeRider" />
             </PATH_ELEMENT>
           </PATH>
@@ -472,12 +456,12 @@
       <workItem from="1494966899646" duration="18608000" />
       <workItem from="1495391819175" duration="2730000" />
       <workItem from="1495508581686" duration="3144000" />
-      <workItem from="1495542886419" duration="8738000" />
+      <workItem from="1495542886419" duration="8989000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="72242000" />
+    <option name="totallyTimeSpent" value="72493000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1290,8 +1274,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/FindRepeatSpace/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="20" column="36" lean-forward="false" selection-start-line="20" selection-start-column="36" selection-end-line="20" selection-end-column="36" />
+        <state relative-caret-position="468">
+          <caret line="32" column="17" lean-forward="false" selection-start-line="32" selection-start-column="17" selection-end-line="32" selection-end-column="17" />
           <folding>
             <marker date="1495652758000" expanded="true" signature="6:145" ph="..." />
             <marker date="1495652758000" expanded="true" signature="172:1127" ph="{...}" />
@@ -1301,6 +1285,19 @@
             <marker date="1495652758000" expanded="true" signature="676:1085" ph="{...}" />
             <marker date="1495652758000" expanded="true" signature="724:862" ph="{...}" />
             <marker date="1495652758000" expanded="true" signature="904:1007" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/StockPricesYesterday/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="15" column="50" lean-forward="false" selection-start-line="15" selection-start-column="50" selection-end-line="15" selection-end-column="50" />
+          <folding>
+            <marker date="1495685254000" expanded="false" signature="6:47" ph="..." />
+            <marker date="1495685254000" expanded="true" signature="79:348" ph="{...}" />
+            <marker date="1495685254000" expanded="true" signature="108:346" ph="{...}" />
+            <marker date="1495685254000" expanded="true" signature="161:279" ph="{...}" />
           </folding>
         </state>
       </provider>
