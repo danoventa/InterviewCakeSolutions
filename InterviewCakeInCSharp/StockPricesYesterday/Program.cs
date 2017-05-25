@@ -55,7 +55,7 @@ namespace StockPricesYesterday
                 localWin += stocks[count] - stocks[count - 1];    
                 count++;
             }
-            
+            topWin = Math.Max(localWin, topWin);
             
             return topWin;
         }
