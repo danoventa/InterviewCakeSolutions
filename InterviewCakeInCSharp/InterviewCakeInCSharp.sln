@@ -33,6 +33,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindRepeatSpace", "FindRepe
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StockPricesYesterday", "StockPricesYesterday\StockPricesYesterday.csproj", "{8FDEE9FB-8205-41F0-8713-98B481E30222}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProductOfAllOtherNumbers", "ProductOfAllOtherNumbers\ProductOfAllOtherNumbers.csproj", "{5B25CFE2-58E6-47FA-B120-1D267A401B07}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -99,6 +101,10 @@ Global
 		{8FDEE9FB-8205-41F0-8713-98B481E30222}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8FDEE9FB-8205-41F0-8713-98B481E30222}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8FDEE9FB-8205-41F0-8713-98B481E30222}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5B25CFE2-58E6-47FA-B120-1D267A401B07}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B25CFE2-58E6-47FA-B120-1D267A401B07}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B25CFE2-58E6-47FA-B120-1D267A401B07}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B25CFE2-58E6-47FA-B120-1D267A401B07}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

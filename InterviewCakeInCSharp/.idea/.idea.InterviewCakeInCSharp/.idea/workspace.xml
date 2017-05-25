@@ -56,7 +56,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Program.cs" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Program.cs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/StockPricesYesterday/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="318">
@@ -75,6 +75,22 @@
                 <marker date="1495710481000" expanded="true" signature="1070:1666" ph="{...}" />
                 <marker date="1495710481000" expanded="true" signature="1130:1316" ph="{...}" />
                 <marker date="1495710481000" expanded="true" signature="1374:1560" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Program.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ProductOfAllOtherNumbers/Program.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="16" column="1" lean-forward="true" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
+              <folding>
+                <marker date="1495710732000" expanded="true" signature="6:47" ph="..." />
+                <marker date="1495710732000" expanded="true" signature="83:303" ph="{...}" />
+                <marker date="1495710732000" expanded="true" signature="112:301" ph="{...}" />
+                <marker date="1495710732000" expanded="true" signature="165:185" ph="{...}" />
+                <marker date="1495710732000" expanded="true" signature="253:295" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -102,6 +118,7 @@
         <option value="$PROJECT_DIR$/TwoEggProblem/Program.cs" />
         <option value="$PROJECT_DIR$/FindRepeatSpace/Program.cs" />
         <option value="$PROJECT_DIR$/StockPricesYesterday/Program.cs" />
+        <option value="$PROJECT_DIR$/ProductOfAllOtherNumbers/Program.cs" />
       </list>
     </option>
   </component>
@@ -139,7 +156,7 @@
               <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="InterviewCakeInCSharp (15 projects)" />
+              <option name="myItemId" value="InterviewCakeInCSharp (16 projects)" />
               <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerNodeRider" />
             </PATH_ELEMENT>
           </PATH>
@@ -465,12 +482,12 @@
       <workItem from="1494966899646" duration="18608000" />
       <workItem from="1495391819175" duration="2730000" />
       <workItem from="1495508581686" duration="3144000" />
-      <workItem from="1495542886419" duration="12354000" />
+      <workItem from="1495542886419" duration="12651000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="75858000" />
+    <option name="totallyTimeSpent" value="76155000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -489,7 +506,7 @@
       <window_info id="Errors In Solution" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32901296" sideWeight="0.50238097" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Unit Tests" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32901296" sideWeight="0.49761903" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2662014" sideWeight="0.49761903" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2662014" sideWeight="0.49761903" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="NuGet" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -1316,6 +1333,20 @@
             <marker date="1495710481000" expanded="true" signature="1070:1666" ph="{...}" />
             <marker date="1495710481000" expanded="true" signature="1130:1316" ph="{...}" />
             <marker date="1495710481000" expanded="true" signature="1374:1560" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ProductOfAllOtherNumbers/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="1" lean-forward="true" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
+          <folding>
+            <marker date="1495710732000" expanded="true" signature="6:47" ph="..." />
+            <marker date="1495710732000" expanded="true" signature="83:303" ph="{...}" />
+            <marker date="1495710732000" expanded="true" signature="112:301" ph="{...}" />
+            <marker date="1495710732000" expanded="true" signature="165:185" ph="{...}" />
+            <marker date="1495710732000" expanded="true" signature="253:295" ph="{...}" />
           </folding>
         </state>
       </provider>
