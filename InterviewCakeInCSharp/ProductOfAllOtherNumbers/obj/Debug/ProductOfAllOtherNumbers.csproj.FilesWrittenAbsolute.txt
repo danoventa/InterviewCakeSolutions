@@ -1,0 +1,5 @@
+/Users/temogen/Documents/Github/InterviewCakeSolutions/InterviewCakeInCSharp/ProductOfAllOtherNumbers/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/temogen/Documents/Github/InterviewCakeSolutions/InterviewCakeInCSharp/ProductOfAllOtherNumbers/bin/Debug/ProductOfAllOtherNumbers.exe.mdb
+/Users/temogen/Documents/Github/InterviewCakeSolutions/InterviewCakeInCSharp/ProductOfAllOtherNumbers/bin/Debug/ProductOfAllOtherNumbers.exe
+/Users/temogen/Documents/Github/InterviewCakeSolutions/InterviewCakeInCSharp/ProductOfAllOtherNumbers/obj/Debug/ProductOfAllOtherNumbers.exe
+/Users/temogen/Documents/Github/InterviewCakeSolutions/InterviewCakeInCSharp/ProductOfAllOtherNumbers/obj/Debug/ProductOfAllOtherNumbers.exe.mdb
