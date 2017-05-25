@@ -18,6 +18,8 @@ namespace FindRepeatSpace
         public static int FindFirstDuplicate(int[] arr) {
             Array.Sort(arr);
 
+            var t = new List<int>();
+            
             var counter = 0;
             var last = 0;
             var dup = int.MinValue;
