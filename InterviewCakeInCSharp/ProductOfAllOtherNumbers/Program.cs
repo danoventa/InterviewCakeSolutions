@@ -16,7 +16,8 @@ namespace ProductOfAllOtherNumbers
                 new List<int> {2, 3, 4}, // {12, 8, 6}
                 new List<int> {9, 8, 7}, // {56, 63, 72} 
                 new List<int> {0, 1, 2}, // {2, 0, 0}
-                new List<int> {-1, 1, 0} // {0, 0, -1}
+                new List<int> {-1, 1, 0}, // {0, 0, -1}
+                new List<int> {1, 2}
             };
 
             foreach (var l in x)

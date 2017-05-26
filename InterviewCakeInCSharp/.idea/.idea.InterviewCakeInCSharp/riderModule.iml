@@ -5,6 +5,7 @@
       <sourceFolder url="file://$MODULE_DIR$/../../BinarySearchTreeChecker" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/../../FindRepeatSpace" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/../../HiCal" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../HIghestProductOf3" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/../../InPlaceShuffle" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/../../MakingChange" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/../../MillionGazillion" isTestSource="false" />
@@ -22,6 +23,8 @@
       <excludeFolder url="file://$MODULE_DIR$/../../BinarySearchTreeChecker/obj" />
       <excludeFolder url="file://$MODULE_DIR$/../../FindRepeatSpace/bin" />
       <excludeFolder url="file://$MODULE_DIR$/../../FindRepeatSpace/obj" />
+      <excludeFolder url="file://$MODULE_DIR$/../../HIghestProductOf3/bin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../HIghestProductOf3/obj" />
       <excludeFolder url="file://$MODULE_DIR$/../../HiCal/bin" />
       <excludeFolder url="file://$MODULE_DIR$/../../HiCal/obj" />
       <excludeFolder url="file://$MODULE_DIR$/../../InPlaceShuffle/bin" />
