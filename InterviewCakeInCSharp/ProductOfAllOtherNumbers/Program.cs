@@ -32,6 +32,10 @@ namespace ProductOfAllOtherNumbers
             foreach (var l in x)
             {
                 PrintList(BetterProductOfAllOtherNumbers(l));
+            }Console.WriteLine();
+            foreach (var l in x)
+            {
+                PrintList(BetterSumOfAllOtherNumbers(l));
             }
         }
         
@@ -62,6 +66,27 @@ namespace ProductOfAllOtherNumbers
             {
                 allList[i] *= leadProd;
                 leadProd *= lint[i];
+            }
+            
+            return allList;
+        }
+        
+        public static List<int> BetterSumOfAllOtherNumbers(List<int> lint)
+        {
+            var allList = new List<int>();
+            
+            var trailSum = 0;
+            foreach (var t in lint)
+            {
+                allList.Add(trailSum);
+                trailSum += t;
+            }
+            
+            var leadSum = 0;
+            for (var i = lint.Count - 1; i > -1; i--)
+            {
+                allList[i] += leadSum;
+                leadSum += lint[i];
             }
             
             return allList;
