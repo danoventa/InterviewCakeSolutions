@@ -49,18 +49,21 @@ namespace ProductOfAllOtherNumbers
         public static List<int> BetterProductOfAllOtherNumbers(List<int> lint)
         {
             var allList = new List<int>();
+            
             var trailProd = 1;
             foreach (var t in lint)
             {
                 allList.Add(trailProd);
                 trailProd *= t;
             }
+            
             var leadProd = 1;
             for (var i = lint.Count - 1; i > -1; i--)
             {
                 allList[i] *= leadProd;
                 leadProd *= lint[i];
             }
+            
             return allList;
         }
 
