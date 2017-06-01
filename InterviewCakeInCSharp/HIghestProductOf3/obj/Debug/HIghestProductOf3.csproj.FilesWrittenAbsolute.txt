@@ -1,0 +1,5 @@
+/Users/temogen/Documents/Github/InterviewCakeSolutions/InterviewCakeInCSharp/HIghestProductOf3/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/temogen/Documents/Github/InterviewCakeSolutions/InterviewCakeInCSharp/HIghestProductOf3/bin/Debug/HIghestProductOf3.exe.mdb
+/Users/temogen/Documents/Github/InterviewCakeSolutions/InterviewCakeInCSharp/HIghestProductOf3/bin/Debug/HIghestProductOf3.exe
+/Users/temogen/Documents/Github/InterviewCakeSolutions/InterviewCakeInCSharp/HIghestProductOf3/obj/Debug/HIghestProductOf3.exe
+/Users/temogen/Documents/Github/InterviewCakeSolutions/InterviewCakeInCSharp/HIghestProductOf3/obj/Debug/HIghestProductOf3.exe.mdb
