@@ -84,8 +84,6 @@ namespace HIghestProductOf3
                 Console.WriteLine();
             }
             
-            
-            
             return max3;
         }
         
