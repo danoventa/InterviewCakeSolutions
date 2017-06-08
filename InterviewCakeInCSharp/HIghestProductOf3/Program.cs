@@ -29,59 +29,28 @@ namespace HIghestProductOf3
                 throw new Exception("This function requires at least 3 integers in the List.");
             }
 
-            var max = int.MinValue;
-            var max2 = int.MinValue;
-            var max3 = int.MinValue;
+            var max = arints[0];
+            var max2 = max * arints[1];
+            var max3 = max2 * arints[2];
 
-            var min = int.MaxValue;
-            var min2 = int.MaxValue;
+            var min = max;
+            var min2 = max2;
 
-            foreach (var i in arints)
+            for(var i = 0; i < arints.Count; i++)
             {
-                if (i <= min)
-                {
-                    min = i;
-                }
-                if (i > max)
-                {
-                    max = i;
-                }
-                
-                
-                if (max > int.MinValue && max2 < max * i)
-                {
-                    max2 = max * i;
-                }
-                else if (min < int.MaxValue && max2 < min * i)
-                {
-                    max2 = min * i;
-                }
+                if(arints.Count < 3) throw new Exception("Insufficient Vespine Gas");
 
-                if (max > int.MinValue && min2 > max * i)
+                if (i > 2)
                 {
-                    min2 = max * i;
-                } else if (min < int.MaxValue && min2 > min * i)
-                {
-                    min2 = max * i;
+                    max3 = Math.Max(max3, Math.Max(max2 * arints[i], min2 * arints[i]));
                 }
-
-                
-                if (min2 < int.MaxValue && max3 < min2 * i)
+                if (i > 1)
                 {
-                    max3 = min2 * i;
+                    max2 = Math.Max(max2, Math.Max(max * arints[i], min * arints[i]));
+                    min2 = Math.Min(min2, Math.Min(max * arints[i], min * arints[i]));
                 }
-                if (max2 > int.MinValue && max3 < max2 * i)
-                {
-                    max3 = max2 * i;
-                }
-                
-                
-                Console.WriteLine(max);
-                Console.WriteLine(max2);
-                Console.WriteLine(max3);
-                Console.WriteLine(min);
-                Console.WriteLine(min2);
-                Console.WriteLine();
+                max = Math.Max(max, arints[i]);
+                min = Math.Min(min, arints[i]);
             }
             
             return max3;
