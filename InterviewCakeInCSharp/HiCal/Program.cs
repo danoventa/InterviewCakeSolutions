@@ -32,7 +32,12 @@ namespace HiCal
                 Console.WriteLine(Convert.ToString(meeting.StartTime) + " - " + Convert.ToString(meeting.EndTime));
             }
             var mergedMeetingsNew = MergeRangeNew(initialMeetings);
-            foreach (var meeting in mergedMeetingsOverlap)
+            foreach (var meeting in mergedMeetingsNew)
+            {
+                Console.WriteLine(Convert.ToString(meeting.StartTime) + " - " + Convert.ToString(meeting.EndTime));
+            }
+            var mergedMeetingsLinq = MergeRangeLinq(initialMeetings);
+            foreach (var meeting in mergedMeetingsLinq)
             {
                 Console.WriteLine(Convert.ToString(meeting.StartTime) + " - " + Convert.ToString(meeting.EndTime));
             }
