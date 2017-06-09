@@ -40,7 +40,21 @@ namespace HiCal
 
         public static List<Meeting> MergeRangeLinq(List<Meeting> meetings)
         {
-            
+            var orderedMeetings = meetings.OrderBy(m => m.StartTime).ToList();
+            var currentMeeting = orderedMeetings[0];
+            var returnedMeetings = new List<Meeting>();
+            foreach (var meeting in orderedMeetings)
+            {
+                if (currentMeeting.EndTime > meeting.StartTime)
+                {
+                    currentMeeting.EndTime = Math.Max(currentMeeting.EndTime, meeting.EndTime);
+                    continue;
+                }
+                returnedMeetings.Add(currentMeeting);
+                currentMeeting = meeting;
+            }
+            returnedMeetings.Add(currentMeeting);
+            return returnedMeetings;
         }
 
         public static List<Meeting> MergeRangeNew(List<Meeting> meetings)
