@@ -14,7 +14,7 @@ namespace HiCal
             var meeting2 = new Meeting(3, 4);
             var meeting3 = new Meeting(8, 9);
             var meeting4 = new Meeting(9, 13);
-            var meeting5 = new Meeting(14, 15);
+            var meeting5 = new Meeting(13, 15);
             var meeting6 = new Meeting(1, 5);
             var meeting7 = new Meeting(17, 19);
 
@@ -31,6 +31,61 @@ namespace HiCal
             {
                 Console.WriteLine(Convert.ToString(meeting.StartTime) + " - " + Convert.ToString(meeting.EndTime));
             }
+            var mergedMeetingsNew = MergeRangeNew(initialMeetings);
+            foreach (var meeting in mergedMeetingsOverlap)
+            {
+                Console.WriteLine(Convert.ToString(meeting.StartTime) + " - " + Convert.ToString(meeting.EndTime));
+            }
+        }
+
+        public static List<Meeting> MergeRangeLinq(List<Meeting> meetings)
+        {
+            
+        }
+
+        public static List<Meeting> MergeRangeNew(List<Meeting> meetings)
+        {
+            var retList = new List<Meeting>();
+            var hashMap = MapMeetings(meetings);
+            var keys = hashMap.Keys.ToArray();
+            Array.Sort(keys);
+
+            var currentMerger = hashMap[keys[0]][0];
+            foreach (var key in keys)
+            {
+                var meetList = hashMap[key];
+
+                foreach (var meeting in meetList)
+                {
+                    if (currentMerger.EndTime > meeting.StartTime)
+                    {
+                        currentMerger.EndTime = Math.Max(currentMerger.EndTime, meeting.EndTime);
+                        continue;
+                    }
+                    retList.Add(currentMerger);
+                    currentMerger = meeting;
+                }
+            }
+            retList.Add(currentMerger);
+            
+            return retList;
+        }
+
+        public static Dictionary<int, List<Meeting>> MapMeetings(List<Meeting> meetings)
+        {
+            var hashMap = new Dictionary<int, List< Meeting>>();
+            foreach (var meeting in meetings)
+            {
+                var key = meeting.StartTime;
+                if (hashMap.ContainsKey(key))
+                {
+                    hashMap[key].Add(meeting);
+                    continue;
+                }
+                hashMap.Add(key, new List<Meeting>{meeting});
+                
+            }
+            return hashMap;
         }
 
         public static List<Meeting> MergeRangeOverlap(List<Meeting> meetings)
