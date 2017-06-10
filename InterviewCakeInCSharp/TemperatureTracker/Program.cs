@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Globalization;
+using System.Linq;
 using System.Runtime.CompilerServices;
 using System.Runtime.InteropServices;
 using System.Security.Cryptography.X509Certificates;
@@ -12,13 +13,13 @@ namespace TemperatureTracker
     {
         public static void Main(string[] args)
         {
-            var testList = new List<TempTracker>
+            var testList = new List<TempTracker2>
             {
-                new TempTracker(),
-                new TempTracker(),
-                new TempTracker(),
-                new TempTracker(),
-                new TempTracker()
+                new TempTracker2(),
+                new TempTracker2(),
+                new TempTracker2(),
+                new TempTracker2(),
+                new TempTracker2()
             };
             var counter = 0;
             foreach (var test in testList)
@@ -128,6 +129,64 @@ namespace TemperatureTracker
             return Math.Max(maxSum, currMax);
         }
 
+        public class TempTracker2
+        {
+            private int _Max = int.MinValue;
+            private int _Min = int.MaxValue;
+
+            private int _Sum = 0;
+            private int _Count = 0;
+
+            private double _Mean = 0.0;
+
+            private Dictionary<int, int> _TempCount = new Dictionary<int, int>();
+            private int _ModeCount = 0;
+            private int _Mode = 0;
+
+            public void Insert(int temperature)
+            {
+                if (temperature > _Max) _Max = temperature;
+                if (temperature < _Min) _Min = temperature;
+
+                _Sum += temperature;
+                _Count++;
+
+                _Mean = Math.Floor((double) _Sum / _Count);
+
+                if (_TempCount.ContainsKey(temperature))
+                {
+                    _TempCount[temperature]++;
+                }
+                else
+                {
+                    _TempCount.Add(temperature, 1);
+                }
+                if (_TempCount[temperature] > _ModeCount)
+                {
+                    _ModeCount = _TempCount[temperature];
+                    _Mode = temperature;
+                }
+            }
+
+            public int GetMax()
+            {
+                return _Max;
+            }
+            public int GetMin ()
+            {
+                return _Min;
+            }
+            public double GetMean()
+            {
+                return _Mean;
+            }
+
+            public int GetMode ()
+            {
+                return _Mode;
+            }
+        }
+        
         public class TempTracker
         {
             private int _max = int.MinValue;
