@@ -13,6 +13,8 @@ namespace MakingChange
             Console.Write(Convert.ToString(combinations) + " ");
         }
 
+        
+        
         public static int GetCombinations(int money, int[] denominations)
         {
             var maxDeno = new Dictionary<int, int>();
