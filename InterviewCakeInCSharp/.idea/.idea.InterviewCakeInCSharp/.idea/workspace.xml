@@ -45,7 +45,7 @@
       <file leaf-file-name="Program.cs" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/TemperatureTracker/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1110">
+            <state relative-caret-position="707">
               <caret line="145" column="47" lean-forward="true" selection-start-line="145" selection-start-column="47" selection-end-line="145" selection-end-column="47" />
               <folding>
                 <marker date="1497101995000" expanded="true" signature="6:248" ph="..." />
@@ -538,12 +538,12 @@
       <workItem from="1494966899646" duration="18608000" />
       <workItem from="1495391819175" duration="2730000" />
       <workItem from="1495508581686" duration="3144000" />
-      <workItem from="1495542886419" duration="28927000" />
+      <workItem from="1495542886419" duration="29323000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="92431000" />
+    <option name="totallyTimeSpent" value="92827000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1543,7 +1543,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/TemperatureTracker/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1110">
+        <state relative-caret-position="707">
           <caret line="145" column="47" lean-forward="true" selection-start-line="145" selection-start-column="47" selection-end-line="145" selection-end-column="47" />
           <folding>
             <marker date="1497101995000" expanded="true" signature="6:248" ph="..." />
