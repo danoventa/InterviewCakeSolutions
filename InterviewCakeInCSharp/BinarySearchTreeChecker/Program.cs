@@ -1,6 +1,10 @@
 ﻿using System;
+using System.Collections.Concurrent;
 using System.Collections.Generic;
 using System.ComponentModel.Design.Serialization;
+using System.Linq;
+using System.Security.AccessControl;
+using System.Xml.Xsl.Runtime;
 
 namespace BinarySearchTreeChecker
 {
@@ -8,17 +12,50 @@ namespace BinarySearchTreeChecker
     {
         public static void Main(string[] args)
         {
+            var head1 = new BinaryTreeNode(0);
+            head1.InsertLeft(1);
+            head1.InsertRight(2);
 
+            var head2 = new BinaryTreeNode(0);
+            head2.InsertLeft(1).InsertLeft(2).InsertLeft(3);
+            head2.InsertRight(4);
 
+            var head3 = new BinaryTreeNode(0);
+            head3.InsertLeft(1).InsertLeft(2);
+            head3.Left.InsertRight(3);
+            head3.InsertRight(4);
+
+            Console.WriteLine(CheckTreeBalance(head1, "head1"));
+            Console.WriteLine(CheckTreeBalance(head2, "head2"));
+            Console.WriteLine(CheckTreeBalance(head3, "head3"));
+            
+        }
+
+        public static bool CheckTreeBalance(BinaryTreeNode head, string name)
+        {
+            Console.WriteLine("In tree: " + name);
+            return _TreeBalanced(head, 0, new HashSet<int>());
+        }
+
+        private static bool _TreeBalanced(BinaryTreeNode node, int depth, HashSet<int> depths)
+        {
+            if (node.Left == null && node.Right == null)
+            {
+                depths.Add(depth);
+                if (depths.Count > 2 || depths.Max() - depths.Min() > 1) return false;
+                
+            }
+            
+            var left = node.Left == null || _TreeBalanced(node.Left, depth + 1, depths);
+            var right = node.Right == null || _TreeBalanced(node.Right, depth + 1, depths);
+            
+            return left && right;
         }
     }
-
+    
     internal class BinaryTree
     {
         public BinaryTreeNode _root { get; private set; }
-
-
-
     }
 
     internal class BinaryTreeNode
@@ -32,13 +69,13 @@ namespace BinarySearchTreeChecker
             Value = value;
         }
 
-        private BinaryTreeNode InsertLeft(int leftValue)
+        public BinaryTreeNode InsertLeft(int leftValue)
         {
             Left = new BinaryTreeNode(leftValue);
             return Left;
         }
 
-        private BinaryTreeNode InsertRight(int rightValue)
+        public BinaryTreeNode InsertRight(int rightValue)
         {
             Right = new BinaryTreeNode(rightValue);
             return Right;

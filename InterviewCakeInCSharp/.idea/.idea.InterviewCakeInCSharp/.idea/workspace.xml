@@ -42,11 +42,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Program.cs" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Program.cs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/TemperatureTracker/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="707">
-              <caret line="145" column="47" lean-forward="true" selection-start-line="145" selection-start-column="47" selection-end-line="145" selection-end-column="47" />
+              <caret line="145" column="47" lean-forward="false" selection-start-line="145" selection-start-column="47" selection-end-line="145" selection-end-column="47" />
               <folding>
                 <marker date="1497101995000" expanded="true" signature="6:248" ph="..." />
                 <marker date="1497101995000" expanded="true" signature="278:7197" ph="{...}" />
@@ -95,6 +95,29 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="Program.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/BinarySearchTreeChecker/Program.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="434">
+              <caret line="43" column="0" lean-forward="false" selection-start-line="43" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
+              <folding>
+                <marker date="1497531912000" expanded="true" signature="6:220" ph="..." />
+                <marker date="1497531912000" expanded="true" signature="255:2492" ph="{...}" />
+                <marker date="1497531912000" expanded="true" signature="284:1791" ph="{...}" />
+                <marker date="1497531912000" expanded="true" signature="337:991" ph="{...}" />
+                <marker date="1497531912000" expanded="true" signature="1070:1204" ph="{...}" />
+                <marker date="1497531912000" expanded="true" signature="1300:1785" ph="{...}" />
+                <marker date="1497531912000" expanded="true" signature="1367:1534" ph="{...}" />
+                <marker date="1497531912000" expanded="true" signature="1826:1896" ph="{...}" />
+                <marker date="1497531912000" expanded="true" signature="1931:2490" ph="{...}" />
+                <marker date="1497531912000" expanded="true" signature="2128:2175" ph="{...}" />
+                <marker date="1497531912000" expanded="true" signature="2232:2327" ph="{...}" />
+                <marker date="1497531912000" expanded="true" signature="2386:2484" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
     </leaf>
   </component>
   <component name="IdeDocumentHistory">
@@ -105,7 +128,6 @@
         <option value="$PROJECT_DIR$/nthFibonacci/Program.cs" />
         <option value="$PROJECT_DIR$/MillionGazillion/TrieNode.cs" />
         <option value="$PROJECT_DIR$/MillionGazillion/Program.cs" />
-        <option value="$PROJECT_DIR$/BinarySearchTreeChecker/Program.cs" />
         <option value="$PROJECT_DIR$/RectangularLove/Program.cs" />
         <option value="$PROJECT_DIR$/WordCloudData/Program.cs" />
         <option value="$PROJECT_DIR$/InPlaceShuffle/Program.cs" />
@@ -119,6 +141,7 @@
         <option value="$PROJECT_DIR$/HiCal/Program.cs" />
         <option value="$PROJECT_DIR$/MakingChange/Program.cs" />
         <option value="$PROJECT_DIR$/TemperatureTracker/Program.cs" />
+        <option value="$PROJECT_DIR$/BinarySearchTreeChecker/Program.cs" />
       </list>
     </option>
   </component>
@@ -216,6 +239,20 @@
               <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerNodeRider" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="InterviewCakeInCSharp (17 projects)" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BinarySearchTreeChecker" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
         <option name="show-file-system" value="false" />
         <option name="show-all-items" value="false" />
@@ -288,12 +325,12 @@
       <method />
     </configuration>
     <configuration default="false" name="MakingChange" type="DotNetProject" factoryName=".NET Project" temporary="true">
-      <option name="PROJECT_PATH" value="$PROJECT_DIR$/TemperatureTracker/TemperatureTracker.csproj" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/BinarySearchTreeChecker/BinarySearchTreeChecker.csproj" />
       <option name="PROJECT_KIND" value="Console" />
       <option name="PROJECT_TFM" value=".NETFramework,Version=v4.5" />
-      <option name="EXE_PATH" value="$PROJECT_DIR$/TemperatureTracker/bin/Debug/TemperatureTracker.exe" />
+      <option name="EXE_PATH" value="$PROJECT_DIR$/BinarySearchTreeChecker/bin/Debug/BinarySearchTreeChecker.exe" />
       <option name="PROGRAM_PARAMETERS" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/TemperatureTracker/bin/Debug" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BinarySearchTreeChecker/bin/Debug" />
       <option name="USE_MONO" value="0" />
       <option name="USE_EXTERNAL_CONSOLE" value="0" />
       <envs />
@@ -538,12 +575,12 @@
       <workItem from="1494966899646" duration="18608000" />
       <workItem from="1495391819175" duration="2730000" />
       <workItem from="1495508581686" duration="3144000" />
-      <workItem from="1495542886419" duration="29323000" />
+      <workItem from="1495542886419" duration="30578000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="92827000" />
+    <option name="totallyTimeSpent" value="94082000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -562,7 +599,7 @@
       <window_info id="Errors In Solution" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32901296" sideWeight="0.50238097" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Unit Tests" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32901296" sideWeight="0.49761903" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.11266202" sideWeight="0.49761903" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.11266202" sideWeight="0.49761903" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="NuGet" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -1240,13 +1277,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/BinarySearchTreeChecker/Program.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/.local/share/JetBrains/Shared/v08/DecompilerCache/decompiler/8F2C4843-0728-4B51-944A-1A13A14C0266/a1/8522f4ac/Int32.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
@@ -1544,7 +1574,7 @@
     <entry file="file://$PROJECT_DIR$/TemperatureTracker/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="707">
-          <caret line="145" column="47" lean-forward="true" selection-start-line="145" selection-start-column="47" selection-end-line="145" selection-end-column="47" />
+          <caret line="145" column="47" lean-forward="false" selection-start-line="145" selection-start-column="47" selection-end-line="145" selection-end-column="47" />
           <folding>
             <marker date="1497101995000" expanded="true" signature="6:248" ph="..." />
             <marker date="1497101995000" expanded="true" signature="278:7197" ph="{...}" />
@@ -1588,6 +1618,27 @@
             <marker date="1497101995000" expanded="true" signature="6935:6992" ph="{...}" />
             <marker date="1497101995000" expanded="true" signature="7026:7084" ph="{...}" />
             <marker date="1497101995000" expanded="true" signature="7121:7179" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BinarySearchTreeChecker/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="434">
+          <caret line="43" column="0" lean-forward="false" selection-start-line="43" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
+          <folding>
+            <marker date="1497531912000" expanded="true" signature="6:220" ph="..." />
+            <marker date="1497531912000" expanded="true" signature="255:2492" ph="{...}" />
+            <marker date="1497531912000" expanded="true" signature="284:1791" ph="{...}" />
+            <marker date="1497531912000" expanded="true" signature="337:991" ph="{...}" />
+            <marker date="1497531912000" expanded="true" signature="1070:1204" ph="{...}" />
+            <marker date="1497531912000" expanded="true" signature="1300:1785" ph="{...}" />
+            <marker date="1497531912000" expanded="true" signature="1367:1534" ph="{...}" />
+            <marker date="1497531912000" expanded="true" signature="1826:1896" ph="{...}" />
+            <marker date="1497531912000" expanded="true" signature="1931:2490" ph="{...}" />
+            <marker date="1497531912000" expanded="true" signature="2128:2175" ph="{...}" />
+            <marker date="1497531912000" expanded="true" signature="2232:2327" ph="{...}" />
+            <marker date="1497531912000" expanded="true" signature="2386:2484" ph="{...}" />
           </folding>
         </state>
       </provider>
