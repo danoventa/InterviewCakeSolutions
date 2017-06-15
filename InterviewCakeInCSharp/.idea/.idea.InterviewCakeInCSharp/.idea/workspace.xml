@@ -98,21 +98,21 @@
       <file leaf-file-name="Program.cs" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/BinarySearchTreeChecker/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="434">
-              <caret line="43" column="0" lean-forward="false" selection-start-line="43" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
+            <state relative-caret-position="275">
+              <caret line="41" column="0" lean-forward="false" selection-start-line="41" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
               <folding>
-                <marker date="1497531912000" expanded="true" signature="6:220" ph="..." />
-                <marker date="1497531912000" expanded="true" signature="255:2492" ph="{...}" />
-                <marker date="1497531912000" expanded="true" signature="284:1791" ph="{...}" />
-                <marker date="1497531912000" expanded="true" signature="337:991" ph="{...}" />
-                <marker date="1497531912000" expanded="true" signature="1070:1204" ph="{...}" />
-                <marker date="1497531912000" expanded="true" signature="1300:1785" ph="{...}" />
-                <marker date="1497531912000" expanded="true" signature="1367:1534" ph="{...}" />
-                <marker date="1497531912000" expanded="true" signature="1826:1896" ph="{...}" />
-                <marker date="1497531912000" expanded="true" signature="1931:2490" ph="{...}" />
-                <marker date="1497531912000" expanded="true" signature="2128:2175" ph="{...}" />
-                <marker date="1497531912000" expanded="true" signature="2232:2327" ph="{...}" />
-                <marker date="1497531912000" expanded="true" signature="2386:2484" ph="{...}" />
+                <marker date="1497532714000" expanded="true" signature="6:220" ph="..." />
+                <marker date="1497532714000" expanded="true" signature="255:3074" ph="{...}" />
+                <marker date="1497532714000" expanded="true" signature="284:2373" ph="{...}" />
+                <marker date="1497532714000" expanded="true" signature="337:1573" ph="{...}" />
+                <marker date="1497532714000" expanded="true" signature="1652:1786" ph="{...}" />
+                <marker date="1497532714000" expanded="true" signature="1882:2367" ph="{...}" />
+                <marker date="1497532714000" expanded="true" signature="1949:2116" ph="{...}" />
+                <marker date="1497532714000" expanded="true" signature="2408:2478" ph="{...}" />
+                <marker date="1497532714000" expanded="true" signature="2513:3072" ph="{...}" />
+                <marker date="1497532714000" expanded="true" signature="2710:2757" ph="{...}" />
+                <marker date="1497532714000" expanded="true" signature="2814:2909" ph="{...}" />
+                <marker date="1497532714000" expanded="true" signature="2968:3066" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -575,12 +575,12 @@
       <workItem from="1494966899646" duration="18608000" />
       <workItem from="1495391819175" duration="2730000" />
       <workItem from="1495508581686" duration="3144000" />
-      <workItem from="1495542886419" duration="30578000" />
+      <workItem from="1495542886419" duration="31375000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="94082000" />
+    <option name="totallyTimeSpent" value="94879000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1624,21 +1624,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/BinarySearchTreeChecker/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="434">
-          <caret line="43" column="0" lean-forward="false" selection-start-line="43" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
+        <state relative-caret-position="275">
+          <caret line="41" column="0" lean-forward="false" selection-start-line="41" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
           <folding>
-            <marker date="1497531912000" expanded="true" signature="6:220" ph="..." />
-            <marker date="1497531912000" expanded="true" signature="255:2492" ph="{...}" />
-            <marker date="1497531912000" expanded="true" signature="284:1791" ph="{...}" />
-            <marker date="1497531912000" expanded="true" signature="337:991" ph="{...}" />
-            <marker date="1497531912000" expanded="true" signature="1070:1204" ph="{...}" />
-            <marker date="1497531912000" expanded="true" signature="1300:1785" ph="{...}" />
-            <marker date="1497531912000" expanded="true" signature="1367:1534" ph="{...}" />
-            <marker date="1497531912000" expanded="true" signature="1826:1896" ph="{...}" />
-            <marker date="1497531912000" expanded="true" signature="1931:2490" ph="{...}" />
-            <marker date="1497531912000" expanded="true" signature="2128:2175" ph="{...}" />
-            <marker date="1497531912000" expanded="true" signature="2232:2327" ph="{...}" />
-            <marker date="1497531912000" expanded="true" signature="2386:2484" ph="{...}" />
+            <marker date="1497532714000" expanded="true" signature="6:220" ph="..." />
+            <marker date="1497532714000" expanded="true" signature="255:3074" ph="{...}" />
+            <marker date="1497532714000" expanded="true" signature="284:2373" ph="{...}" />
+            <marker date="1497532714000" expanded="true" signature="337:1573" ph="{...}" />
+            <marker date="1497532714000" expanded="true" signature="1652:1786" ph="{...}" />
+            <marker date="1497532714000" expanded="true" signature="1882:2367" ph="{...}" />
+            <marker date="1497532714000" expanded="true" signature="1949:2116" ph="{...}" />
+            <marker date="1497532714000" expanded="true" signature="2408:2478" ph="{...}" />
+            <marker date="1497532714000" expanded="true" signature="2513:3072" ph="{...}" />
+            <marker date="1497532714000" expanded="true" signature="2710:2757" ph="{...}" />
+            <marker date="1497532714000" expanded="true" signature="2814:2909" ph="{...}" />
+            <marker date="1497532714000" expanded="true" signature="2968:3066" ph="{...}" />
           </folding>
         </state>
       </provider>

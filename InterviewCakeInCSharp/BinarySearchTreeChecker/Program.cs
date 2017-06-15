@@ -25,10 +25,20 @@ namespace BinarySearchTreeChecker
             head3.Left.InsertRight(3);
             head3.InsertRight(4);
 
-            Console.WriteLine(CheckTreeBalance(head1, "head1"));
-            Console.WriteLine(CheckTreeBalance(head2, "head2"));
-            Console.WriteLine(CheckTreeBalance(head3, "head3"));
+            var head4 = new BinaryTreeNode(0);
+            head4.InsertLeft(1).InsertLeft(2).InsertLeft(3);
+            head4.InsertRight(4).InsertLeft(5).InsertRight(6);
+
+            var head5 = new BinaryTreeNode(0);
+            head5.InsertLeft(1).InsertLeft(2).InsertLeft(3).InsertLeft(4);
+            head5.InsertRight(5).InsertRight(6).InsertRight(7).InsertRight(8);
+            head5.Right.InsertLeft(9);
             
+            Console.WriteLine(CheckTreeBalance(head1, "head1")); // true
+            Console.WriteLine(CheckTreeBalance(head2, "head2")); // false
+            Console.WriteLine(CheckTreeBalance(head3, "head3")); //true
+            Console.WriteLine(CheckTreeBalance(head4, "head4")); //true
+            Console.WriteLine(CheckTreeBalance(head5, "head5")); // false
         }
 
         public static bool CheckTreeBalance(BinaryTreeNode head, string name)
