@@ -95,11 +95,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Program.cs" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Program.cs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/BinarySearchTreeChecker/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="275">
-              <caret line="41" column="0" lean-forward="false" selection-start-line="41" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
+            <state relative-caret-position="82">
+              <caret line="47" column="9" lean-forward="false" selection-start-line="47" selection-start-column="9" selection-end-line="47" selection-end-column="9" />
               <folding>
                 <marker date="1497532714000" expanded="true" signature="6:220" ph="..." />
                 <marker date="1497532714000" expanded="true" signature="255:3074" ph="{...}" />
@@ -113,6 +113,32 @@
                 <marker date="1497532714000" expanded="true" signature="2710:2757" ph="{...}" />
                 <marker date="1497532714000" expanded="true" signature="2814:2909" ph="{...}" />
                 <marker date="1497532714000" expanded="true" signature="2968:3066" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Program.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/SecondLargestBST/Program.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="480">
+              <caret line="32" column="66" lean-forward="false" selection-start-line="32" selection-start-column="66" selection-end-line="32" selection-end-column="66" />
+              <folding>
+                <marker date="1497618246000" expanded="true" signature="6:86" ph="..." />
+                <marker date="1497618246000" expanded="true" signature="114:2422" ph="{...}" />
+                <marker date="1497618246000" expanded="true" signature="143:1818" ph="{...}" />
+                <marker date="1497618246000" expanded="true" signature="196:1135" ph="{...}" />
+                <marker date="1497618246000" expanded="true" signature="892:997" ph="{...}" />
+                <marker date="1497618246000" expanded="true" signature="1028:1113" ph="{...}" />
+                <marker date="1497618246000" expanded="true" signature="1204:1812" ph="{...}" />
+                <marker date="1497618246000" expanded="true" signature="1239:1802" ph="{...}" />
+                <marker date="1497618246000" expanded="true" signature="1370:1540" ph="{...}" />
+                <marker date="1497618246000" expanded="true" signature="1580:1753" ph="{...}" />
+                <marker date="1497618246000" expanded="true" signature="1648:1735" ph="{...}" />
+                <marker date="1497618246000" expanded="true" signature="1861:2420" ph="{...}" />
+                <marker date="1497618246000" expanded="true" signature="2058:2105" ph="{...}" />
+                <marker date="1497618246000" expanded="true" signature="2162:2257" ph="{...}" />
+                <marker date="1497618246000" expanded="true" signature="2316:2414" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -142,6 +168,7 @@
         <option value="$PROJECT_DIR$/MakingChange/Program.cs" />
         <option value="$PROJECT_DIR$/TemperatureTracker/Program.cs" />
         <option value="$PROJECT_DIR$/BinarySearchTreeChecker/Program.cs" />
+        <option value="$PROJECT_DIR$/SecondLargestBST/Program.cs" />
       </list>
     </option>
   </component>
@@ -179,7 +206,7 @@
               <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="InterviewCakeInCSharp (17 projects)" />
+              <option name="myItemId" value="InterviewCakeInCSharp (18 projects)" />
               <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerNodeRider" />
             </PATH_ELEMENT>
           </PATH>
@@ -189,7 +216,7 @@
               <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="InterviewCakeInCSharp (17 projects)" />
+              <option name="myItemId" value="InterviewCakeInCSharp (18 projects)" />
               <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerNodeRider" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -203,7 +230,7 @@
               <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="InterviewCakeInCSharp (17 projects)" />
+              <option name="myItemId" value="InterviewCakeInCSharp (18 projects)" />
               <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerNodeRider" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -217,7 +244,7 @@
               <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="InterviewCakeInCSharp (17 projects)" />
+              <option name="myItemId" value="InterviewCakeInCSharp (18 projects)" />
               <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerNodeRider" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -231,7 +258,7 @@
               <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="InterviewCakeInCSharp (17 projects)" />
+              <option name="myItemId" value="InterviewCakeInCSharp (18 projects)" />
               <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerNodeRider" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -245,7 +272,7 @@
               <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="InterviewCakeInCSharp (17 projects)" />
+              <option name="myItemId" value="InterviewCakeInCSharp (18 projects)" />
               <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerNodeRider" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -325,12 +352,12 @@
       <method />
     </configuration>
     <configuration default="false" name="MakingChange" type="DotNetProject" factoryName=".NET Project" temporary="true">
-      <option name="PROJECT_PATH" value="$PROJECT_DIR$/BinarySearchTreeChecker/BinarySearchTreeChecker.csproj" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/SecondLargestBST/SecondLargestBST.csproj" />
       <option name="PROJECT_KIND" value="Console" />
       <option name="PROJECT_TFM" value=".NETFramework,Version=v4.5" />
-      <option name="EXE_PATH" value="$PROJECT_DIR$/BinarySearchTreeChecker/bin/Debug/BinarySearchTreeChecker.exe" />
+      <option name="EXE_PATH" value="$PROJECT_DIR$/SecondLargestBST/bin/Debug/SecondLargestBST.exe" />
       <option name="PROGRAM_PARAMETERS" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BinarySearchTreeChecker/bin/Debug" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SecondLargestBST/bin/Debug" />
       <option name="USE_MONO" value="0" />
       <option name="USE_EXTERNAL_CONSOLE" value="0" />
       <envs />
@@ -575,12 +602,12 @@
       <workItem from="1494966899646" duration="18608000" />
       <workItem from="1495391819175" duration="2730000" />
       <workItem from="1495508581686" duration="3144000" />
-      <workItem from="1495542886419" duration="31375000" />
+      <workItem from="1495542886419" duration="33233000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="94879000" />
+    <option name="totallyTimeSpent" value="96737000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1624,8 +1651,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/BinarySearchTreeChecker/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="275">
-          <caret line="41" column="0" lean-forward="false" selection-start-line="41" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
+        <state relative-caret-position="82">
+          <caret line="47" column="9" lean-forward="false" selection-start-line="47" selection-start-column="9" selection-end-line="47" selection-end-column="9" />
           <folding>
             <marker date="1497532714000" expanded="true" signature="6:220" ph="..." />
             <marker date="1497532714000" expanded="true" signature="255:3074" ph="{...}" />
@@ -1639,6 +1666,30 @@
             <marker date="1497532714000" expanded="true" signature="2710:2757" ph="{...}" />
             <marker date="1497532714000" expanded="true" signature="2814:2909" ph="{...}" />
             <marker date="1497532714000" expanded="true" signature="2968:3066" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SecondLargestBST/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="32" column="66" lean-forward="false" selection-start-line="32" selection-start-column="66" selection-end-line="32" selection-end-column="66" />
+          <folding>
+            <marker date="1497618246000" expanded="true" signature="6:86" ph="..." />
+            <marker date="1497618246000" expanded="true" signature="114:2422" ph="{...}" />
+            <marker date="1497618246000" expanded="true" signature="143:1818" ph="{...}" />
+            <marker date="1497618246000" expanded="true" signature="196:1135" ph="{...}" />
+            <marker date="1497618246000" expanded="true" signature="892:997" ph="{...}" />
+            <marker date="1497618246000" expanded="true" signature="1028:1113" ph="{...}" />
+            <marker date="1497618246000" expanded="true" signature="1204:1812" ph="{...}" />
+            <marker date="1497618246000" expanded="true" signature="1239:1802" ph="{...}" />
+            <marker date="1497618246000" expanded="true" signature="1370:1540" ph="{...}" />
+            <marker date="1497618246000" expanded="true" signature="1580:1753" ph="{...}" />
+            <marker date="1497618246000" expanded="true" signature="1648:1735" ph="{...}" />
+            <marker date="1497618246000" expanded="true" signature="1861:2420" ph="{...}" />
+            <marker date="1497618246000" expanded="true" signature="2058:2105" ph="{...}" />
+            <marker date="1497618246000" expanded="true" signature="2162:2257" ph="{...}" />
+            <marker date="1497618246000" expanded="true" signature="2316:2414" ph="{...}" />
           </folding>
         </state>
       </provider>

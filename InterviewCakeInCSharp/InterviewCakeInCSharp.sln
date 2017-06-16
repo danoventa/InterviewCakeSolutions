@@ -37,6 +37,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProductOfAllOtherNumbers", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HIghestProductOf3", "HIghestProductOf3\HIghestProductOf3.csproj", "{6096C0AE-5746-482E-8C4D-EC8CD7C81642}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SecondLargestBST", "SecondLargestBST\SecondLargestBST.csproj", "{D396E721-FA71-4852-964E-99463A0C3A33}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -111,6 +113,10 @@ Global
 		{6096C0AE-5746-482E-8C4D-EC8CD7C81642}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6096C0AE-5746-482E-8C4D-EC8CD7C81642}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6096C0AE-5746-482E-8C4D-EC8CD7C81642}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D396E721-FA71-4852-964E-99463A0C3A33}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D396E721-FA71-4852-964E-99463A0C3A33}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D396E721-FA71-4852-964E-99463A0C3A33}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D396E721-FA71-4852-964E-99463A0C3A33}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

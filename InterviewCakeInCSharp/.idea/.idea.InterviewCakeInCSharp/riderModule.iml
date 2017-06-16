@@ -12,6 +12,7 @@
       <sourceFolder url="file://$MODULE_DIR$/../../nthFibonacci" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/../../ProductOfAllOtherNumbers" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/../../RectangularLove" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../SecondLargestBST" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/../../SevenSidedDie" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/../../ShuffleDeck" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/../../StockPricesYesterday" isTestSource="false" />
@@ -37,6 +38,8 @@
       <excludeFolder url="file://$MODULE_DIR$/../../ProductOfAllOtherNumbers/obj" />
       <excludeFolder url="file://$MODULE_DIR$/../../RectangularLove/bin" />
       <excludeFolder url="file://$MODULE_DIR$/../../RectangularLove/obj" />
+      <excludeFolder url="file://$MODULE_DIR$/../../SecondLargestBST/bin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../SecondLargestBST/obj" />
       <excludeFolder url="file://$MODULE_DIR$/../../SevenSidedDie/bin" />
       <excludeFolder url="file://$MODULE_DIR$/../../SevenSidedDie/obj" />
       <excludeFolder url="file://$MODULE_DIR$/../../ShuffleDeck/bin" />
