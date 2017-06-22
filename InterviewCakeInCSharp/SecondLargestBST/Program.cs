@@ -19,6 +19,10 @@ namespace SecondLargestBST
             
             var head4 = new BinaryTreeNode(0); // Error, only 1
 
+            var s = "string strin string";
+            var b = s[0] == s.ToUpper()[0];
+            Console.WriteLine(b);
+            
             // var head5 = null; // error, node is null
             
             Console.WriteLine("Tree 1: " + SecondLargestElement(head1));

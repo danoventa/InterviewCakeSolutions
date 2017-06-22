@@ -3,3 +3,5 @@
 /Users/temogen/Documents/Github/InterviewCakeSolutions/InterviewCakeInCSharp/SecondLargestBST/bin/Debug/SecondLargestBST.exe
 /Users/temogen/Documents/Github/InterviewCakeSolutions/InterviewCakeInCSharp/SecondLargestBST/obj/Debug/SecondLargestBST.exe
 /Users/temogen/Documents/Github/InterviewCakeSolutions/InterviewCakeInCSharp/SecondLargestBST/obj/Debug/SecondLargestBST.exe.mdb
+/Users/temogen/Documents/Github/InterviewCakeSolutions/InterviewCakeInCSharp/SecondLargestBST/bin/Debug/SecondLargestBST.pdb
+/Users/temogen/Documents/Github/InterviewCakeSolutions/InterviewCakeInCSharp/SecondLargestBST/obj/Debug/SecondLargestBST.pdb
