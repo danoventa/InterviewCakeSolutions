@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using static System.Tuple;
 using System.Runtime.InteropServices;
 using System.Security.Cryptography;
 
@@ -19,8 +20,22 @@ namespace nthFibonacci
             Console.WriteLine(Convert.ToString(nthFiboCalculated(nth))); // recursive probs want to ameliorate
             // learn how do matrix multipliction to drop this down to log n
             Console.WriteLine(Convert.ToString(nthFiboRecursive(nth))); // recursive probs want to ameliorate
+            Console.WriteLine(Convert.ToString(Fibonacci(nth))); // recursive probs want to ameliorate
         }
 
+        public int Fibonacci(int x)
+        {
+            if (x < 0) throw new ArgumentException("Less negativity please!", nameof(x));
+            return Fib(x).current;
+
+            (int current, int previous) Fib(int i)
+            {
+                if (i == 0) return (1, 0);
+                var (p, pp) = Fib(i - 1);
+                return (p + pp, p);
+            }
+        }
+        
         private static int dictionaryCheck(int number, Dictionary<int, int> visited)
         {
             int value;
