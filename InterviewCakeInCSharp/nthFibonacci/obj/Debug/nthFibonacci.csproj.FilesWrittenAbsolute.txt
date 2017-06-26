@@ -3,3 +3,6 @@
 /Users/temogen/Documents/Github/InterviewCakeSolutions/InterviewCakeInCSharp/nthFibonacci/bin/Debug/nthFibonacci.exe
 /Users/temogen/Documents/Github/InterviewCakeSolutions/InterviewCakeInCSharp/nthFibonacci/obj/Debug/nthFibonacci.exe
 /Users/temogen/Documents/Github/InterviewCakeSolutions/InterviewCakeInCSharp/nthFibonacci/obj/Debug/nthFibonacci.exe.mdb
+/Users/temogen/Documents/Github/InterviewCakeSolutions/InterviewCakeInCSharp/nthFibonacci/bin/Debug/nthFibonacci.pdb
+/Users/temogen/Documents/Github/InterviewCakeSolutions/InterviewCakeInCSharp/nthFibonacci/obj/Debug/nthFibonacci.pdb
+/Users/temogen/Documents/Github/InterviewCakeSolutions/InterviewCakeInCSharp/nthFibonacci/bin/Debug/System.ValueTuple.dll

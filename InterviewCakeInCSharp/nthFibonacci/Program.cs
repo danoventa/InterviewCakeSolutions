@@ -1,6 +1,5 @@
 ﻿using System;
 using System.Collections.Generic;
-using static System.Tuple;
 using System.Runtime.InteropServices;
 using System.Security.Cryptography;
 
@@ -11,7 +10,7 @@ namespace nthFibonacci
         private static double phi = (1 + Math.Sqrt(5)) / 2;
         public static void Main(string[] args)
         {
-            const int nth = 45;
+            const int nth = 5;
 
             // fib of 1 = 1
             //
@@ -20,10 +19,10 @@ namespace nthFibonacci
             Console.WriteLine(Convert.ToString(nthFiboCalculated(nth))); // recursive probs want to ameliorate
             // learn how do matrix multipliction to drop this down to log n
             Console.WriteLine(Convert.ToString(nthFiboRecursive(nth))); // recursive probs want to ameliorate
-            Console.WriteLine(Convert.ToString(Fibonacci(nth))); // recursive probs want to ameliorate
+            Console.WriteLine(Convert.ToString(Convert.ToString(Fibonacci(nth)))); // recursive probs want to ameliorate
         }
 
-        public int Fibonacci(int x)
+        public static int Fibonacci(int x)
         {
             if (x < 0) throw new ArgumentException("Less negativity please!", nameof(x));
             return Fib(x).current;

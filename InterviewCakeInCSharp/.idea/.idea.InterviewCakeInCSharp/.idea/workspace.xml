@@ -144,24 +144,24 @@
       <file leaf-file-name="Program.cs" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/nthFibonacci/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="58">
-              <caret line="4" column="35" lean-forward="true" selection-start-line="4" selection-start-column="35" selection-end-line="4" selection-end-column="35" />
+            <state relative-caret-position="288">
+              <caret line="23" column="0" lean-forward="true" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
               <folding>
-                <marker date="1498419784000" expanded="true" signature="6:148" ph="..." />
-                <marker date="1498419784000" expanded="true" signature="172:2516" ph="{...}" />
-                <marker date="1498419784000" expanded="true" signature="201:2514" ph="{...}" />
-                <marker date="1498419784000" expanded="true" signature="314:898" ph="{...}" />
-                <marker date="1498419784000" expanded="true" signature="370:488" ph="/* fib of 1 = 1 ... */" />
-                <marker date="1498419784000" expanded="true" signature="935:1281" ph="{...}" />
-                <marker date="1498419784000" expanded="true" signature="1375:1559" ph="{...}" />
-                <marker date="1498419784000" expanded="true" signature="1464:1522" ph="{...}" />
-                <marker date="1498419784000" expanded="true" signature="1652:2185" ph="{...}" />
-                <marker date="1498419784000" expanded="true" signature="1691:1745" ph="{...}" />
-                <marker date="1498419784000" expanded="true" signature="1774:1828" ph="{...}" />
-                <marker date="1498419784000" expanded="true" signature="1857:1911" ph="{...}" />
-                <marker date="1498419784000" expanded="true" signature="2005:2064" ph="{...}" />
-                <marker date="1498419784000" expanded="true" signature="2242:2341" ph="{...}" />
-                <marker date="1498419784000" expanded="true" signature="2398:2508" ph="{...}" />
+                <marker date="1498446459000" expanded="true" signature="6:121" ph="..." />
+                <marker date="1498446459000" expanded="true" signature="145:2513" ph="{...}" />
+                <marker date="1498446459000" expanded="true" signature="174:2511" ph="{...}" />
+                <marker date="1498446459000" expanded="true" signature="287:888" ph="{...}" />
+                <marker date="1498446459000" expanded="true" signature="342:460" ph="/* fib of 1 = 1 ... */" />
+                <marker date="1498446459000" expanded="true" signature="932:1278" ph="{...}" />
+                <marker date="1498446459000" expanded="true" signature="1372:1556" ph="{...}" />
+                <marker date="1498446459000" expanded="true" signature="1461:1519" ph="{...}" />
+                <marker date="1498446459000" expanded="true" signature="1649:2182" ph="{...}" />
+                <marker date="1498446459000" expanded="true" signature="1688:1742" ph="{...}" />
+                <marker date="1498446459000" expanded="true" signature="1771:1825" ph="{...}" />
+                <marker date="1498446459000" expanded="true" signature="1854:1908" ph="{...}" />
+                <marker date="1498446459000" expanded="true" signature="2002:2061" ph="{...}" />
+                <marker date="1498446459000" expanded="true" signature="2239:2338" ph="{...}" />
+                <marker date="1498446459000" expanded="true" signature="2395:2505" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -570,12 +570,12 @@
       <workItem from="1495391819175" duration="2730000" />
       <workItem from="1495508581686" duration="3144000" />
       <workItem from="1495542886419" duration="33426000" />
-      <workItem from="1497833861785" duration="1481000" />
+      <workItem from="1497833861785" duration="2962000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="98411000" />
+    <option name="totallyTimeSpent" value="99892000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -594,12 +594,12 @@
       <window_info id="Errors In Solution" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32901296" sideWeight="0.50238097" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Unit Tests" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32901296" sideWeight="0.49761903" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.11266202" sideWeight="0.49761903" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.11266202" sideWeight="0.49761903" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="NuGet" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="NuGet" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32901296" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19702381" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Build" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32901296" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32901296" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -625,7 +625,7 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="3" />
+      <option name="time" value="4" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -1414,24 +1414,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/nthFibonacci/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="58">
-          <caret line="4" column="35" lean-forward="true" selection-start-line="4" selection-start-column="35" selection-end-line="4" selection-end-column="35" />
+        <state relative-caret-position="288">
+          <caret line="23" column="0" lean-forward="true" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
           <folding>
-            <marker date="1498419784000" expanded="true" signature="6:148" ph="..." />
-            <marker date="1498419784000" expanded="true" signature="172:2516" ph="{...}" />
-            <marker date="1498419784000" expanded="true" signature="201:2514" ph="{...}" />
-            <marker date="1498419784000" expanded="true" signature="314:898" ph="{...}" />
-            <marker date="1498419784000" expanded="true" signature="370:488" ph="/* fib of 1 = 1 ... */" />
-            <marker date="1498419784000" expanded="true" signature="935:1281" ph="{...}" />
-            <marker date="1498419784000" expanded="true" signature="1375:1559" ph="{...}" />
-            <marker date="1498419784000" expanded="true" signature="1464:1522" ph="{...}" />
-            <marker date="1498419784000" expanded="true" signature="1652:2185" ph="{...}" />
-            <marker date="1498419784000" expanded="true" signature="1691:1745" ph="{...}" />
-            <marker date="1498419784000" expanded="true" signature="1774:1828" ph="{...}" />
-            <marker date="1498419784000" expanded="true" signature="1857:1911" ph="{...}" />
-            <marker date="1498419784000" expanded="true" signature="2005:2064" ph="{...}" />
-            <marker date="1498419784000" expanded="true" signature="2242:2341" ph="{...}" />
-            <marker date="1498419784000" expanded="true" signature="2398:2508" ph="{...}" />
+            <marker date="1498446459000" expanded="true" signature="6:121" ph="..." />
+            <marker date="1498446459000" expanded="true" signature="145:2513" ph="{...}" />
+            <marker date="1498446459000" expanded="true" signature="174:2511" ph="{...}" />
+            <marker date="1498446459000" expanded="true" signature="287:888" ph="{...}" />
+            <marker date="1498446459000" expanded="true" signature="342:460" ph="/* fib of 1 = 1 ... */" />
+            <marker date="1498446459000" expanded="true" signature="932:1278" ph="{...}" />
+            <marker date="1498446459000" expanded="true" signature="1372:1556" ph="{...}" />
+            <marker date="1498446459000" expanded="true" signature="1461:1519" ph="{...}" />
+            <marker date="1498446459000" expanded="true" signature="1649:2182" ph="{...}" />
+            <marker date="1498446459000" expanded="true" signature="1688:1742" ph="{...}" />
+            <marker date="1498446459000" expanded="true" signature="1771:1825" ph="{...}" />
+            <marker date="1498446459000" expanded="true" signature="1854:1908" ph="{...}" />
+            <marker date="1498446459000" expanded="true" signature="2002:2061" ph="{...}" />
+            <marker date="1498446459000" expanded="true" signature="2239:2338" ph="{...}" />
+            <marker date="1498446459000" expanded="true" signature="2395:2505" ph="{...}" />
           </folding>
         </state>
       </provider>
